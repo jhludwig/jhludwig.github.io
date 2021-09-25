@@ -1,0 +1,12 @@
+---
+title: "Recent Books -- An American Tragedy, Beginner&#039;s Greek, Big Russ and Me"
+date: "2008-08-13"
+tags: 
+  - "amazon"
+  - "ambition"
+  - "autobiography"
+  - "books"
+  - "recent-books"
+---
+
+\* "An American Tragedy":amazon by Theodore Dreiser. A compelling story of overreaching ambition, lust, and tragedy. But oh my gosh could it have used an editor -- needs to be about 40% shorter. The whole first book establishing the lustful ambition of the protagonist should have been a chapter. \* "Beginner's Greek":amazon by James Collins. Entertaining comic romance. Light and breezy, appealing leads. \* "Big Russ and Me":amazon by Tim Russert. A light autobiography, particularly poignant in light of Russert's untimely passing. No deep messages but solid life lessons and makes you sorry that Russert is gone.

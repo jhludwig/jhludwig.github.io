@@ -1,0 +1,10 @@
+---
+title: "I just paved over my last Windows install"
+date: "2014-10-20"
+---
+
+I've kept a home-built Windows box around for years tho most of my work has shifted to Apple and Linux platforms. But I still had some strange emotional tie, and I still played a Steam game on a regular basis.
+
+But as you can tell from my lack of posting, real work has displaced blogging and game-playing. And the unusability of Windows 8 broke any other attachment I had.
+
+I needed another Ubuntu box for testing, so I just paved over Windows 8 tonight. No real sadness, I left the platform long ago, but still a passing. I had a nice beer and we watched "The Good Wife" to celebrate.

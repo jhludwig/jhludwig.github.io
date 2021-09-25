@@ -1,0 +1,18 @@
+---
+title: "Why/what men read"
+date: "2006-04-07"
+tags: 
+  - "books"
+---
+
+via [hitormiss](http://www.hitormiss.org/2006/04/06/the-books-that-move-men/), the [books that move men -- analysis](http://books.guardian.co.uk/news/articles/0,,1747927,00.html) and [the list](http://books.guardian.co.uk/news/articles/0,,1747821,00.html). fascinating differences between the sexes.
+
+> _The novel that means most to men is about indifference, alienation and lack of emotional responses. That which means most to women is about deeply held feelings, a struggle to overcome circumstances and passion, research by the University of London has found._
+
+and
+
+> _Men's reading choices tend to identify themselves with novels that include intellectual struggle. Personal vulnerability is represented as a more or less angst-ridden struggle against convention, a sense of isolation from social normality._
+
+and
+
+> _Part of the reason for this, we decided, was that, to a far larger degree than women, men's formative reading was done between the ages of 12 and 20 - indeed, specifically around the ages of 15 and 16. For men, fiction was a rite of passage into manhood during painful adolescence._

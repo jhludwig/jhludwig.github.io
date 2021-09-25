@@ -1,0 +1,13 @@
+---
+title: "Evernote and refrigerator repair"
+date: "2012-06-01"
+tags: 
+  - "household"
+  - "tweet"
+---
+
+[![(fczuardi @ flickr)](images/freezer-fczuardi@flickr.jpg "freezer (fczuardi@flickr)")](http://theludwigs.com/wp-content/uploads/2012/05/freezer-fczuardi@flickr.jpg)Our freezer is making a funny noise. Until of course the repairman came yesterday, at which point the lying machine was on its best behavior.
+
+Evernote to the rescue, I created a new note on my phone and made an audio recording of the groan and rattle. Now I have it saved for ever, can play it back at will, email it to the tech, etc. Next time my car makes a funny noise I'll use the same trick.
+
+There is probably some other way to make an audio recording on my Nokia Lumia but it wasn't obvious, and the Evernote app is simple and gets the recording to the cloud immediately.

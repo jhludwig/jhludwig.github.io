@@ -1,0 +1,8 @@
+---
+title: "Copying banknotes"
+date: "2004-01-09"
+tags: 
+  - "usa"
+---
+
+[Hack the Planet:](http://wmf.editthispage.com/2004/01/08 "Hack the Planet:") -- The EURion constellation -- hmm the new US $20s have this. And I didn't know that Photoshop and other apps also won't let you scan and play with currency. I guess this is good tho it is a little surprising/nervewracking that the government has its hands in software and devices without our knowledge.

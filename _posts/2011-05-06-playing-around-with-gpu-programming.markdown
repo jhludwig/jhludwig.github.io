@@ -1,0 +1,17 @@
+---
+title: "Playing around with GPU programming"
+date: "2011-05-06"
+tags: 
+  - "amd"
+  - "gpu"
+  - "opencl"
+  - "science"
+  - "software"
+  - "tweet"
+---
+
+[![](images/opencl_100px.png "opencl_100px")](http://theludwigs.com/wp-content/uploads/2011/05/opencl_100px.png)Been spending a lot of time playing around with GPU programming for scientific computing the last couple weeks. Fascinating stuff, GPUs are computational beasts. Some observations:
+
+\* If you want to get into it, "GPGPU.org":http://gpgpu.org/ has boatloads of great info -- news, tools, definitions, primers, etc etc etc. The place to start. \* There is a good chance you'll end up using OpenCL as the device- and platform-independent interface to GPUs. "Khronos.org":http://www.khronos.org/ has tons of great info and in particular, the "OpenCL Reference Card":http://www.khronos.org/files/opencl-quick-reference-card.pdf. Good stuff. \* The OSX platform has awesome support for OpenCL within Xcode. Very easy to get up and going. Great sample code up at the "Apple Developer web site":http://developer.apple.com/library/mac/search/?q=opencl. \* Also tons of samples from "Nvidia":http://developer.download.nvidia.com/compute/opencl/sdk/website/samples.html. \* However...you may quickly hit a dead end on OSX because only the most expensive Mac Pros come with GPUs which will support double precision, and double precision is kind of necessary for scientific computing. Info on which Nvidia processors support double precision "here":http://en.wikipedia.org/wiki/CUDA. I could go whack around and build my own double precision math libraries for unsupported GPUs but what a pain that would be. \* So onto a PC, I happen to have one with an ATI HD 57xx which will support double precision. WAY harder to get working OpenCL code working on a Windows PC tho. After much wandering around, the "AMD SDK"http://developer.amd.com/gpu/AMDAPPSDK/Pages/default.aspx seems to be the best way to get working buildable OpenCL sample code. The most freaking obtuse make files ever tho, I am ripping them apart. But if you start with one of the sample code bases and duplicate it for your use, it works. (C++ by the way). \* However now I am currently blocked by limitations in the trig function implementations. Some discussion online that suggests that they are "single precision only":http://forums.amd.com/forum/messageview.cfm?catid=390&threadid=137564. And even the single precision results seem to have crappy precision. I will definitely have to build my own.
+
+UPDATE: a friend points out that Amazon also offers an "EC2-based instance with GPU capabilities":http://aws.amazon.com/ec2/hpc-applications/. Worth a look

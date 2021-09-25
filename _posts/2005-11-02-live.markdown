@@ -1,0 +1,14 @@
+---
+title: "Live"
+date: "2005-11-02"
+tags: 
+  - "software"
+  - "web"
+  - "windows"
+---
+
+- I tried to register ignitionlive.com but it was taken. i guess we can't enter the new "live" era.
+- I'm not saying MSFT has committed this error, but I like [Joel's definition of "the Marimba Phenomenon"](http://www.joelonsoftware.com/items/2005/11/02.html) -- _what happens when you spend more on PR and marketing than on development. "Result: everybody checks out your code, and it's not good yet. These people will be permanently convinced that your code is simple and inadequate, even if you improve it drastically later."_
+- Office Live sounds interesting -- and I wonder if it isn't a great boon for startups. By validating a [hosted intranet](http://www.edbott.com/weblog/?p=1112) offering, Microsoft is kick starting the market. If the Microsoft product isn't a homerun, someone will fill the void.
+
+Related posts: [Software roundup 10/18](http://www.theludwigs.com/2005/10/software_roundup_1018.html), [Software and service roundup](http://www.theludwigs.com/2005/10/software_and_service_roundup.html), [Software Roundup 10/5](http://www.theludwigs.com/2005/10/software_roundup_105.html)

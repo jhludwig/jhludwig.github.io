@@ -1,0 +1,8 @@
+---
+title: "Recent books -- The Atrocity Archives, The Years, Pierre and Jean, Days Between Stations"
+date: "2009-04-25"
+tags: 
+  - "books"
+---
+
+\* "The Atrocity Archives":amazon by Charles Stross. Stross writes a good tale and this is a fine story, collision of witchcraft and information tech. It is one of Stross's earliest works and a bit choppy in parts (was originally serialized I believe) but still adequate fun. Amazon gives this one 4.5 stars, I would tend a little lower -- say 3.5 stars. \* "The Years":amazon by Virginia Woolf. I guess I am not sophisticated enough for this book. I found it to be a shambling wreck. I didn't care about the people, the times, the situation. The choppy style was unreadable. I gave up 1/4 of the way through. Amazon gives this 4.5 stars too tho with few user ratings, I would give it a 1 star. People are too enamored with the author's name. \* "Pierre and Jean":amazon by Guy de Maupassant. Sin, shame, betrayal, remorse, sacrifice, blame, loss, a bit of redemption. A great little story of human foibles and the prisons we make in our own minds. Unlike the Woolf above, I'd happily read another de Maupassant. Amazon says 4.5 stars, I'd agree. \* "Days Between Stations":amazon by Steve Erickson. Pour yourself a big mug of absinthe and settle in with this one. Intriguing but strange. Amazon gives it 4.5 stars though not heavily reviewed. I'm probably a little lower but it is an intriguing book.

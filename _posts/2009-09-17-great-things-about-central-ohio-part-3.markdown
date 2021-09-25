@@ -1,0 +1,12 @@
+---
+title: "Great things about Central Ohio -- Part 3"
+date: "2009-09-17"
+tags: 
+  - "hiking"
+  - "ohio"
+  - "outdoors"
+---
+
+OK Central Ohio doesn't have a lot of huge national forests or national parks, and so at first I thought hiking opportunities were constrained.
+
+But now I've stumbled across all these "state nature preserves":http://www.dnr.state.oh.us/tabid/860/Default.aspx and some of them are pretty darned big -- plenty of ~100 acre preserves, and some huge ones -- Blackhand Gorge at 956 acres, Cedar Bog at 427 acres, Lawrence Woods at 1035 acres! I've yet to visit any of these but I will get out to at least one in the next week.

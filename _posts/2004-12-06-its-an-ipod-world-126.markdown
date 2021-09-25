@@ -1,0 +1,10 @@
+---
+title: "It&#039;s an iPod world 12/6"
+date: "2004-12-06"
+tags: 
+  - "digitalhome"
+---
+
+\* [Windley's tutorial on creating podcasts](http://www.windley.com/2004/12/03.html#a1558) \* [Satellite iPod rumors](http://peterthink.blogs.com/thinking/2004/12/satallite_ipod_.html)
+
+[Rich](http://www.tongfamily.com) and I are having a running discussion about the iPod and Apple's ability to continue to dominate this business. Certainly the development of a community of developers and partners as the above links illustrate is a powerful asset for Apple. As a 4 iPod household, I've certainly voted with my feet. But...it is not a very sticky experience, I could move all my media to a competitive player tomorrow and lose very little. A network of related apps and solutions might start to create stickiness.

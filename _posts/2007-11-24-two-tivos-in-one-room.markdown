@@ -1,0 +1,12 @@
+---
+title: "Two Tivos in one room??"
+date: "2007-11-24"
+tags: 
+  - "buckeyes"
+  - "digitalhome"
+  - "tv"
+---
+
+OK I have a problem. I am trying to set up two Tivo boxes in one room. Unfortunately they both respond to either remote, this is bad. I don't want them to both change channels, both record the current program, etc. AVSForum, TivoBlog don't seem to have any suggestions. I can do stupid things to work around this but I am looking for the elegant solution.
+
+You could ask why the hell I have 2 tivos in one room. And if you know me, you know the answer must be "Ohio State Buckeye Football" somehow. The BigTen network is only on DirecTV. But when the Buckeyes are on ABC, HD ABC is only available on comcast. Hence 2. If/when comcast resolves their BigTen network licensing issues, I can resolve this.

@@ -1,0 +1,12 @@
+---
+title: "New OSU 2016 football ticket policy announced -- this will be fun"
+date: "2014-12-05"
+---
+
+[![2688127883_0ba996ee25_z](images/2688127883_0ba996ee25_z-300x196.jpg)](http://theludwigs.com/wp-content/uploads/2014/12/2688127883_0ba996ee25_z.jpg)It has always been a bit of a mystery exactly how our season tickets are assigned. Well, mystery no more. Starting in 2016 all ticket holders will get to pick seats in priority order based on their total giving standing. The brochure that OSU sent out has a handy stadium map and an estimated number of points needed to sit in a certain area, and the giving you need to do to get those points.
+
+For example, you want 50 yard line eastside seats in the A section? 4500 points are expected to be needed, and if you haven't given a dime, your 2015 gift will convert to points at a 4% rate, so a gift of $112,500 will get you in!
+
+Prefer 50 yard line B deck? 2000 points, or $50k and you are in the bidding. C-deck end zone? A mere 100 points or a mere $2500. Your prior accrued gifts convert at a 2% rate, so those dollars still count.
+
+It will be fascinating to see a) if people rush in 2015 in buy their way up the priority ladder, and b) how much OSU goads everyone to do this. I am looking forward to the "We're sorry, but you've been pushed into C-Deck, only 30 days left in 2015 to secure your old seats" email.

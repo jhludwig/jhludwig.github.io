@@ -1,0 +1,16 @@
+---
+title: "Offshoring"
+date: "2004-03-25"
+tags: 
+  - "business"
+---
+
+Some recent posts -- [Marc Andreessen explains comparative advantage](http://jrobb.mindplex.org/2004/03/22.html#a4466) on John Robb's blog. Also goes on to explain [what the US's comparative advantages may be.](http://jrobb.mindplex.org/stories/2004/03/22/marcAndreessenOnAmericanStrengths.html) Per Tyler Cowen, [small businesses are outsourcing too](http://www.marginalrevolution.com/marginalrevolution/2004/03/outsourcing_in_.html).
+
+These mostly have me thinking about this question: What guidance should we be giving our college-age and high-school-age kids as they think about their educational and career paths? Offshoring/globalization/whatever you call it is going to be a big fact of their lives. Complaining about it is like complaining about gravity; you just have to embrace it and learn how to use it to your advantage. Some of the points of guidance I am formulating:
+
+\* Educate yourself to the top of the world. A bachelor's degree by itself doesn't cut it. Plan on a masters or phd. Take advantage of today's higher standard of living here in the US and spend more money and a longer time on education.
+
+\* Be multi-lingual. The US has historically not emphasized language education. It might be more important now.
+
+\* Consider the fusing of multiple domains in education. In a world where everyone has a batchelor's, expertise in two domains will still stand out and be valuable. Engineering AND economics, materials science AND computer science, materials science AND law, etc. I know in my own case having MSs in both business and engineering made a huge difference in the number of job offers I received as well as average salary offer -- that will only be more true in the future.

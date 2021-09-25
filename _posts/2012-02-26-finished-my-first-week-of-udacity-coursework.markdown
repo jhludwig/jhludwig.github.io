@@ -1,0 +1,11 @@
+---
+title: "Finished my first week of Udacity coursework"
+date: "2012-02-26"
+tags: 
+  - "distance-learning"
+  - "education"
+---
+
+Taking "CS373, Programming a robotic car":http://www.udacity.com/view#Course/cs373/CourseRev/feb2012/Unit/2/Nugget/1002. Don't really love the topic, but good material to practice some Python and some statistical inference. So far, the course website seems to work very well, nice intermixing of video with interaction, nice breaking of instruction into short easily consumable pieces. And seems to scale well -- in the forum, the most popular posts are approaching 4K views, so a pretty large class size, but pretty effective so far.
+
+The material is early/middle undergraduate level at this point, but purportedly will ramp up.

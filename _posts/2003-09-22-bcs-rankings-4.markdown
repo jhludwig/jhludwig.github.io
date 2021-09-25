@@ -1,0 +1,16 @@
+---
+title: "BCS Rankings"
+date: "2003-09-22"
+tags: 
+  - "buckeyes"
+---
+
+OK is it too early to start talking about BCS Rankings? Considering they don't come out until October 20th? Nah, never too early.  
+  
+I did a quick and dirty analysis tonight. ESPN has a [page](http://espn.go.com/abcsports/bcs/rankings_full/2002-2003.html) that describes the basic calculations from last year, I started from this formula, I haven't heard of changes to the formula this year. The [College Football Resource Center](http://www.cfrc.com/ "Home") and the [Massey Ratings](http://www.mratings.com/cf/compare.htm) sites have a lot of the raw computer ranking data. The Wolfe poll will not be available until 10-20; I was not able to find the NY Times computer poll today on the net yet; and the Massey BCS variant seems to be behind a subscription wall so I used the published non-BCS Massey rating (which includes margin of victory, which is not permitted in BCS polls). Also on the Sagarin site, you need to be careful and get the BCS variant, not the standard Sagarin rating.  
+  
+Also I didn't go thru all the strength of schedule calculations as this requires building a little db of every Div1 team's opponents and results, a little beyond my Excel hacking tonight. The lack of this doesn't really sway the results as it is likely only going to add a further point of difference to the scores.  
+  
+OK so today, Oklahoma (3 points) and Miami (3.67 points) would play in New Orleans. OSU (7 points) and USC (7.33) would be on the outside looking in, in a very nice Rose Bowl match I assume (tho maybe the Orange would get to poach one of these teams? Sad if so). FSU is the next closest unbeaten at 9.67 points, with the rest of the unbeatens at 12 points or more.  
+  
+This will all scramble a lot but fun to start projecting.

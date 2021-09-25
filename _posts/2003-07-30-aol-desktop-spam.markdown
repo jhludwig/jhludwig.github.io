@@ -1,0 +1,8 @@
+---
+title: "AOL desktop spam"
+date: "2003-07-30"
+tags: 
+  - "tech"
+---
+
+B@$tards at AOL spammed my desktop with all kinds of ad links for AOL Broadband, during a minor version upgrade of AOL Instant Messenger. I got a link to [AOL Broadband promo site](http://free.aol.com/tryaolfree/index.adp?promo=359339&service=aolhsb "Welcome to America Online!") stuffed into my start menu, slammed unto my links toolbar in IE, placed on my desktop, all pointing to some new exe on my machine -- GtAOD.exe. I specifically said during intall of the AIM upgrade that I didn't want any AIM icons spewed onto my system; does AOL really believe that, if I don't want any AIM icons slammed onto my system (icons for a program that I am agreeing to install and that has real utility for me), that I am somehow OK with AOL Broadband icons slammed everywhere (which are just advertisements, for a service for which I have indicated no interest)? Dorks.

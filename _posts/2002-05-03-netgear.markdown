@@ -1,0 +1,10 @@
+---
+title: "Netgear."
+date: "2002-05-03"
+tags: 
+  - "tech"
+---
+
+**Netgear**. As a break I installed the [Netgear](http://www.netgear.com/) FS 105 100mbit switch, upgrading one of my minihubs. Wow was this painless. The autodetection of uplink port and cable type made this soooooo simple. Love it.
+
+These guys totally get the "First 30 Minutes" principle. If the first 30 minutes of a product are great, you will have an enthusiastic and committed customer. If the first 30 minutes are rocky, well that is trouble.

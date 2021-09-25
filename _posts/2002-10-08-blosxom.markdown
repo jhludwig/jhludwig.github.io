@@ -1,0 +1,8 @@
+---
+title: "Blosxom"
+date: "2002-10-08"
+tags: 
+  - "tech"
+---
+
+**Blosxom under IIS**. Ok this is harder than I had hoped. Got Perl for IIS from Activestate, that installed easily enough and seems to work ok on a variety of samples. But blosxom craps out fast, i suspect some simple file syntax problems. Mail into Rael, and if no satisfaction there, I guess I will get a Perl debugger...

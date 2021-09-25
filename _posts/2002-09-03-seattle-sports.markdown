@@ -1,0 +1,8 @@
+---
+title: "Seattle Sports"
+date: "2002-09-03"
+tags: 
+  - "sports"
+---
+
+**Seattle Sports**. Man it seems like a bad time to be a fan in this town. Mariners are fun but can't quite get over the top, and my understanding of the new labor deal is that the Mariners will need to give up cash to others, thereby affecting Mariners competitiveness over the next 5 years. The Sonics seem unable to get or retain top talent, and the current management has a history of less-than-great deals. I have a hard time getting excited about the Seahawks, Holmgren just seems like a poseur to me. My favorite college sport, basketball, is not a game the Huskies excel at, and there is no arena in town that is large enough to host anything but first-round NCAA games. The football Huskies are a bright spot, tho last weekend was painful. But I am not feeling generally optimistic.

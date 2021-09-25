@@ -1,0 +1,8 @@
+---
+title: "CB&#039;s Sports Blog"
+date: "2002-11-21"
+tags: 
+  - "buckeyes"
+---
+
+**BCS Calcs.** [Chris's view](http://www.chrisblanchard.com/2002_11_17_sportsarchive.html#84829091) on the math of the BCS. Which I totally get, that is the right mathematical explanation. But it just points out to me what a dumb system it is -- it is just not sensible for a team to be "penalized" for playing and winning, relative to a team that is idle. Maybe Ohio State was too high last week, and are at their "right" level now, but the system is just goofy. It doesn't really matter if Ohio State wins out but I am sure there are situations in which it would matter.

@@ -1,0 +1,8 @@
+---
+title: "NCAA tourney, and other NCAA items"
+date: "2005-03-23"
+tags: 
+  - "sports"
+---
+
+\* [The Sports Economist is a great blog](http://thesportseconomist.com/archive/2005_03_01__arch_file.htm#111152493428542982) -- here a great post on why the average scoring margins between high seeds and low seeds in March Madness is shrinking... \* ...and here a great post on [betting on the tournament](http://thesportseconomist.com/archive/2005_03_01__arch_file.htm#111124585303190595) and the unavoidable problems it leads to, in part because we refuse to compensate the players. \* Of course the NCAA has its head in the sand when it comes to player compensation -- [here claiming that we couldn't possibly pay the players because athletic departments are losing money](http://feeds.feedburner.com/fanblogs?m=1326). OK the **$6.2 Billion** that [CBS is paying to televise NCAA basketball](http://money.cnn.com/2003/03/18/news/companies/cbs_sports/) is going in someone's pocket -- it is, at best, stupid to claim that the schools don't have the money to pay the players. Maybe Myles Brand could give up some of his [$738K in salary (2003)](http://www.usatoday.com/sports/college/2005-01-24-myles-progress_x.htm) to help pay a few players \* And another older but great post from the Sports Economist talks about [applying multipart tariffs to ticket prices](http://thesportseconomist.com/archive/2005_02_01__arch_file.htm#110803672428396331) -- I'm suprised these ideas haven't been pushed further both at the high end of ticket prices and at the low end -- maybe if the schools managed their yields better, they could afford to pay the players a little.

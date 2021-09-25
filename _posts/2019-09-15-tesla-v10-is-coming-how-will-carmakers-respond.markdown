@@ -1,0 +1,14 @@
+---
+title: "Tesla V10 is coming -- how will carmakers respond?"
+date: "2019-09-15"
+---
+
+Tesla is just kicking ass in car apps — [https://electrek.co/2019/09/15/tesla-v10-first-look-release-notes-features/](https://electrek.co/2019/09/15/tesla-v10-first-look-release-notes-features/).   They made an investment in a UX and data architecture and it is paying off.  Most carmakers are targeting where Tesla was 18-24 months ago, and by the time their cars ship, they will be even further behind.  
+
+The carmakers have some options, none of which are easy:
+
+- Embrace the phone.  Support Android Auto and CarPlay, give up on competing on base car UX and apps, and build auto-specific features and services on top of Android Auto and CarPlay.  This is not a terrible strategy, carmakers can focus their energy on car-specific features.  Xevo works with a number of carmakers on upcoming solutions along these lines, these will be good experiences.
+- Try to drag race Tesla.  Some carmakers are trying this, it will be difficult to win this drag race if the carmaker is not tapping into software development talent in one of the software development centers — Bay Area, Seattle, NYC.  Xevo works with a couple of OEMs on this basis, tapping into the great Seattle ecosystem and labor market.  This is a tough strategy though and maybe the highest risk strategy.
+- Leapfrog Tesla.  Open up the car UX and car data to a full software ecosystem.  Get 10,000 companies targeting the vehicles.  Carmakers are historically resistant to this, wanting to hold onto all aspects of car UX and car data, but just as the industry transitioned from feature phones to smartphones, the industry will make a transition to a more open car software ecosystem, and benefits will accrue to those who lead the transition.  Xevo also works with OEMs on this basis.
+
+These strategies are not mutually exclusive — every carmaker has many nameplates, model years, and regions — they have a lot of at bats, and can try out variants of these strategies, and learn from each trial.  The key thing is to set a reach goal for the software ecosystem in the car, and get moving aggressively on some of these strategies.

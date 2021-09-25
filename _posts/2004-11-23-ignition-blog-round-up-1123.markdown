@@ -1,0 +1,8 @@
+---
+title: "Ignition blog round up 11/23"
+date: "2004-11-23"
+tags: 
+  - "ignition"
+---
+
+\* [Rich is trying to convert WMAs to MP3s](http://www.tongfamily.com/2004/11/23/wma_conversion.html)... \* ... when he is not busy [synching files](http://www.tongfamily.com//2004/11/19/synchronizing_files.html)... \* ... or [jamming apps onto his new phone](http://www.tongfamily.com//2004/11/18/freeware_for_nokia_6620.html)... \* ... or [decompressing files](http://www.tongfamily.com/guide/pcs/2004/11/15/7_zip.html). A digital renaissance man. \* Andy is appealing us all [to eke out a few more MPG](http://asack.typepad.com/a_sack_of_seattle/2004/11/8_mpg.html) while [Martin is looking hard at biodiesel cars](http://www.martinandalex.com/blog/archives/2004/11/new_biodiesel_c.html) and [starter kits.](http://www.martinandalex.com/blog/archives/2004/11/playing_with_my.html) \* The book [gets another nice review](http://marketingplaybook.com/2004/11/19/nice_review_from_a_different_northwest.html) and he provides [another great, simple lesson about marketing](http://marketingplaybook.com/2004/11/17/stp.html) -- heck it is a general business and design lesson, not just a marketing lesson. \* Cloudmark has a [new anti-phishing effort](http://www.martinandalex.com/blog/archives/2004/11/phishing_up_5x.html) and [a trade-up program](http://hellomate.typepad.com/exchange/2004/11/cloudmarks_new_.html) \* And finally, stretching the definition of the Ignition family, [Jerry has some great counsel for entrepreneurs seeking funding](http://www.inc.com/resources/finance/articles/20041101/venturecapital.html#jump).

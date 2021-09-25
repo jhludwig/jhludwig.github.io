@@ -1,0 +1,11 @@
+---
+title: "Get Your Purdue Hate On!"
+date: "2010-10-21"
+tags: 
+  - "buckeyes"
+  - "football"
+  - "purdue"
+  - "tweet"
+---
+
+OK it is hard to get excited this week for Purdue but courtesy of the lead Iowa blogger, here is your "guide to hating Purdue":http://www.blackheartgoldpants.com/2010/10/5/1720245/purdue-hate-week-the-enemies-list. Good stuff.

@@ -1,0 +1,8 @@
+---
+title: "Jahshaka"
+date: "2003-02-27"
+tags: 
+  - "tech"
+---
+
+**[Jahshaka](http://archipelago.phrasewise.com/2003/02/27)**. Looks like a pretty comprehensive authoring app for video. so much of the low end commercial stuff is garbage. might be worth trying.

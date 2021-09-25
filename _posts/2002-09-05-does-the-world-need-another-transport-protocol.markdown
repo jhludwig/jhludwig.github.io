@@ -1,0 +1,18 @@
+---
+title: "Does the world need another transport protocol?"
+date: "2002-09-05"
+tags: 
+  - "tech"
+---
+
+**New Transport Protocols**. We saw a company this week pitching a new protocol for a certain internet application. A protocol that is a replacement for a very widely used internet protocol today -- something that is regularly emitted by most clients and regularly consumed by most servers.
+
+We asked ourselves -- does the world really need a new protocol? It is really hard to bring out a new protocol to displace an entrenched one. Tcpip was invented for low speed serial links with a lot of latency, and then was further tuned for 10mbit csma/cd ethernet, and was further tuned for today's gigabit switched ethernet. It is not perfect for today's low latency, low loss, switched fabrics. But it is good enough and so things like ISO died along the way. Heck we can't even get to IPv6.
+
+Even for fundamentally new media, like wireless (well kind of new, just ignore aloha for the sake of this argument), ip is probably going to win and overwhelm things like bluetooth.
+
+The established base of economic activity around existing popular protocols is so great, it is hard for a new entrant to break in. Even if the new entrant is twice as fast, who cares? That is just 18 months of moore's law.
+
+So I am eternally doubtful about new protocols. A new protocol is going to have to be dramatically better -- 10x plus -- or solve a big problem that the existing protocol just can't be bent to solve.
+
+The cost to distribute a new protocol to hundreds of millions of end nodes and servers is just huge. Very very hard to get a new protocol distributed that is just a replacement for an existing one.

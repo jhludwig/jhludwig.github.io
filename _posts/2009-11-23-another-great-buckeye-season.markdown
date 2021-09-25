@@ -1,0 +1,16 @@
+---
+title: "Another great Buckeye season"
+date: "2009-11-23"
+tags: 
+  - "buckeyes"
+  - "football"
+  - "usc"
+---
+
+While this weekend's victory over Michigan was not one for the ages, it does cap another great Buckeye season. Undisputed Big10 champs, 5 straight Big10 titles, Rose Bowl trip, 5th straight BCS bowl, 6th straight victory over Michigan, undefeated November including wins over other title contenders. It is a good era to be a Buckeye fan. Tresselball is alive and well despite [opinions to the contrary](http://rivals.yahoo.com/ncaa/football/blog/dr_saturday/post/Deconstructing-The-grisly-demise-of-Tressel-Ba?urn=ncaaf,189322) -- I am very happy winning games with a tough defense, special teams play (tho this has not been as strong this year), and mistake-free offense. Some writers want to see a lot of "style" points, but that is not football. If you value style points, go watch ice dancing or diving -- fine sports, nothing wrong with them. I don't watch football for style points.
+
+The [throwback unis looked good](http://www.thebuckeyebattlecry.com/?p=3399) and it is super to commemorate the '54 team -- congrats Dad.
+
+For Michigan, wow, another terrible season. The fan base is failing as well -- the amount of scarlet in the Big House was astounding. [Real Michigan fans are pissed about](http://www.maizenbrew.com/2009/11/23/1170281/lost).  For the sake of the rivalry, I hope that Michigan starts to be relevant and credible again. I admit to having the thought that, if there was any year in which the pain of losing to Michigan would be small, this might have been it, and it would have been good for the rivalry. The wolverines weren't up to it.
+
+Also watched a lot of PAC 10 action. With USC caught up in its own undershorts, the Pac-10 is a mess. Stanford opted out this weekend. Arizona opted out. Oregon-Oregon State for all the marbles? When has that ever been the case in the past? The collapse of USC is like the death of Tito, with the Pac-10 fracturing like Yugoslavia into a bunch of warring factions, none dominant.

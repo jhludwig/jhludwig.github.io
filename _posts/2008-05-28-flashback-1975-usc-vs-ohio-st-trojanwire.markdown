@@ -1,0 +1,10 @@
+---
+title: "Flashback: 1975, USC vs. Ohio St - TrojanWire"
+date: "2008-05-28"
+tags: 
+  - "buckeyes"
+  - "sports"
+  - "trojans"
+---
+
+[Flashback: 1975, USC vs. Ohio St - TrojanWire](http://www.trojanwire.com/football/flashback-1975-usc-vs-ohio-st.php) -- ahh great pain relived. This is going to be a great game this fall.

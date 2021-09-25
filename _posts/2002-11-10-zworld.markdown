@@ -1,0 +1,9 @@
+---
+title: "Zworld"
+date: "2002-11-10"
+tags: 
+  - "control"
+  - "halloween"
+---
+
+A pretty comprehensive site for [single board computers and related products](http://www.zworld.com/).

@@ -1,0 +1,14 @@
+---
+title: "Advice for College Admissions Counselors"
+date: "2007-04-09"
+tags: 
+  - "education"
+---
+
+Please please please -- pretend you are a student and go out and attend a week's worth of college visits at other institutions. I think you will find that there is a lot of mind numbing repetition across the presentations and tours. You all have study abroad programs, intern programs, food service, blue light security on campus, etc etc etc.
+
+What is far more interesting to hear about is the unique aspects of your institution and the community you are in. And maybe a direct compare/contrast between your institution and your most direct "competitors". And consider doing something different in your presentation than every other college; one school brought in a professor to talk with the kids, this was memorable; another school gave away ice cream sandwiches at the end of the tour, a simple gesture but the kids loved it.
+
+I'd consider running two different info sessions and tours -- one for first time college visitors, and one for people who have seen 2 or more schools already.
+
+I guess what I'm saying is think a little more deeply about your audience and what they are going thru, and tune the presentation to them.

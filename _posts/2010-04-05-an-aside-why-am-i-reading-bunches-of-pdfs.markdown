@@ -1,0 +1,14 @@
+---
+title: "An aside -- why am I reading bunches of PDFs?"
+date: "2010-04-05"
+tags: 
+  - "education"
+  - "materials"
+  - "nanotech"
+---
+
+I finally officially matriculated last fall as a part time grad student at UW and am studying nanoengineering. For the moment I am sited in the mechanical engineering department tho I could just have easily been in the electrical engineering department, materials science department, chemistry, physics, or several other places. And in fact I am taking no traditional mechanical engineering courses, but am entirely focused on nanoscale problems and technology.
+
+My long term interest is in industrial-scale production of nanoscale devices. Many great things have been made in the labs, but to scaling up to industrial scale production requires discovery of methods to automatically produce and assemble nanoscale devices, accepting the inherent error levels in these devices. Photolithography has been an amazing technology for creating computer chips but is a top-down approach -- the entire chip is exactly designed and then carved out of silicon. The next wave of devices at the nanoscale will be organically assembled bottoms-up and there are whole new classes of problems to solve.
+
+I've been reading a ton on nanowires and carbon nanotubes and the manipulation of them via various methods. And also thinking on the side about chip/circuit architecture based on these inexact, nondeterministic elements. Just got a pointer to "RelXLayer":http://www.cra.org/ccc/xlayer.php which is a nice launch point for thinking about.

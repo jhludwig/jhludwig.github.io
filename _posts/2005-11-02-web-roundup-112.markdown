@@ -1,0 +1,8 @@
+---
+title: "Web roundup 11/2"
+date: "2005-11-02"
+tags: 
+  - "web"
+---
+
+\* Really want to like [Jotspot and Jotspot live](http://www.tipmonkies.com/2005/10/11/jotspot-collaborative-wiki-and-notetaking) as wikis have some really appealing features. But I tried to do a simple thing -- family christmas lists - and gave up and went back to [tadalists](www.tadalists.com). Just less confusing clutter. From the experience I kind of wonder if, for personal and shared documents, wikis are a tweener. I find myself gravitating toward a very structured task specific service like [tadalists](www.tadalists.com), or a totally unstructured shared document like [writely](http://www.theludwigs.com/2005/10/webbased_word_processors.html). But I remain entranced by [TiddlyWiki](http://www.beyondvc.com/2005/10/tiddlywiki.html) \* Anxious to try [Dabble](http://web2.0central.com/archives/119) out. I'd love something with 20% of the power of Excel, but completely roamable. \* Phil finds [google maps for mobile devices.](http://thebogles.com/blog/2005/11/j2memap-interactive-google-maps-on-your-mobile-phone/) Great first attempt. \* [Memeorandum](http://tech.memeorandum.com/) has found its way into my set of homepages. \* Don't know if [Healthline](http://www.healthline.com/) is it, but someone is going to do a great consumer health resource service. \* Haven't had time to try [last.fm](http://www.last.fm/) but interested in better music recos. downloading now.

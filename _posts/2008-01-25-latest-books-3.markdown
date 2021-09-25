@@ -1,0 +1,10 @@
+---
+title: "Latest books"
+date: "2008-01-25"
+tags: 
+  - "books"
+---
+
+\* "The Brothers Karamazov":amazon by Dostoevsky. Trying to understand Russian culture but this book didn't do it for me, gave up after 15% or so. Mindless trudging thru minutiae just wore me out. \* "The Greatest Battle":amazon by Andrew Nagorski. Recounting of the WWII battle for Moscow, with a lot of emphasis on the leadership and missteps of Stalin and Hitler. Millions of troops involved, casualties heading towards 2 million, 25 miles outside of Moscow. The scale and import of this battle are hard to comprehend. The tragedy of Russian life and yet endurance of the Russian people comes out strongly.
+
+Both read on the Kindle by the way. Still very happy with this device.

@@ -1,0 +1,10 @@
+---
+title: "Books -- The Post-American World, The Only Three Questions That Count, The Singularity Is Near"
+date: "2009-08-04"
+tags: 
+  - "books"
+---
+
+Some more serious non-fiction -- two good, one drivel:
+
+\* "The Post-American World":amazon by Fareed Zakaria. A little dated by financial events of the last year and, like all nonfiction books, really ought to be a pamphlet. But still some great core points about the US and it's place in the world. The future is not to be feared because of waning US influence, but to be embraced because of the growth and development of so many other parts of the world. Amazon says 4 stars, I ding it a little bit for length but still a good book. \* "The Only Three Questions That Count":amazon by Ken Fisher. One successful investor's view on how to invest. Insightful and worth a read, the discussion on national debt levels alone is worth the book. Successful investing is clearly not something done as a hobby, it takes a serious amount of discipline and analysis to follow his guide -- not surprising. Oh the book is way too long though, where was the editor? Amazon says 4.5 stars, I would agree that there is great content in here. \* "The Singularity Is Near":amazon by Ray Kurzweil. I found this to be nearly unreadable. First the early nonsense about the knees of exponential functions (a bogus notion), then the unending blather about order and information (where was the editor?), and I just gave up. Maybe there are genius ideas in here but I suspect the author vastly underestimates the complexity and sophistication of our evolved biological structures. Feels like Wolfram's "A New Kind Of Science" -- the author is all fired up about his "insights" but didn't bother to get any critical review. Amazon says 4 stars, I give this a 1.

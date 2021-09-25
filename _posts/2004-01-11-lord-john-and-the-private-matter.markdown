@@ -1,0 +1,8 @@
+---
+title: "Lord John and the Private Matter"
+date: "2004-01-11"
+tags: 
+  - "books"
+---
+
+I found [Lord John and the Private Matter](http://www.amazon.com/exec/obidos/tg/detail/-/0385337477/qid=1073847504//ref=sr_8_xs_ap_i0_xgl14/002-7951548-5831249?v=glance&s=books&n=507846 "Amazon.com: Books: Lord John and the Private Matter")to be a very engaging light mystery. Decent characters for a short story, a lot of period atmosphere. I've not read anything else by Gabaldon, apparently this is off-genre for her and a lot of readers on Amazon aren't thrilled with the book, but I felt it was a good yarn.

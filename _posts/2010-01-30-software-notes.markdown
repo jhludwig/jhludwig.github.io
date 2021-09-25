@@ -1,0 +1,8 @@
+---
+title: "Software notes"
+date: "2010-01-30"
+tags: 
+  - "software"
+---
+
+\* Soundhound way better than Shazam on the iPhone. recognition much faster, lyrics support nicer \* Stunned that Windows Home Server doesn't support the generic network adapter on a whitebox computer from BestBuy. Supported under XP, Vista, &, and Ubuntu, but dead in the water under Windows Home Server. Stunned. \* Word 2010 beta seems to support Latex parsing for equations tho buggy as hell. Cool tho. \* "Steam up to 25M users":http://www.crunchgear.com/2010/01/29/steam-steams-ahead-to-25-million-users-205-percent-increase-in-sales/. Steam is so awesome. Why isn't all Windows and Mac software distributed this way? \* Conversely, Apple app store has so much crud in it with no real quality editorial voice. Trying out Chomp and app.itize.us.

@@ -1,0 +1,8 @@
+---
+title: "Haloscan"
+date: "2003-03-18"
+tags: 
+  - "tech"
+---
+
+**Haloscan**. I dumped this today. Server was down too often and was killing page loads. Sorry for lack of comment support. Send me an email if you want to say something...

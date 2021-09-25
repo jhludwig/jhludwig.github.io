@@ -1,0 +1,14 @@
+---
+title: "Man I would hate to be the guy flogging Nooks at B&N this week"
+date: "2013-02-25"
+tags: 
+  - "amzn"
+  - "books"
+  - "strategy"
+---
+
+On the heels of "B&N's rumored step back from the Nook":http://www.nytimes.com/2013/02/25/business/media/barnes-noble-weighs-its-nook-losses.html, I bet he is "more forlorn than ever":http://theludwigs.com/2010/04/the-nook-dude-at-the-barnesnobles-looked-forlorn-today/.
+
+This was an easy one to predict. Competing in consumer hardware against Apple (and Samsung), and with an undifferentiated product relative to the Kindle? The Nook was born with 2.5 strikes against it. Maybe there were ways that B&N could have succeeded -- a device that made the retail experience better? That authors or publishers liked better than alternatives? -- but competing head-to-head on hardware specs was doomed from the get-go. A lot of shareholder money wasted in direct spend on the Nook, and in opportunity cost as B&N chased this pipe dream and failed to innovate in their core business.
+
+It will still be interesting to watch AMZN in this market. They will not be able to compete with Apple, Samsung on mainstream tablets. But they don't necessarily need to, they can still be the best online retailer without making their own devices.

@@ -1,0 +1,12 @@
+---
+title: "What makes a great school website?"
+date: "2002-11-06"
+tags: 
+  - "education"
+---
+
+**What makes a great school website?** You can look at a lot of the award winners and I think you can start to draw some conclusions. #1 is student involvement. Students have the energy, the breadths of interests, the technical savvy to really contribute. #2 is currency. The great websites have all kinds of current articles and are updated frequently.
+
+Most of these websites are public schools and are oriented towards current students. I think for a private school we need to serve better the prospective student base, the parent base, and the donor base. As many college sites do.
+
+There are probably some good task-based metrics we could come up with. For each user segment, how easy is it for them to get to the 5 most important items/perform the 5 most important tasks.

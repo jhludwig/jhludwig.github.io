@@ -1,0 +1,18 @@
+---
+title: "Business Models and Evil"
+date: "2011-08-24"
+tags: 
+  - "apple"
+  - "business"
+  - "economics"
+  - "google"
+  - "microsoft"
+---
+
+Some interesting commentary on "Google's business model by Gruber":http://daringfireball.net/linked/2011/08/23/swartz-google-evil -- a total Apple fan, doesn't view ads as inherently evil, but says you need to be very respectful of your users. And referring to "an original article by Aaron Swartz":http://www.aaronsw.com/weblog/googevil who says you can't make things worse for users just to make money.
+
+I don't know what evil is when applied to technology business models. I do know that I feel very comfortable with my Apple transactions -- they ask me for a lot of money, in return they give me a product that is mine to own completely. They give me the option of signing up for services for more money, services where they keep data about me, but it is up to me. It feels like a transparent and respectful model. Similarly, I feel good about my Microsoft transactions -- they ask me for money, in return I get a software or hardware product that is mine to do what I want with (excluding Bing which I rarely use, and excluding some of their new online service offerings).
+
+I feel somewhat less good about my Google relationship. I do like and use their products. But the fact that they are "free" is bothering, I know that Google is making money off me somehow, but there is very little transparency around it. Who is looking at my data, what are they paying for it, are there certain things I do that are very high value, are there people using info about me that I would rather not, ?
+
+I don't know any of this and it makes me kind of queasy. Enough to abandon products that are actually useful? Well not yet -- and for search,it is not like there are alternatives that are more respectful of me. But I can't imagine ever having the kind of respect for and attachment to Google products that I have to products from companies with more straightforward business models.

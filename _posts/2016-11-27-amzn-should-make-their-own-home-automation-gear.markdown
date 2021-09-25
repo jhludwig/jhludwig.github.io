@@ -1,0 +1,14 @@
+---
+title: "AMZN should make their own home automation gear"
+date: "2016-11-27"
+---
+
+I purchased a [TP-Link Smart Plug](https://www.amazon.com/gp/product/B0178IC734), a top seller in home improvement, to control turning on and off our Christmas tree lights from our Amazon Echo. The final working solution is pretty slick, it works reliably, and it is pretty tolerant of slight differences in phrasing.
+
+[![打印](images/HS100_us_V1_1134_normal_0_20151017175028-300x225.jpg)](http://theludwigs.com/2016/11/amzn-should-make-their-own-home-automation-gear/%e6%89%93%e5%8d%b0/)But setup was a long path of horrible. Create a tp-link online account. Download their Kasa iOS app (Really love the profusion of brand names -- control our TP-Link™ Smart Plug with the kasa™ iOS app using the Alexa™ integration with our Amazon Echo™). Plug in the TP-Link device and then join it to the kasa app, doing the "private wifi hotspot" dance common to so many iot devices, where you have to leave the app and join a goofy wifi hotspot temporarily. Wait while the pairing happens. Then set a friendly name for the device in the kasa app. Go to the url in the paper instructions to set up Alexa integration. This points you back to a menu in the kasa app. This sends you back to a web page with Alexa integration instructions. Go two menus down in the Amazon Alexa phone app (why isn't this the Amazon Echo phone app? I bought an Echo. I never bought anything called Alexa) to install a new smart home skill, the TP-Link Kasa skill. Search in the Alexa app for connected devices and pick the tp-link device. Provide the Alexa app with tp-link login credentials. Now I guess it is all set up but I have no idea what phrase to say. Take a guess that the friendly name I gave the tp-link device 8 steps ago is the thing to say, and yay it is.
+
+I bet when I install a 2nd one I get to do much of this again. Kind of dreading that.
+
+How will regular humans do all this? Return rates and support calls must be high. The tp-link should have been pre-provisioned with the necessary wifi connectivity, and the Alexa skill should have been pre-installed, and the phrase should have been pre-configured to a default. And I should have just plugged it in, and it should have worked in seconds.
+
+If AMZN wants this to be a mainstream use, they need to preconfigure the devices, like they preconfigure Kindles or other AMZN hardware. Which probably entails AMZN building their own devices, or running a very strong branding/qualification program. Otherwise this is going to be a very niche experience. Or someone else (GOOG or APPL) will figure this out and displace the Echo.

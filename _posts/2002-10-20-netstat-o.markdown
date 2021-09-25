@@ -1,0 +1,8 @@
+---
+title: "Netstat -o"
+date: "2002-10-20"
+tags: 
+  - "tech"
+---
+
+**Netstat -O**. Just discovered the value of this command on XP. When you correlate the output with Task Manager PIDs, you can see exactly what processes have what net connections open. Very helpful!

@@ -1,0 +1,8 @@
+---
+title: "Recent books -- The Echelon Vendetta, Best AMerican Mystery Stores, Scoop"
+date: "2009-04-09"
+tags: 
+  - "books"
+---
+
+\* "The Echelon Vendetta":amazon by David Stone. Good thriller. Deeply damaged hero fighting for the good guys outside the law. And as typical the lines between good and bad, us and them, legal and illegal, are all vague and contradictory. Better than average airplane read. \* "The Best American Mystery Stories 2003":amazon. Another one sitting on the shelf for a while obviously. I don't typically read short stories but I have renewed admiration for the form. These authors do a great job of plunging you right in -- great atmospheres, quick character studies. Fun stuff. \* "Scoop":amazon by Evelyn Waugh. Never read anything by Waugh, this was an offbeat entry point. Farcical misadventure, a sedate country gentleman sent by mistake out as a foreign war correspondent. Some humour but I generally find farces a little wearing.

@@ -1,0 +1,17 @@
+---
+title: "Thinking about gameday cell network performance"
+date: "2011-10-15"
+tags: 
+  - "apps"
+  - "broadcast"
+  - "football"
+  - "network"
+  - "osu"
+  - "venture"
+---
+
+[![](images/Panoramic_view_of_Ohio_Stadium-300x117.jpg "Panoramic_view_of_Ohio_Stadium")](http://theludwigs.com/wp-content/uploads/2011/10/Panoramic_view_of_Ohio_Stadium.jpg)When I sit in Ohio Stadium for a football game, my fancy smartphone is a useless piece of metal and plastic. Some developers have tried to come up with [apps to improve the gameday experience](http://www.usctrojans.com/blog/2011/08/usc-gameday-app.html), but these apps miss the point. With 105,000 fans in the stadium, another huge set of ticketless fans milling around outside, all the stadium staff as well as security and service staff outside the stadium -- there are probably 200,000 network devices in 30-40 acres all trying to jam onto the system, and all failing. The cell network simply can't handle the load.
+
+Our cell networks are wonderful things, but in the build out of our networks, the notion of broadcast has been left behind. 98% of the fans want the same exact data -- top 25 scores, breaking football news, in-game replays, radio game feed. And yet the cell network and data apps feed this data to each user via dedicated single-user transactions. [Cell broadcast](http://en.wikipedia.org/wiki/Cell_Broadcast) exists in the standards but is not really in use in networks or handsets. Qualcomm tried to push [Mediaflo](http://en.wikipedia.org/wiki/MediaFLO) for this use but got very little uptake and eventually shut down the service.
+
+It's unfortunate that the idea of broadcast has been left behind. It would be hugely useful in these kinds of crowded venues. I wonder if Qualcomm might not have succeeded had they just focused on NFL and NCAA football fans -- people who spend stupid amounts of money on tickets and related gameday expenses, and who would probably spend money on dedicated gameday data services. It is not an easy service to provide tho. It requires spectrum, devices using that spectrum, and local content assemblage and editorial. There may be too many moving parts. It might be easier just to truck in lots of picocells to events and say screw it, dynamically expand the cell network as needed.

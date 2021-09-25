@@ -1,0 +1,8 @@
+---
+title: "CallerIP"
+date: "2004-06-03"
+tags: 
+  - "tech"
+---
+
+Hey this [CallerIP (via Lockergnome)](http://channels.lockergnome.com/windows/backissues/20040602.phtml#20040602_2) thing is kind of cool.  Nice visual view of who is connected to your system right now, integrated whois info.

@@ -1,0 +1,8 @@
+---
+title: "I have finite outrage capacity."
+date: "2014-02-17"
+---
+
+Bigotry, poverty, abuse, healthcare, education, government waste and incompetence -- I could go on, these are big issues in our society, and I can get outraged about them and have occasionally done so. There are certainly other issues in this category.
+
+Whether or not a certain kind of taxi service can operate in a certain way, or whether or not cars can be sold in a certain fashion at a certain location? Yawn.

@@ -1,0 +1,8 @@
+---
+title: "Most recent NCAA stupidity"
+date: "2005-10-31"
+tags: 
+  - "sports"
+---
+
+At the [sports economist](http://thesportseconomist.com/archive/2005_10_01__arch_file.htm#113052731511114893) -- "A plan approved on Thursday by the National Collegiate Athletic Association's Division I Board of Directors would pay colleges up to $100,000 each if their athletes do particularly well in the classroom and a high percentage of them graduate every year." Great, let's set a higher bar for these kids, and continue to funnel money not to the kids but to the adults and institutions riding on their back.

@@ -1,0 +1,16 @@
+---
+title: "Decent article in Seattle Times about maker resources"
+date: "2012-03-26"
+tags: 
+  - "maker"
+  - "seattle"
+  - "tweet"
+---
+
+Good "article in PNW mag":http://seattletimes.nwsource.com/html/pacificnw/2017740454\_pacificpnerds25.html?cmpid=2628 yesterday about maker resources here in the Seattle area. The particular things I noted:
+
+\* "Ignite Seattle":http://www.igniteseattle.com/ -- regular talks about projects, tho next event postponed, hope this is still active \* "Dorkbot Seattle":http://dorkbotsea.org/ -- also on hiatus this month but seems like my kind of thing (apparently lots of electricity involved) \* "Nerdnite":http://seattle.nerdnite.com/ -- more talks and sharing \* "Metrix create space":http://metrixcreatespace.com/ -- parts, workshop, courses, community \* "ALTSpace":http://www.airlighttimespace.org/ -- another maker space \* "Jigsaw Renaissance":http://www.jigsawrenaissance.org/ -- and another \* "Seattle Maker Faire":http://www.makerfaireseattle.com/ -- annual event showcasing projects \* "make Seattle":http://www.makeseattle.net/ \* "Geekwire":http://www.geekwire.com/events/ -- really more startup focused but leaking into maker space a little
+
+As an aside, it is so odd that in 2012, the Seattle Times would go to the trouble to research, write, and distribute this article, but then in the web-published version, not link to any of the resources mentioned in it, leaving it to people like me to scrounge together all the links. The web version of the article seems like the afterthought, and the Times misses the opportunity to create the web-based page of record for "Seattle Maker". I would have thought by now the web version of the article would be paramount, and the print version would be a derivative of that page. But obviously I don't get it.
+
+In general I don't get the whole Seattle Times web strategy -- and in 2012 that means I don't get their overall business strategy. Why do they continue to hide their brand under the nwsource domain? It clearly seems like they just don't care about the web. No other media company of substance behaves this way. Strange.

@@ -1,0 +1,21 @@
+---
+title: "Recent Software trials - Soluto, Splunk Python, Calculize, Keymando, timely.js, onswipe"
+date: "2011-08-12"
+tags: 
+  - "software"
+  - "tweet"
+---
+
+\* "Soluto":http://www.soluto.com. Soluto seems right up my alley -- focused on simple common frustrations that we all have, promises to save me time. Install is a breeze and I really like the super sparse interface -- such a difference from the overcomplicated software from Norton, etc. The software feels very light and the interface reinforces the promise of simplicity. And it does seem to make tuning up boot time simple, it pretty accurately understood all my boot processes and gave me reasonable suggestions. It's browser diagnosis was less helpful, it found very little in Chrome to improve, and it didn't look at my firefox install at all. Not sure why. Anyway, worth a trial and I will be interested to see how they go. A challenge they will have is getting users to pay -- solving my boot speed issues is nice, but I only need to do that once and I have no enduring reason to keep on running the software -- and thus am not going to pay much for it. They need to figure out a way to deliver me value every day. The only guys in the utility space that have done this are the virus/malware protection guys, who have latched onto consumer fear (and probably stoke that fear).
+
+\* "Splunk Python interface":http://pypi.python.org/pypi/splunk-sdk/0.1.0. Really curious to play with this (disclosure, Ignition is an investor in splunk). I hadn't installed splunk in a while, installs super simply on Mac and Win. and wow what a firehose of info you get from Splunk about your system. Next up, tie to python and try to write some simple scripts. A lot to play with here.
+
+\* "Calculize":http://calculize.com/. Kind of like Matlab, in the browser. Might be useful. at times.
+
+\* "Keymando":http://keymando.com/. Love the idea of hotkey utilities but I always seem to drift away from them. Because I can never keep them in sync across all my machines. And so I will probably never install this. But noted here in case I try.
+
+\* "timely.is":http://timely.is/#/. Rand likes it which is a good sign. If I cared about readership and impact of my tweets I think I would certainly give this a whirl.
+
+\* "Onswipe":http://onswipe.com/. This seemed really cool, but I thought it was basically a wordpress theme. It isn't tho, it grabs your wordpress data and puts it behidn a new url. and it seems to be dependent on categories which I don't use. so I will wait.
+
+UPDATE: nice simple tip from the Keymando guys -- use Git or Dropbox to keep Keymando settings in sync across multiple machines. This is a simple obvious brilliant thing I should do in general for my work and home Macs.

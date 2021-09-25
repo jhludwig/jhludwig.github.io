@@ -1,0 +1,8 @@
+---
+title: "Starbucks Crossword contest wrapup"
+date: "2006-04-05"
+tags: 
+  - "games"
+---
+
+Good discussions of the final tiebreaker puzzle over at [crossword fiend](http://crosswordfiend.blogspot.com/2006/04/well-so-much-for-that.html) and [crossword bebop](http://crosswordbebop.blogspot.com/). Personally I sailed through the first 6 weeks and easily made it into the tiebreaker round. But today's tiebreaker puzzle crushed me. I knew there was a nonstandard trick involved, but I didn't figure it out in any kind of reasonable time. Hat tip to the mystery winner who may have just made a lucky guess at the right answer -- if I had smartly applied game theory to today's tiebreaker, I would have called in with an educated guess as well. I know that I am nowhere near the crossword solver that some of the participants are, my only chance to win would have been to make an educated guess. Someone did that and won, smart thinking.

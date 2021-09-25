@@ -1,0 +1,18 @@
+---
+title: "Search slamming"
+date: "2004-05-18"
+tags: 
+  - "tech"
+---
+
+Spent two hours yesterday trying to get one of our machines to correctly point to Google for searches from the IE address bar. Thru a combo of spyware, browser helper objects, toolbars, the IE search function had been slammed over to a variety of different search providers.
+
+[NewDotNet](http://www.newdotnet.com/ "NewDotNet") was the evilest. It kept re-slamming settings no matter how often we changed them in the browser. And no matter how many times we removed it as a startup item, it would reinsert itself -- spyware/virus-like behaviour. This ought to be criminal. [Spybot S&D](http://www.safer-networking.org/) didn't seem to pick this one up.
+
+[SAHAgent](http://www.liutilities.com/products/wintaskspro/processlibrary/sahagent/) was on the machine too -- installs as a Winsock Service Provider! How do these people sleep at night? Spybot seemed to get it.
+
+[Clearsearch](http://sarc.com/avcenter/venc/data/adware.clearsearch.html) was on the machine too, Spybot got it.
+
+After multiple runnings of Spybot, MSConfig, Sysedit, and Regedit, we are now down to one remaining slammer. Lycos is grabbing all our autosearch traffic, tho there does not seem to be an associated browser helper object or an process running, and i've tried to reset a dozen times thru the IE search UI and the Google toolbar UI. Nothing detected by Spybot. But clearly something still going on.
+
+It is amazing how hard these have been to get rid of. What does a regular user do -- just reformat their hard disk? This spyware stuff is a plague. Pisses me off more than viruses.

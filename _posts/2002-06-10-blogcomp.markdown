@@ -1,0 +1,8 @@
+---
+title: "BlogComp"
+date: "2002-06-10"
+tags: 
+  - "tech"
+---
+
+**Comparing blog tools**. This is super helpful -- [BlogComp: Blog Tool Feature Comparison Table](http://www.urldir.com/bt/).

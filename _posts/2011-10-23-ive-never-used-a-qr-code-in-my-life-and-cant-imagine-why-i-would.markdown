@@ -1,0 +1,13 @@
+---
+title: "I've never used a QR code in my life and can't imagine why I would."
+date: "2011-10-23"
+tags: 
+  - "advertisements"
+  - "qr"
+  - "tweet"
+  - "venture"
+---
+
+[![](images/qrcode.png "qrcode")](http://theludwigs.com/wp-content/uploads/2011/10/qrcode.png)"Daring Fireball":http://daringfireball.net/linked/2011/10/21/qr-codes points to a "pretty thorough takedown of QR codes":http://www.imediaconnection.com/article\_full.aspx?id=30267 as used in print ads. The original design goal -- Toyota invented these to track parts -- makes sense, but jamming these into consumer media is just strange.
+
+\* Users can already type in your URL or a sentence, or speak into Siri, or do an image search with their phone. Is taking a snap of this code thing really so much better? \* There's a history of companies trying to stuff proprietary ID systems in between users and product/service providers. These visual codes are one such thing. AOL Keywords, RealNames are text-based equivalents. They all try to get advertisers to stuff these in ads, but I don't see how this really serves users or advertisers, it mostly just serves the companies with the proprietary ID system. \* Ultimately, if your product/ad/message is so forgettable that you think jamming a QR code or text string in will help, well, there is a deeper problem.

@@ -1,0 +1,8 @@
+---
+title: "Great Dinner at Bis on Main"
+date: "2005-06-02"
+tags: 
+  - "northwest"
+---
+
+We hadn't been to [Bis on Main](http://www.bisonmain.com/) in years, I am not sure why. We had an outstanding dinner there last night -- the best salmon we've had in a restaurant in a while. The place was packed as well, clearly the busiest place in Bellevue. I'm not sure how this place fell of our list, but it is back on. ([Crossposted to Judy's Book](http://members.judysbook.com/posts/content/review.aspx?ci=3954))

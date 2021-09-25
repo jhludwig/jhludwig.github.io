@@ -1,0 +1,8 @@
+---
+title: "Longhorn"
+date: "2003-05-06"
+tags: 
+  - "tech"
+---
+
+Lots of WinHEC coverage on the net today -- [WinHEC 2003: First Look at Longhorn Graphics](http://www.wininformant.com/Articles/Index.cfm?ArticleID=38925 "WinHEC 2003: First Look at Longhorn Graphics") is interesting. DirectX finally gets used deeply by the OS.

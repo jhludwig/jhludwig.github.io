@@ -1,0 +1,8 @@
+---
+title: "August vacation reading"
+date: "2005-08-15"
+tags: 
+  - "books"
+---
+
+\* "What's My Name, Fool?":amazon is a great collection of writings on sports by Dave Zirin. Zirin writes about the dirty underside of sports -- the exploitation of poor uneducated young athletes; racism, sexism, and homophobia; the exploitation of sports by media and by politicians; the grotesque amounts of public monies spent on professional sports. Great great stuff. The histories of Ali, Jackie Robinson, Curt Flood, and others who fought for reform and for justice are illuminating. A very worthy read. \* "Cheaper by the Dozen":amazon -- What a wonderful book. The father is an amazing character, the stories are fabulous. A very bittersweet ending, but that serves to make the story more human and authentic. Don't know how I missed this growing up. \* "The Ginger Man":amazon by J P Donleavy -- Horrid. Couldn't finish. Brutish character, I learned nothing from him. The "Nicholas Baker":amazon of 40 years ago -- horrid little story that doesn't need to be told. \* "Gravity's Rainbow":amazon -- A lot of interesting references and construction. But ultimately I didn't care about anything happening in the book and put it down after 100 pages. If you want a farcical wartime book, read Catch-22. \* "Keeping Watch":amazon and "Folly":amazon by Laurie R King. Wow, great pageturners. Great mysteries, great twists (especially keeping watch), really great characters who you care about. I like these much better than her period mysteries.

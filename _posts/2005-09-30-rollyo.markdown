@@ -1,0 +1,6 @@
+---
+title: "Rollyo"
+date: "2005-09-30"
+---
+
+Love the idea of [Rollyo](http://www.rollyo.com).  [Phil and I spent some time talking about custom search scoping a while ago](http://www.thebogles.com/blog/2005/05/home-networking-resources/) and phil built a little tool to do it.  Now rollyo has turned it into a complete service.  great idea.

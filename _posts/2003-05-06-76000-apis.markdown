@@ -1,0 +1,8 @@
+---
+title: "76,000 APIs"
+date: "2003-05-06"
+tags: 
+  - "tech"
+---
+
+[CRN : Breaking News : Microsoft Plans Win32 API Cleanup, XAML Scripts For Next-Gen Windows : 10:44 PM EST Mon., May 05, 2003](http://www.crn.com/sections/BreakingNews/breakingnews.asp?ArticleID=41763 "CRN : Breaking News : Microsoft Plans Win32 API Cleanup, XAML Scripts For Next-Gen Windows : 10:44 PM EST Mon., May 05, 2003"). _"Win32 has like 76,000 APIs, and they're taking it down to 8,000 with Longhorn technology,"_ said one source familiar with the plans.

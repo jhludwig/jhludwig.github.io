@@ -1,0 +1,8 @@
+---
+title: "If I was building a WIFI business today..."
+date: "2003-07-28"
+tags: 
+  - "venture"
+---
+
+...I'd focus on the academic market. I have two family members heading to college this fall, and they both need laptops with wifi for their campuses. If this is becoming the default at every major college campus, then we are seeding the market with a huge number of capable machines, a huge number of free hotspots, a user base that is very willing to try new services. What great services could we build to target these users and to help them?
