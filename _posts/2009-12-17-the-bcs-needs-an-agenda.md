@@ -1,0 +1,51 @@
+---
+title: "The BCS needs an agenda"
+date: "2009-12-17"
+tags: 
+  - "bcs"
+  - "football"
+---
+
+OK I don't love the [BCS](http://www.bcsfootball.org) but I am not a college football playoff nut either. College basketball is great in March but the rest of the season has been sapped of its vitality and that would be terrible for football.
+
+The BCS has been made the bad guy in all these and they just sit back and let themselves get hammered, trying only the [most pathetic PR response](http://twitter.com/insidethebcs). Hiring a fancy PR firm, [which the BCS has done](http://bleacherreport.com/articles/305270-bcs-at-it-again-bcs-plants-bombard-espns-playoff-piece), isn't going to help. No amount of spit and polish is going to make a crappy message look better.
+
+The **BCS needs to quit letting others set the agenda and needs to go on the offensive with their own agenda**. Here is one proposal:
+
+- What is the real problem with the matchups created this season in the BCS bowls? No one knows how to evaluate all the unbeatens -- is an unbeaten TCU better or worse than Cincy or Texas or Boise or ? And are they really better than any 1-loss teams out there?
+- We don't know how to evaluate these teams because the regular season is a failure -- there is little/no meaningful cross-conference play. Imagine if TCU had had to play a couple SEC teams or Cincy a couple Big-12 teams and so on. Meaningful interconference play during the season would help bowl seeding dramatically.
+- The NCAA let schools add a 12th game to their seasons a few years back -- and rather than adding meaning interconference play, everyone has gone on a cupcake search. These games have added nothing to the quality of the sport. These games could and should be replaced with something more meaningful.
+- The idea then: grab the 12th game back. Ask all schools to hold a weekend in mid-October open. At the end of the previous weekend's play, seed all the FCS teams into meaningful interconference games. And have a grand mid-season interconference weekend full of meaningful games.
+- This would bring a level of excitement to the sport in October that would be unprecedented. A weekend of great games. The excitement of seeding announcements the weekend before. It would be an event on the scale of March Madness but unique to football in structure. It would be like a midseason Bowl season.
+- We would hold off creating BCS ratings until after this weekend so that the ratings can benefit from the information learned in this weekend.
+
+Rather than sitting back passively and being blamed as the bad guy ruining the sport, the BCS could go on the offensive with a proposal that would materially improve the sport. And it would maintain the character and history of the bowls, while improving the postseason matchups.
+
+There are many ways the mid-season seeding could happen and there is no need to get caught up in our undershorts of any one system. A proposal below but the exact form doesn't matter.
+
+- Pick a weekend 6 weeks into the season -- halfway point. All schools hold the weekend free for a game to be scheduled, and they agree to provide a playing facility every other year. Gate will be evenly split between schools, no one should care where a game is played. There is a debate to be had about games played on campus or at neutral sites, I have no strong position, there are good arguments for either.
+- Scheduling is done completely blind of any rankings, human or computer. All that is considered is FBS conference rankings up to that point in the season.
+- Conference standings are split in half -- upper and lower. If you are in upper half, you will play an FBS team in the upper half of another FBS conference. Lower half, then opponent in lower half of another FBS conference. Seeding happens within these halves then.
+- Unaffiliated teams are grouped with existing conferences for this exercise. ND with Big10, Navy and Army with BigEast, etc. A best estimate made of where they would rank in conference standing.
+- The out-of-conference lineup rotates each year according to a known schedule.
+
+So applied to this year's Big10 standings (approximate midyear , based on memory):
+
+- Iowa Plays a 6 seed from Pac10
+- PSU plays a 5 seed from Mountain West
+- OSU plays a 4 seed from WAC
+- Wisconsin plays a 3 seed from Sun Belt
+- MSU plays a 2 seed from Big12
+- Notre Dame plays a 1 seed from CUSA
+- Northwestern plays a 12 seed from MAC
+- Minnesota plays an 11 seed from SEC
+- Purdue plays a 10 seed from Big East
+- Indiana plays a 9 seed from the ACC
+- Illinois plays an 8 seed from the Pac10
+- Michigan plays a 7 seed from the Mountain West
+
+The conferences were just listed arbitrarily west to east. The next year they would rotate so you get a mix of seeds from conferences every year.
+
+This system doesn't screw up conference standings, in fact in **reinforces the conference games** as conference standing impacts seeding. It **doesn't screw up bowl affiliations, bowl economics, bowl season**. It **doesn't screw up BCS participation** except for at-large teams, and it can only improve the quality of selection. It **creates a huge amount of midyear excitement**, almost a 2nd bowl season. And it is **scalable** \-- if only 3 conferences want to participate at first, fine, do it with just 3.
+
+OK so there are a ton of details to work out but the core is this -- the **BCS needs to create a positive agenda and get out of their reactive position, and there is plenty of opportunity to improve the regular season**.

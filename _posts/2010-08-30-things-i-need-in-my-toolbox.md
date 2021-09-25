@@ -1,0 +1,8 @@
+---
+title: "Things I need in my toolbox"
+date: "2010-08-30"
+tags: 
+  - "tools"
+---
+
+\* "Wire Bender":http://toolmonger.com/2010/01/07/wire-bending-the-easy-way/ is a genius little thing. Cheap, rarely used, but the exact right tool for certain jobs. \* "Air hose swivel":http://toolmonger.com/2009/11/10/stop-fighting-with-your-air-hose/ is another simple little thing that is exactly the right solution. \* "Rollo Knife":http://toolmonger.com/2010/02/23/roll-o-was-its-name-o/. Rolling utility knife, purportedly a knuckle saver. \* "Butt splicers":http://toolmonger.com/2010/03/30/fast-electrical-butt-splices/. I am the suck at splicing wires so these might be useful. \* "Skoobawraps":http://www.skoobadesign.com/product/skoobawrap-large-86/. Trying to decide if these are awesome cool, or kind of stupid. \* "Fab@Home":http://www.adafruit.com/blog/2010/04/11/fabhome-make-anything/ 3d printers. Seems cool but honestly, the constraining factor on my manufacture of 3d items is not lack of a 3d printer, but is my complete inability to design/draw anything.

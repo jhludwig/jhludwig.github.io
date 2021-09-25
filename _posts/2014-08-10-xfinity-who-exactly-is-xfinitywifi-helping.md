@@ -1,0 +1,10 @@
+---
+title: "Xfinity, who exactly is xfinitywifi helping?"
+date: "2014-08-10"
+---
+
+So as I walk to get my morning coffee, my phone keeps hopping onto xfinitywifi ssids leaking out of nearby houses and apartments. And each time, destroys my internet experience. My perfectly happy LTE connection gets bumped aside, it takes 30-60 seconds for the xfinitywifi connection to validate and set up, typically any session i had (for instance downloading a pdf) is destroyed, and by that time I have walked out of range of the connection.
+
+I'm a paying xfinity customer and I don't get what this is for. Doesn't help me at home. Doesn't help me out and about town. Doesn't help me at friend's house since they all let me on their wifi. Turning on autoconnect to this SSID actually makes my internet experience worse.
+
+That is the summary: "xfinitywifi SSID makes your internet experience worse".

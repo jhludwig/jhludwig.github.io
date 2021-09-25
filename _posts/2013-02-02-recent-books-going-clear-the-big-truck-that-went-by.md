@@ -1,0 +1,11 @@
+---
+title: "Recent Books -- Going Clear, The Big Truck That Went By"
+date: "2013-02-02"
+tags: 
+  - "books"
+  - "tweet"
+---
+
+[![bigtruck](images/bigtruck.jpeg)](http://theludwigs.com/wp-content/uploads/2013/01/bigtruck.jpeg)
+
+\* "Going Clear":amazon by Lawrence Wright. A tough look at Scientology. The author does a nice job of letting the evidence speak for itself. If even a fraction of the accounts of abuse are true, the church has some serious issues to face. The public figures who are adherents probably should step up and make sure their church practices are reformed. \* "The Big Truck That Went By":amazon by Jonathan M. Katz. Recent history of Haiti and recovery efforts after the devastating earthquake there. Much damning evidence about the effectiveness of charities, about the US's role, about the UN's role. The author makes a compelling case that we should give much more aid directly to Haitian institutions and much less to outside institutions (including any US government or UN institution). Sobering.

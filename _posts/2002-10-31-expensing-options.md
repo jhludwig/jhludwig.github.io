@@ -1,0 +1,8 @@
+---
+title: "Expensing Options"
+date: "2002-10-31"
+tags: 
+  - "business"
+---
+
+**Expensing Options**. Reading [SNS](http://www.tapsns.com) this week, it just struck me that, rather than trying to assign some debateable value number to options and passing them thru the P&L, let's do a simpler thing. Let's just have companies publish quarterly a statement of ownership -- who owns what shares; how many new options were granted in the quarter; how many grants expired or were cancelled; new stock issuances as a result of financing moves, etc. And then a clear state of EPS impacts of all this -- I just want to know, as a stockholder, did I suffer unfair and unwise dilution during the quarter? This is something that companies could do today without solving the problem of how to value options. And it would be valuable.

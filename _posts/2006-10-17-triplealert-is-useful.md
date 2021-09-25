@@ -1,0 +1,10 @@
+---
+title: "TripleAlert is useful"
+date: "2006-10-17"
+tags: 
+  - "finance"
+---
+
+[Protect yourself from identity theft with Credit Monitoring from TripleAlert.com](https://www.experiandirect.com/triplealert/default.aspx "Protect yourself from identity theft with Credit Monitoring from TripleAlert.com") -- i got a free subscription to this for a year because one of my financial institutions screwed up and released some data. and i have to say it is pretty useful. i get an email alert anytime there is a change to my credit record at any of the 3 major credit tracking institutions -- any new account opened for instance. it is a nice part of your personal identity theft package -- if all your defenses fail, you can get an alert when something does happen.
+
+it would be interesting to write up and discuss people's best practices for identity protection. the other thing i am glad i do is to maintain basically two complete bank accounts. one is the "public" account, from which i write all checks, do automatic bill payment, etc. the other is a private account that is where my financial assets are really kept. they are at different institutions. i routinely move money over to the "public" account to pay bills. with this setup, if someone learns how to forge checks or compromises my atm card or something else, they have access to only a teeny tiny part of my assets and i can shut down that public account if i need to.

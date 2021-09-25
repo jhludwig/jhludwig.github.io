@@ -1,0 +1,6 @@
+---
+title: "I couldn't find a good example of using AWS SWF from Python, so I wrote one"
+date: "2016-02-09"
+---
+
+https://github.com/jhludwig/aws-swf-boto3. There are a number of pre-boto3 examples and this is just a rewrite. The decider is simplistic and will fail if multiple requests are queued up in one poll, but it is a start.

@@ -1,0 +1,10 @@
+---
+title: "Recent Books -- Different, xkcd, Shardlake"
+date: "2015-02-03"
+---
+
+[![different](images/different-194x300.jpg)](http://theludwigs.com/wp-content/uploads/2015/02/different.jpg)
+
+- [Different](http://www.amazon.com/Different-Escaping-Competitive-Youngme-Moon-ebook/dp/B0036S4CNE) by Youngme Moon. I hate most business books but this one was refreshing. Relatively agjron free, short, and with a clear point of view about how to innovate and stand out.
+- [Dissolution](http://www.amazon.com/Dissolution-Shardlake-Novel-Matthew-ebook/dp/B002TZ3EPM) by C. J. Sansom. Great Tudor era mystery. Very sorry that TV production on this stalled years ago, this would be awesome.
+- [What If?](http://www.amazon.com/What-If-Scientific-Hypothetical-Questions-ebook/dp/B00IYUYF4A) by Randall Munroe. The perfect bathroom book.

@@ -1,0 +1,10 @@
+---
+title: "Ohio State History - Woody Hayes"
+date: "2002-11-20"
+tags: 
+  - "buckeyes"
+---
+
+**Woody**. Let's all reflect on the best of Woody this week -- [Ohio State History - Woody Hayes](http://www.bucknuts.com/osuhistory/coachhayes.htm)
+
+> _Woody was famous for his motivational speeches and techniques. He always brought past players in to speak to the current team, and one time, he called up ex-Buckeye star defensive lineman Jim Stillwagon to come in and give a pre-game speech before the UM game and tell the players what it means to play in the big game. Stillwagon began his speech, but Woody interrupted in a big way. Stillwagon described what Woody said and did this way: "I start in with whatever it was I said, and all the sudden Woody just goes into this frenzy: 'Yeah, but I mean, tell 'em how it really bleeping was.' BAM. He hits me right in the stomach. 'Tell 'em it's like war.' BAM. He hits me again. 'You gotta kill those sonsabitches!' BAM. I'm getting the snot beat out of me. It's like he's hitting a heavy bag. BAM. 'Now you tell 'em, Jim.' And I'm thinking to myself, 'How did I get into this?' But you know what? Every guy who was there told me later, 'That was a great speech you gave.'"_

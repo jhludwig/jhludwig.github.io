@@ -1,0 +1,14 @@
+---
+title: "Killing Google Reader seems a little arrogant."
+date: "2013-03-15"
+tags: 
+  - "goog"
+---
+
+[![jonmelsa@flickr](images/arrogance.jpg)](http://theludwigs.com/wp-content/uploads/2013/03/arrogance.jpg) I liked Google Reader. It was a great way for me to keep up with content across a variety of interests -- I had groups for college football, for tech, for books, for economics. I knew that I could always go to Reader and get caught up on a topic. As others have noted, it was probably the single Google product that I used more than anything.
+
+Judging by Twitter reaction, a lot of other people liked Reader too, and in particular, use of Reader seemed to be biased towards the influentials in each of the disparate communities I followed. The leading college football writers were all saddened to see reader go. Leading tech writers. etc. "Marcelo":http://blog.calbucci.com/2013/03/google-is-about-to-learn-tough-lesson.html says it well, Google just walked away from a product used disproportionately by influentials, and this seems like an ill-considered move. Most startups would kill for the audience that Google Reader had.
+
+Of course Google isn't really a startup any more, as this move demonstrates. Google is willing to walk away from customers to achieve some strategic goal. Google is willing to dump a product with users, to try to force people to more "strategic" products like Google+. Google prioritizes their competition with Facebook over user satisfaction. Google prioritizes the needs of advertisers, who probably never loved Reader, over the needs of users. It all seems a little arrogant and self-centered.
+
+But no time for whining. Google owned Reader and they get to decide what to do with it. Twitter is fun but is no replacement for Reader -- I didn't have to wade thru a stream of gunk to get to content on Reader, and Reader never had the snark of Twitter -- I like a certain amount of snark, but not all the time. I've moved initially on to Feedly which slurped up all my Reader groups and feed info nicely, seems relatively fast, is a lot more expressive that Google Reader. I'm not unhappy. Reader had been static so long, Google had really given up on it years ago, it was time to move on. As "others have noted":http://corte.si/posts/socialmedia/rip-google-reader.html, Reader was probably hurting the market more than helping it, people can now move on to better solutions that are more user focused.

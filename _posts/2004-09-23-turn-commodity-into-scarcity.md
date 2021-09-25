@@ -1,0 +1,8 @@
+---
+title: "Turn Commodity into Scarcity"
+date: "2004-09-23"
+tags: 
+  - "business"
+---
+
+[A VC: Turning Commodity Into Scarcity](http://avc.blogs.com/a_vc/2004/09/turning_commodi.html "A VC: Turning Commodity Into Scarcity") -- great insight -- it is a core challenge for many businesses large or small -- I remember back in the days when I worked in MSN, where the ad sales team worked hard to turn the huge inventory of unsold ad space into limited run special opportunities -- "be one of our 5 Valentine's Day partners", "be one of our 3 premier blah-blah partners" -- great work by that team to turn excess into scarcity. A great basic business lesson.

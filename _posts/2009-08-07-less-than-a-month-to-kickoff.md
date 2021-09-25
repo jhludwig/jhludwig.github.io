@@ -1,0 +1,13 @@
+---
+title: "Less than a month to kickoff!"
+date: "2009-08-07"
+tags: 
+  - "buckeyes"
+  - "usc"
+---
+
+[Preseason coaches poll is out, OSU at 6th, SC at 4th](http://blog.dispatch.com/buckeyesblog/2009/08/usa_today_poll_usc_4th_osu_6th.shtml). Man I am fired up for the opener against Navy in less than a month, and for the SC rematch.
+
+Other teams and stories I'm excited about:
+
+\* Michigan. Can they take steps back to respectability? The best rivalry in sports needs drama to sustain itself. \* SC. How good how fast, and will they learn to win the games they ought to win? \* UW. My adoptive hometown team, will a new coach get them off the mat? \* Florida. Hoping the rest of the SEC mans up and pins a couple losses on them. \* Denison. Go Red Raiders! Only because a member of extended family is on the team.

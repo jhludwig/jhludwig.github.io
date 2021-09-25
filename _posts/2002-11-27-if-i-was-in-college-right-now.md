@@ -1,0 +1,12 @@
+---
+title: "If I Was In College Right Now"
+date: "2002-11-27"
+tags: 
+  - "education"
+---
+
+**If I Was In College Right Now**. Tong and I have had a little thread going about college -- what would we be studying/doing if we were college age right now. I'll let Tong speak for himself, but as much as I love software and networking, I think I'd be focused on materials science and the merge of materials science and information processing. Nanofabrication, the IT technologies to let us design and control materials and material fabrication at atomic scales, "smart" materials, etc. I just love this area and suspect that I would have a lot of fun in this area.
+
+Or instead of diving to the atomic level, I'd go high and study architecture and urban planning. My first love, this is what I wanted to do when I was 13. I love the pure design thinking, the human orientation of the design work, the blend of aesthetics with science.
+
+I'm certainly not unhappy with the choices I did make -- software, digital technology, networking has been a fascinating path and there is still a ton to learn and do in this domain.

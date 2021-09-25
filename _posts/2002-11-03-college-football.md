@@ -1,0 +1,8 @@
+---
+title: "College Football"
+date: "2002-11-03"
+tags: 
+  - "buckeyes"
+---
+
+**College Football**. Wow what a great day for the Buckeyes. A super win over Minnesota, and losses by so many other contenders. I just did a quick pro forma recalc of the BCS polls and, if OSU/Miami/Oklahoma all move up as expected in the computer polls, and if WSU moves up as expected, it is going to be just about a dead heat between OSU and Miami for the 3rd spot. If the effect of WSU winning is greater than linear (ie it opens up the strength of schedule lead OSU has over Miami even more, or WSU moves up higher than 5 in the BCS), OSU could take the number 2 spot! On pins and needles...

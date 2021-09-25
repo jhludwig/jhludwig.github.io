@@ -1,0 +1,8 @@
+---
+title: "Compelling reads over the last couple weeks"
+date: "2005-02-27"
+tags: 
+  - "business"
+---
+
+\* [Tim on limits](http://www.timaoutloud.org/archives/000387.html) -- "The most important is that the less you can put into a solution or system, the less risk there is to it failing to provide a return on the investment of time and resources. Conversely, it provides the potential for a higher margin if it is indeed successful." \* [Ballmer on being first](http://blog.seattlepi.nwsource.com/microsoft/archives/004216.html?wbfrom=rss) -- "When Ballmer gets talking about how Microsoft must be first with technology innovations ? which, so far in Microsoft's history, has not often happened..." -- amazing how critics continue to miss the obvious areas where Microsoft was first. The refactoring of the PC industry from vertical all-in-one boxes to today's horizontal build-your-own didn't just happen by accident, there is a ton of software innovation that occurred to support and motivate that shift. \* Mini-Microsoft pulls no punches -- ["Is something rotten in Redmond? Yes! It's the rotting, fleshy mass of way too many misdirected, underutilized, and unneeded Microsofties."](http://minimsft.blogspot.com/2005/02/something-is-rotten-in-town-of-redmond.html) And on a more prescriptive note: ["My humble suggestion: flatten the Microsoft product team management chain."](http://minimsft.blogspot.com/2005/02/lets-fire-all-middle-managers.html) \* Which ties nicely to some good stuff Tom Evslin has been writing -- [the flattening of organizations](http://feeds.feedburner.com/FractalsOfChange?m=17), [the flattening of information retrieval.](http://feeds.feedburner.com/FractalsOfChange?m=20)

@@ -1,0 +1,8 @@
+---
+title: "Ignition blog roundup"
+date: "2007-01-14"
+tags: 
+  - "ignition"
+---
+
+\* Andy on [JB evolution](http://asack.typepad.com/a_sack_of_seattle/2007/01/judys_book_evol.html) -- _"We will have a significantly revised site by the end of the first quarter. I'm looking forward to it"_ \* [Phil on privacy implications of new mobile gmail app](http://thebogles.com/blog/2007/01/undocumented-privacy-implications-of-the-gmail-mobile-app/) -- _"Add on the privacy concerns and this is clearly a feature that users should be warned about and given the option to disable"_ \* [Phil on rebate scams](http://thebogles.com/blog/2007/01/latest-office-depot-rebate-scam-nonexistent-rebate-cities/ ) -- _"Having been burned, I now avoid most rebates like the plague"_ \* [Dave on the collapse of Search Engine Watch](http://www.naffziger.net/blog/index.php/2007/01/02/search-engine-land-vs-search-engine-watch/) -- _"It is clearer than ever that Danny Sullivan was the driving force behind SEW - allowing him to leave (and start a competitor!) was a huge mistake"_ \* [Jason on Berry411](http://jobster.blogs.com/blog_dot_jobster_dot_com/2007/01/the_1_2006_tech.html) -- _"the #1 technology that i could not live without in 2006"_ \* [Phil on google's openness](http://thebogles.com/blog/2006/12/google-is-to-data-as-microsoft-is-to-code/ ) -- "_Google is increasingly becoming a data black hole"_ \* [Dave on badmouthing competitors](http://www.naffziger.net/blog/index.php/2006/12/08/badmouthing-competitors/) -- _"There is actually a study that confirms that listeners assign the speakers the traits that they speak about. So, call someone lazy and they’ll associate you with laziness"_

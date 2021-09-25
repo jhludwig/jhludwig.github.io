@@ -1,0 +1,10 @@
+---
+title: "Ambicom CF GPS card"
+date: "2004-01-22"
+tags: 
+  - "tech"
+---
+
+Used this card -- [Ambicom CF gps](http://www.ambicom.com/products/gps/gps-cf.html) -- with my toshiba pocketpc on a recent road trip from Seattle to LA. Pros: hardware install flawless, acquired GPS signals right away. Very painless to get working. And map data seemed accurate. Cons: actually assembling your route and map data is painful. You run software on the PC to define your route, and then download the supporting maps to the pocketpc (since you can't fit them all on the pocketpc). The software couldn't determine a route from Seattle to LA for some reason, and so I had to create a bunch of subroutes, and then at some point pick counties by hand to download. It is very painful to pick counties by hand, I admit to not knowing the names and layouts of all the counties in WA, OR, and CA.
+
+I picked this card because it was the cheapest. It might be wise to spend a little more to get a better software experience.

@@ -1,0 +1,9 @@
+---
+title: "Recent gear I've been trying"
+date: "2011-11-03"
+tags: 
+  - "gear"
+  - "software"
+---
+
+\* "PlugBug":http://twelvesouth.com/products/plugbug/. Ordered two. \* "iZON":http://steminnovation.com/section/iZON/24/. Sleek look, nice looking software, but some bugginess. When it all gets ironed out will be a fabulous product. \* "Orchestra":orchestra.com. Nice todo list with voice input (might be rendered irrelevant by Siri but I'm not 4s yet). Thanks "chris":http://twitter.com/#!/chrisfhoward \* "Batch":batch.com. An Ignition investment. Nice photo sharing tool. \* "Exoplanet":http://itunes.apple.com/us/app/exoplanet/id327702034?mt=8. If you don't love this, you have to turn in your nerd merit badge. \* "Drawtop":http://thedrawtop.com/shop. Haven't ordered yet but the simplicity of converting an unused flat surface into a whiteboard is so appealing. \* "Stepping into photos":http://www.petapixel.com/2011/09/12/stepping-into-historical-photos-with-3d-camera-mapping/. No software to buy here, but I would buy in a second if there was something reasonably priced that would let me do this. \* "Lost Crates":https://lostcrates.com/. Love the idea. Not sure it would work well in practice. \* "Voxatron":humblebundle.com. What a nice looking indie game. Doesn't quite suck me in the way Minecraft or Darwinia did, but excellent. \* "Findings":https://findings.com/jhludwig. Thanks @crashdev, this should be just part of the Kindle experience.

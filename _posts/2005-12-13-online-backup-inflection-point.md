@@ -1,0 +1,11 @@
+---
+title: "Online Backup Inflection Point?"
+date: "2005-12-13"
+tags: 
+  - "software"
+  - "web"
+---
+
+[Interesting article at A VC](http://avc.blogs.com/a_vc/2005/12/online_backups_.html) -- "So I think online backup is at an inflection point. Consumers are going to be adopting this approach to peace of mind in droves over the next couple years. It will only take one lost photo of a newborn baby or a birthday party to cause "post crash stress syndrome". Trust me. I know how it feels".
+
+I really agree with his articulation of the consumer disaster scenario -- lost kid photos are going to drive people batty. I am not convinced that datacenter-based service is the right answer. Something like foldershare might be the more economic answer for most people.

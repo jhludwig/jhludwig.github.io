@@ -1,0 +1,10 @@
+---
+title: "Books -- Robopocalypse, Wild Cards, Leviathan Wakes, NPR list"
+date: "2011-08-11"
+tags: 
+  - "books"
+---
+
+\* "Robopocalypse":amazon by Daniel Wilson. Zombie robots rise up and attack humanity. Ok but many better zombie apocalypse books out there. \* "Wild Cards I":amazon, Ed. George R. R. Martin. Noir-ish x-men, with the significant inclusion of all the unfortunate people with less-than-useful mutations -- uncontrollable sliming, terrible disfigurements, lethal mutations. Obbviously a lot like it, since a jillion more books have followed. Just ok. \* "Leviathan Wakes":amazon by James S. A. Corey. Solar-system-spanning conspiracies and war, fun stuff. No terribly new frontiers but quality space opera.
+
+[![](images/npr_books_logo.gif "npr_books_logo")](http://theludwigs.com/wp-content/uploads/2011/07/npr_books_logo.gif)Oh and here is "NPR's list":http://www.npr.org/2011/08/09/139248590/top-100-science-fiction-fantasy-books of the top 100 SF/Fantasy books or series. Can't agree with it all but a not unreasonable reading list.

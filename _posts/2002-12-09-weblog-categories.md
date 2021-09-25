@@ -1,0 +1,8 @@
+---
+title: "Weblog Categories"
+date: "2002-12-09"
+tags: 
+  - "tech"
+---
+
+**Categories**. [Jon Udell's](http://weblog.infoworld.com/udell/2002/12/09.html#a533) struggle with categories on his blog. I am not a big fan of categories because I believe that a) people don't take the time to tag all their content appropriately, and b) our sense of proper categorization changes over time creating a management/mapping headache. I am much more interested in adding a great search interface to my site with really good and adaptive stemming support as the way to find all articles on a topic.

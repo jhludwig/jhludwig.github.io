@@ -1,0 +1,10 @@
+---
+title: "Books -- Maelstrom, Third Degree, T is for Trespass"
+date: "2009-08-31"
+tags: 
+  - "books"
+---
+
+Some airplane reads:
+
+\* "Maelstrom":amazon by Peter Watts. World at risk as cyber/nano/bio advancements spin out of control, helped by misguided human conspirators. The unique part of this tale is the abuse backstory of the protagonist and how that affects her actions. Amazon says 4 stars, might be a bit rich, but a solid effort. \* "Third Degree":amazon by Greg Iles. OK suspense tale, a control freak rips apart family when events happen out of his control. I am not sure why I bought, Amazon says 3 stars, that is probably about right. \* "T is for Trespass":amazon by Sue Grafton. First I've read in this series, perhaps that was a mistake. When do authors really hit their stride in a detective series? I'd imagine it is probably in the 4th or 5th book, not the 20th. The characters and cases are mundane, the detective misses massive issues to keep the story going, the plot really flags through the middle 50% of the book, this just doesn't feel like a lot of effort went into it. I was really bored halfway through. Amazon says 4 stars, I'd say 2. Perhaps if I had read others in the series and was familiar with and invested in the characters, I would feel differently.

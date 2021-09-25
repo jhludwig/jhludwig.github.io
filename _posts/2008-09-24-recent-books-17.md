@@ -1,0 +1,8 @@
+---
+title: "Recent books"
+date: "2008-09-24"
+tags: 
+  - "books"
+---
+
+\* "The Black Tower":amazon by Louis Bayard. Very engaging tale of conspiracy set during the French Restoration. Excellent characters, nicely ambiguous ending. \* "The Blue Star":amazon by Tony Earley. Coming of age tale during the early days of WWII. Love, pride, prejudice, fear, death, hope. A great little human story. \* "The Book Of Lies":amazon by Brad Meltzer. Da Vinci Code-ish, a nice beginning of biblical conspiracy, the origin of the Superman character, and your standard life threatening events. The middle slows a little but a sweet ending.

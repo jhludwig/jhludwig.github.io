@@ -1,0 +1,14 @@
+---
+title: "What if VMs were free?"
+date: "2006-06-29"
+tags: 
+  - "software"
+---
+
+So much to read on virtualization these days -- here's a nice blog -- [virtualization.info](http://www.virtualization.info/ "virtualization.info").
+
+Put me to wondering -- what if it were free to bring up VMs on your machine? Where "free" means very inexpensive in performance terms.
+
+I wonder if we wouldn't architect our OSes very differently. Why jam all the advanced support for graphics hardware, and the attendant instability, into mainstream Windows? My web browser and mail client just don't benefit from it. Wouldn't I rather just bring up a separate VM that has all my xbox-like features and nothing else?
+
+I really wonder if in the face of cheap virtualization, you wouldn't design OSes very differently. Rather than having a general purpose OS with all the features needed for every class of app, perhaps you would instead design for very special purpose VMs with a smaller set of OS features -- this VM profile for games, that one for productivity apps, another for running all your firewalling and security goo, etc etc.

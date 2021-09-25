@@ -1,0 +1,8 @@
+---
+title: "Airline economics"
+date: "2003-12-09"
+tags: 
+  - "business"
+---
+
+[Going Commercial: Airline Economics: Fasten Your Seat Belt](http://www.nytimes.com/2003/12/09/science/sciencespecial2/09WONG.html?ex=1386392400&en=a2da224910739e1f&ei=5007&partner=USERLAND "Going Commercial: Airline Economics: Fasten Your Seat Belt") -- good article about airline economics and the fact that as an industry, airlines have been a net money loser over their entire existence. I wonder if this is not typical of any capital-intensive industry, I seem to remember seeing the same analysis of the pulp and paper industry at one point tho I can't lay my finger on it now. I don't think this necessarily means a lot for society, society will still find a way to fund these industries as they have a lot of utility. As an individual investor or employee though, it certainly suggests that you should run away from these industries.

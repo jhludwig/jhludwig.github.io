@@ -1,0 +1,20 @@
+---
+title: "Good Trial"
+date: "2002-10-10"
+tags: 
+  - "tech"
+---
+
+**Good Trial**. I've been trialing the [Good](http://www.good.com/) software for the Blackberry 957. The RIM software has always been a little crufty -- the todo list for instance is much worse than the Palm's. So very interested in alternatives.
+
+The pros of the Good software: Full over-the-air sync of all Outlook items (mail, contacts, calendar, todo, notes) is great. I love that. I use notes and todo list a lot, this is a huge boon to me. The homepage calendar view is nice, much more useful than calendar popup reminders. In-band mail addressing is nice -- much more intuitive than popping out to the address book browser. Attachment viewing is a nice feature tho not as useful as I thought it would be. It still takes a lot of time to download attachments, and tables don't come across well as they get unwound to fit on the small screen.
+
+Cons: Performance is slower than the RIM software. I have a large address book (~2000 entries) and a fairly large calendar file. Searching the address book is slower than it was with the RIM software, paging thru the calendar is slower. The RIM software could keep up with my typing, the Good software cannot at times.
+
+Battery life is a big concern. I used up 30% in one day running the Good software -- I assume because of the increased radio traffic from all the ota syncing. With the RIM software I could go for a week between cradles without even thinking about it, and 2 weeks at least if I engaged in some modest power management (turn off the device at night). With Good I will have to think a lot more about power management.
+
+The Calendar app is clearly not done. No week view. The month view doesn't indicate if you have appointments on days, and hence is not useful. No creation of recurring appointments on the device. Agenda view is really really slow. The "jump" dialog is busted -- the cursor is placed on the "Go" button by default, not on the date fields. And when you scroll the month field past year end, the year is not auto-incremented.
+
+Addressing doesn't search on first names. It is great that I can directly edit the "to" field and have it autocomplete names, but i am used to typing in first names and this doesn't work. You have to type in last names -- ugh.
+
+Net/net, based on 3 days experience -- I am still sticking with the Good software for now. Over the air sync is nice. But I can't really enthusiastically recommend it yet. They need to improve performance, the calendar app, addressing, and battery life (I hope they can do over-the-air software upgrades!). Maybe the Good device is better on these fronts.

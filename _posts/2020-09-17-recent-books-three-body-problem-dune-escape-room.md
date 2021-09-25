@@ -1,0 +1,9 @@
+---
+title: "Recent Books -- Three Body Problem, Dune, Escape Room"
+date: "2020-09-17"
+---
+
+- [The Three-Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem) by Liu Cixin. This didn't really float my boat, I suspect the difficulty of translating from Chinese is significant, it is not just the straight translation but all the cultural references that are hard to carry over.
+- [Dune](https://www.goodreads.com/book/show/44767458-dune) by Frank Herbert. Read ~45 years ago (BTW: I am old), upcoming movie motivated me to reread (Chalamet was born for this role). The book is still good but not perfect. Herbert's imagined world is fascinating. He rushes thru the story -- in today's world, "Dune" alone would expand into 7 books à la Game of Thrones. Some very topical themes. The last scene is just goofy and off, let's hope that gets a better treatment in the movie. But overall still a very interesting book.
+- [The Escape Room](https://www.goodreads.com/book/show/42275312-the-escape-room) by Megan Goldin. Eh. Too much deus ex machina.
+- [The Mechanical](https://www.goodreads.com/book/show/20980667-the-mechanical) by Ian Tregillis. Fun tale of alternate history with clockwork robots. Very different set of guiding principles than Asimov's.

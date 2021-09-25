@@ -1,0 +1,10 @@
+---
+title: "PC Graphics Evolution"
+date: "2002-08-12"
+tags: 
+  - "tech"
+---
+
+**PC Graphics Evolution**. Longish article on [PC Graphics Evolution](http://tech-report.com/etc/2002q3/nextgen-gpus/index.x?pg=1). Fun to read. Will be lots of reasons to keep on buying new PCs.
+
+It is interesting that we have these hugely capable graphics coprocessors in our PCs now. Why don't we have similar network coprocessors? With all the demand for wirespeed packet analysis/transformation (secure vpns, personal firewalls for instance) at higher and higher wirespeeds, seems to me like we will need more compute power dedicated to network traffic. I haven't done the math tho to convince myself of the need.

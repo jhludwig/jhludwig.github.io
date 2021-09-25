@@ -1,0 +1,11 @@
+---
+title: "tips on install of ipfire"
+date: "2012-09-01"
+tags: 
+  - "ipfire"
+  - "network"
+---
+
+Having installed two ipfire boxes now, some simple tips. Overall it is a pretty straightforward install but these may save you a few minutes:
+
+\* You can find this in the online doc, but during install, remember: red is your wan connection; green is your local lan; and blue is your local wifi. You need cards for at least red and green or the install will flip out.[![](images/netsnag.jpg "http://www.flickr.com/photos/brunogirin/")](http://theludwigs.com/wp-content/uploads/2012/09/netsnag.jpg) \* Post install, you can only admin from the green subnet, which is totally sensible. And if you install ssh, it is only active by default on the green subnet, again totally reasonable. \* Post install, your wifi network will be inert and useless. You have to further install the hostapd extension using the pakfire command line or gui, and then configure the ssid and password, turn on dhcp, and further enable the mac addresses of each wireless device you want to support. Online guides suggest you also need to install wifi card drivers but this doesn't seem to be needed, the lastest ipfire build seems to include them. Blue useless. \* I'd highly recommend installing the ssh extension. also tcpdump. I have a bunch others installed too. \* The samba extension doesn't seem to work well, all my machines have trouble authenticating to the ipfire box. samba seems to offer a kajillion security settings and i can't find quite the right combo to work.

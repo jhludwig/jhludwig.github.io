@@ -1,0 +1,21 @@
+---
+title: "Skeptical about voice control"
+date: "2012-04-02"
+tags: 
+  - "ignition"
+  - "tweet"
+  - "venture"
+  - "voice"
+---
+
+[![](images/iphone-control-208x300.jpg "iphone-control")](http://theludwigs.com/wp-content/uploads/2012/04/iphone-control.jpg)There was a "Sunday NYT article on voice recognition":http://www.nytimes.com/2012/04/01/technology/nuance-communications-wants-a-world-of-voice-recognition.html?\_r=1&scp=1&sq=dragon%20tv&st=cse and how we are all going to control our TVs and other devices with voice. Building on the Siri wave, there is a popular belief that voice will become a significant or even dominant way we interact with devices and services.
+
+I'm a big believer in voice. Ignition is an investor in "Spoken":http://www.spoken.com/ who is doing great with their existing cloud voice processing business, and have some great ideas for the future. We're an investor in "AVST":http://www.avst.com/, "Twisted Pair":http://www.twistpair.com/, "Public Mobile":http://www.publicmobile.ca/pmconsumer/ -- all voice-based businesses, all doing great. People are never going to get tired of talking to one another.
+
+And that is what voice is really all about -- people talking to people, not to devices. I will invest all day long in technologies that improve people talking to people -- making it easier, more accessible, cheaper, augmenting with additional services, hosting conversations, etc.
+
+On the other hand, we don't talk to our tools and instruments. We touch them. A well designed tool or instrument fits the hands naturally, and in the hand of a skilled practitioner allows great creativity and/or great performances. The feedback during its use is important, we are very sensitive to the feedback and can adjust our use in very fine increments. We don't attempt to use voice which is an imprecise, error-prone method -- in fact, trying to talk very precisely can be quite annoying and unnatural.
+
+So are our computational devices more like tools, or more like people? Do we want to interact with them as tools, or as people? My gut says more like tools, and that we will be more effective using touch and gestures than voice.
+
+There are always going to be edge cases in which voice control is preferred -- people with disabilities, handsfree situations. But I'm not convinced voice control will become significant.

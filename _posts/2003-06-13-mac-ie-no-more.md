@@ -1,0 +1,8 @@
+---
+title: "Mac IE no more"
+date: "2003-06-13"
+tags: 
+  - "tech"
+---
+
+[Microsoft drops development of Internet Explorer for Mac](http://maccentral.macworld.com/news/2003/06/13/explorer/ "Microsoft drops development of Internet Explorer for Mac") -- well it was always a force fit. I remember when Brad and I hired the Mac IE team -- so many hurdles to overcome -- hiring up a new team, based in the valley, to do Mac software. Seemed like I spent half my life justifying their existence and protecting them from the Redmond antibodies. Don and gang, you were great to work with. Wish you all the best.

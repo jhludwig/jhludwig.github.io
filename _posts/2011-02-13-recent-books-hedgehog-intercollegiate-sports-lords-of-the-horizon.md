@@ -1,0 +1,10 @@
+---
+title: "Recent Books -- Hedgehog, Intercollegiate Sports, Lords of the Horizon"
+date: "2011-02-13"
+tags: 
+  - "books"
+---
+
+![](images/hedgehog.jpeg "hedgehog")OK my pleasure reading is way off because my brain is buried in Computational Fluid Dynamics and also in some pretty interesting things at work. I am reading a ton actually.
+
+\* "The Elegance of the Hedgehog":amazon by Muriel Barbery. A powerful tale, the ending is a gut punch. Totally drawn in by the characters and totally exposed at the end. I'm still reeling. Amazon says just 3.5 stars. Goodreads 3.66, I like this one way more, 4.5 stars. \* "The Economics of Intercollegiate Sports":amazon by Randy R. Grant, John Leadley, Zenon Zygmont. Scholarly look at the NCAA and BCS cartels and how they operate our primary "amateur" sports. Undergraduate economics level, good read overall. Clearly articulates exactly how the NCAA and member universities constrain the opportunities for athletes to benefit the institutions. Unrated on Amazon and Goodreads, but I give it a 4 if you are interested in this kind of thing. The biggest negative is its textbook pricing. \* "Lords of the Horizons":amazon by Jason Goodwin. A somewhat literary history of the Ottoman Empire. It is a very pleasant read but I can't say it is gripping. I am having problems finishing it because, while it is interesting and very nicely written, it lacks drama. Amazon gives 3.5 stars, Goodreads about the same, I have to stop at 2.5 stars.

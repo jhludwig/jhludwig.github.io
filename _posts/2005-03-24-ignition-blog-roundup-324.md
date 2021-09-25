@@ -1,0 +1,8 @@
+---
+title: "Ignition Blog Roundup 3/24"
+date: "2005-03-24"
+tags: 
+  - "ignition"
+---
+
+\* [Melodeo coverage](http://www.geekfishing.net//2005/03/23/whos_turning_your_phone_into_an_ipod.html) in BW article on music phones. \* a [little blog coverage of mfoundry](http://www.bitsplitter.net/blog/?p=461). \* Rich is getting into podcasting -- [using the iriver](http://www.geekfishing.net/media/podcast/2005/03/16/iriver_ifp799_recording.html), [enabling our blogs to support podcasts](http://www.geekfishing.net/media/podcast/2005/03/16/all_geekfishing_blogs_are_podcast_enabled.html), [publishing a podcast](http://www.geekfishing.net/media/podcast/2005/03/16/publishing_a_podcast.html). and John Zagula pointed me towards [podshow](http://www.podshow.com/) \* Martin finds [more great stuff on alternative fuels](http://www.martinandalex.com/blog/archives/2005/03/biodiesel_shows.html) -- the entrepreneurial spirit is alive and well in the biofuel community. \* Phil's on a tear about open relationship networks -- [XFN tagging](http://www.thebogles.com/blog/2005/03/alans-blog-open-alternative-to.html), [Zoominfo](http://www.thebogles.com/blog/2005/03/vertical-beat-eliyon-becomes_21.html) nee Eliyon, [network visualization tools](http://www.thebogles.com/blog/2005/03/interactive-network-visualization.html) \* Also, Phil on [mobile search](http://www.thebogles.com/blog/2005/03/growing-trend-towards-mobile-search.html). Phil's little bberry411 app is more useful than any other mobile search app i've tried... \* Rich also has been trying all the spam fighting plugins for MT, like [this one.](http://www.tongfamily.com/guide/blogs/2005/03/13/mtbannumericentities.html) The flood of trackback spam has become truly painful.

@@ -1,0 +1,12 @@
+---
+title: "Inside the light rail tunnel -- highlight of my week!"
+date: "2012-04-16"
+tags: 
+  - "civil-engineering"
+  - "northwest"
+  - "seattle"
+  - "tunnel"
+  - "tweet"
+---
+
+[![](images/LightRailCOETour8-S.jpg "LightRailCOETour8-S")Looking down the tunnel from the UW campus](http://theludwigs.com/wp-content/uploads/2012/04/LightRailCOETour8-S.jpg) -- thanks so much to folks at UW College of Engineering for arranging, and for "Traylor":http://www.traylor.com/ for hosting. If Traylor hadn't been so darn good at their job, completing this link early, we would have actually seen the borer in operation. But fascinating to see all the infrastructure to support the boring operation -- the trains, material delivery systems, etc etc.

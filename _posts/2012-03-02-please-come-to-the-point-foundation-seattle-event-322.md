@@ -1,0 +1,11 @@
+---
+title: "Please come to the Point Foundation Seattle Event 3/22"
+date: "2012-03-02"
+tags: 
+  - "charity"
+  - "lgbt"
+  - "point-foundation"
+  - "tweet"
+---
+
+As I've "mentioned in the past":http://theludwigs.com/2011/03/point-foundation-scholarships/, we are supporters of the Point Foundation, which provides "financial support, mentoring, leadership training and hope to meritorious students who are marginalized due to sexual orientation, gender identity or gender expression." They have a "Seattle event":http://www.pointfoundation.org/seattle/ planned for 3/22 which should be a great gathering of folks. If you are inclined to support, please consider coming.

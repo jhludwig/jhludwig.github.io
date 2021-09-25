@@ -1,0 +1,12 @@
+---
+title: "Hey, Father's Day is not that far away, if you need ideas for me..."
+date: "2012-04-06"
+tags: 
+  - "design"
+  - "products"
+  - "tweet"
+---
+
+Unfortunately I have more ideas than offspring...
+
+\* "pivoting power cord":http://www.quirky.com/products/44-Pivot-Power-Flexible-Power-Strip. I've often wondered why powerstrips are so ugly. We all have them and they all suck. \* "quirky":http://www.quirky.com/. Recommended by Blake, lots of cool stuff here. \* "Fireball Crosswords":http://www.fireballcrossword.com/. Recommended by Bruce. \* "Snapguide":http://snapguide.com/. Also recommended by Blake. \* I'm a sucker for "nice laptop skins":http://society6.com/laptop-skins \* I would love to get into astrophotography with the new "Canon 60Da":http://www.petapixel.com/2012/04/04/canon-60da-sample-star-photographs/ \* I love the idea behind "Lost Crates":https://lostcrates.com/?a=dm \* Prototyping bundles for Keynote and PPT from "Keynotopia":http://keynotopia.com/themes/ \* "Press to open Keyrings":http://design-milk.com/freekey-press-to-open-key-ring/ -- I'd buy today if available

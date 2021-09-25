@@ -1,0 +1,10 @@
+---
+title: "Spring Quarter -- High Performance Scientific Computing"
+date: "2011-03-21"
+tags: 
+  - "education"
+---
+
+Well, winter quarter's Computation Fluid Dynamics just about killed me. My lack of a solid fluid dynamics basis certainly was a big reason for my struggles. It may have been a bridge too far for me.
+
+Spring quarter will be "High Performance Scientific Computing":http://www.washington.edu/students/crscat/appmath.html#amath583 and then I will have completed enough credits for my Master's work. I need to take a breather after that and think about PhD progress and whether I want to really drive the rest of the way or not. I will clearly need to spend even more time on academic matters if I want to continue the PhD chase, and I don't know how realistic that is given all my other commitments and time limitations.

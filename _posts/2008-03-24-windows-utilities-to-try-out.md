@@ -1,0 +1,9 @@
+---
+title: "Windows Utilities to try out"
+date: "2008-03-24"
+tags: 
+  - "software"
+  - "windows"
+---
+
+\* [TeraCopy](http://www.codesector.com/teracopy.php) -- asynch copying with pause, resume, error handling \* [Doublekiller](http://www.bigbangenterprises.de/en/doublekiller/) -- find and kill file dupes. And then [RED](http://www.jonasjohn.de/lab/red.htm) to kill empty dirs \* [Defraggler](http://www.defraggler.com/) -- individual file defraggler. UPDATE: faulted when I ran it. not going to use a defragger that faults \* [Drivermax](http://www.innovative-sol.com/drivermax/) -- backup all your drivers. UPDATE: pretty cool, MSFT should buy this thing. \* [Xinorbis](http://freshney.org/xinorbis/) hard disk analyzer. Also [windirstat](http://windirstat.info/). UPDATE: both nice and useful. Man do I have a lot of storage committed to FLAC \* [Process Scanner](http://www.processlibrary.com/processscan/) or [Taskpower3](http://www.pcmag.com/article2/0,1759,2253746,00.asp) to figure out what all those running processes are. UPDATE: process scanner doesn't really provide any more detail than task manager, and taskpower wants money from me to try. \* [Netsharemanager](http://www.pcmag.com/article2/0,1759,2122550,00.asp) to manage network shares in bulk \* [InFormEnter](http://lifehacker.com/367889/fill-out-web-forms-conveniently-with-informenter) to complete webforms \* [HD Tune](http://lifehacker.com/357542/keep-tabs-on-hard-drive-health-with-hd-tune) for checking hard disk health \* [Ed Bott's list](http://www.edbott.com/weblog/?p=1881) of 10 best utilities \* [Fix stuck pixels](http://lifehacker.com/357117/fix-stuck-pixels-on-your-monitor-with-killdeadpixel) -- does this actually work?? \* [Powercfg](http://blogs.msdn.com/oldnewthing/archive/2008/02/13/7658352.aspx) to control which devices can wake Windows. Or at least see which ones can
