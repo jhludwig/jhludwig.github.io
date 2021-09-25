@@ -1,9 +1,0 @@
----
-title: "The Best Extinct Animals"
-date: "2008-01-31"
-tags: 
-  - "humour"
-  - "science"
----
-
-[The Best: Extinct Animals, From an Elephant Bird to a 10-Foot-Long, Four-Eyed Spider](http://www.wired.com/science/planetearth/magazine/16-02/st_best# "The Best: Extinct Animals, From an Elephant Bird to a 10-Foot-Long, Four-Eyed Spider") -- a 7 foot long centipede. a 4 eyed spider-like thing. eek.

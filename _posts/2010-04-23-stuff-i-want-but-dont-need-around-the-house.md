@@ -1,6 +1,0 @@
----
-title: "Stuff I want but don't need, around the house"
-date: "2010-04-23"
----
-
-\* "Using paint to save commonplace furniture":http://design-milk.com/purpose-restoration/?utm\_source=feedburner&utm\_medium=Google+Reader&utm\_campaign=Feed%3A+design-milk+%28Design+Milk%29&utm\_content=Google+Reader. These are freaking awesome, I absolutely love these. \* "Aspiral clock":http://design-milk.com/aspiral-clocks/?utm\_source=feedburner&utm\_medium=Google+Reader&utm\_campaign=Feed%3A+design-milk+%28Design+Milk%29&utm\_content=Google+Reader, innovation in timekeeping. \* "Shadow Bulbs":http://design-milk.com/shadow-bulbs-by-melissa-borrell/?utm\_source=feedburner&utm\_medium=Google+Reader&utm\_campaign=Feed%3A+design-milk+%28Design+Milk%29&utm\_content=Google+Reader. These look super, can totally see using these in selected areas. \* "Philips Robust small appliances":http://www.coolhunting.com/design/philips-robust.php?utm\_source=feedburner&utm\_medium=feed&utm\_campaign=Feed%3A+ch+%28Cool+Hunting%29&utm\_content=Google+Reader. The warranty lengths are appealing and they look good. \* This "first mirror":http://design-milk.com/mirrors-by-addiction/?utm\_source=feedburner&utm\_medium=Google+Reader&utm\_campaign=Feed%3A+design-milk+%28Design+Milk%29&utm\_content=Google+Reader is fabulous. I would buy it tomorrow.

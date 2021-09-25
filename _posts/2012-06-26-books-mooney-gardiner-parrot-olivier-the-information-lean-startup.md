@@ -1,9 +1,0 @@
----
-title: "Books -- Mooney, Gardiner, Parrot & Olivier, The Information, Lean Startup"
-date: "2012-06-26"
-tags: 
-  - "books"
-  - "tweet"
----
-
-\* "The Same River Twice":amazon by Ted Mooney. A film maker and his wife are caught up in events that seem strangely like a film, while he is making a cinema verite film of their lives. Actual events drive the movie narrative, and the movie narrative drives actual events, an interesting interplay. \* "The Liar's Lullaby":amazon by Meg Gardiner. Unreadably bad. How has this author and this character been able to sustain a series? I gave up 20 pages in, it read like a particularly bad episode of Law & Order. Worst book I've picked up in a while. \* "Parrot and Olivier in America":amazon by Peter Carey. I really wanted to like this book, and it seems well written with a unique voice, but the style just didn't pull me in, I had trouble sustaining interest. The book gets good reviews, this is probably my failing. \* "The Information: A History, a Theory, a Flood.":amazon. Loving this book. I remember when I took my first course as an undergrad on information theory and learned about the interplay of information, entropy, energy, etc. It was perspective altering, and this book brought it all back. A great book. \* "The Lean Startup":amazon by Eric Ries. I'm way late to this one, but an excellent book.

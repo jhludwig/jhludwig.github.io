@@ -1,8 +1,0 @@
----
-title: "Goodbye Company Picnic"
-date: "2009-04-26"
-tags: 
-  - "microsoft"
----
-
-[Proudly Serving My Corporate Masters: Goodbye Company Picnic](http://www.proudlyserving.com/archives/2009/04/goodbye_company.html). -- the continuing transformation of Microsoft. Some of my fondest memories of the company are the events that allowed me to include family -- the company picnic (the first one I went to in '88 was kind of mindblowing for us), the holiday party (again mindblowing for the kids, the kids' experience always makes me think of the donkey island bacchanalia scene from Disney's Pinocchio), halloween. These events did as much to cement my loyalty to the company as 100 other benefits that the company did, they kept my family happy and positive about my job, despite the hours demanded of me. Quite a constrast from the more traditional work environment I came from prior to Microsoft.

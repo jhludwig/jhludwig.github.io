@@ -1,8 +1,0 @@
----
-title: "Ignition Holiday Party"
-date: "2002-12-13"
-tags: 
-  - "venture"
----
-
-**Ignition Holiday Party**. A nice evening last nite, it was great to see everyone out of the office and with their families. Thanks Jon and Elizabeth for hosting. Hoops won the hand-made sock contest with his "Ghost of Christmas Past" socks, Deneen won in the store-bought division. I had a lot of great ideas for socks but no time to execute -- the story of my life :)

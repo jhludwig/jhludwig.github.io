@@ -1,8 +1,0 @@
----
-title: "Recent books -- Reacher, Goodkind crapfest, Infinite Jest, Cather"
-date: "2010-06-14"
-tags: 
-  - "books"
----
-
-\* "61 Hours":amazon by Lee Child. Reacher's back and never fails to entertain. And gasp a cliffhanger, that is a new element. I hope Child pushes the character more to be honest, Reacher needs to evolve to keep my interest and to avoid replaying the same plot over and over again with ever more outlandish elements -- and the crazy WWII era abandoned military facility had a little bit of shark-jumping in it. But still entertaining. Amazon says 3.5 stars, that seems fair. \* "The Law of Nines":amazon by Terry Goodkind. Goodkind seems to sell a lot of books based on shelf space at the local bookstore, so I decided to try one. What an epic piece of crap. Plodding, pedantic, characterless,derivative, logically-inconsistent crap. I am stunned that books this bad get published. How does it rate 3.5 stars on Amazon? This thing deserves negative stars, it saps the life out of any book it sits next to, it is a black hole of literature. \* "Infinite Jest":amazon by David Foster Wallace. After the Goodkind crapfest I needed something of substance, and it was great to dive into a book of complex characters slowly revealed through events. Ultimately this book is not my style, a little too much towards farce, but I can admire the writing. Amazon says 4 stars and I guess I'd agree tho I didn't finish as it just not my taste. \* "Death Comes for the Archbishop":amazon by Willa Cather. A great tale of a full life on the American frontier. Death comes easy when you have worked long and given much to people. A further cleansing of the mind after that terrible Goodkind book. Amazon says 4.5 stars and I'd agree.

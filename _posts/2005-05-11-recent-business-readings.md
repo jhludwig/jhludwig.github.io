@@ -1,8 +1,0 @@
----
-title: "Recent Business Readings"
-date: "2005-05-11"
-tags: 
-  - "business"
----
-
-\* [John Zagula](http://marketingplaybook.com/2005/05/02/yes_but_so.html) on the "Yes, But, So" methodology -- _"The Yes lets your listeners know that you’ve heard their position and you understand. But announces that you know there can be a better way. So presents your idea for how to get there. These three little words are the only ones you really need to kick off any logical argument. And they will help you keep it down to three sentences."_ \* Martin on [offshoring in the most minimal sense](http://www.martinandalex.com/blog/archives/2005/05/the_latest_in_o.html) \-- no need to go 1000 miles when 12 will suffice \* [Another post on power from Martin](http://www.martinandalex.com/blog/archives/2005/05/now_here_is_a_d.html) \-- this one on foreign energy dependency in trade dollar terms. Boy this analysis, and our growing trade imbalance with China etc, makes me start to appreciate DRM and IP protection more than I have in the past -- our IP heavy businesses (software, content) are areas where we can and should make up some of the trade imbalances we face. \* [Interesting analysis of the Newsweek high school rankings](http://www.freedom-to-tinker.com/archives/000812.html) -- our local Bellevue schools have certainly learned how to game the system \* Lastly, belated kudos to [MSFT for changing its position on gay rights](http://radio.weblogs.com/0001011/2005/05/06.html#a10011). We loved the tolerance of the West Coast and MSFT when we moved out here, and it is great to see it is still a core value of the company.

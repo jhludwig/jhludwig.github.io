@@ -1,8 +1,0 @@
----
-title: "SlickEdit: Productivity Enterprise-wide"
-date: "2002-10-09"
-tags: 
-  - "tech"
----
-
-**SlickEdit.** As I get into more coding work I am going to have to pick up a good editor. Used to use [SlickEdit](http://www.slickedit.com/index.html) and will probably try that again. At $299 it is a lot more expensive than it used to be tho...does the Visual Studio editor deal well with non-MSFT languages like PERL and PHP? Oh I see that ActiveState has a Visual Perl plug in for Visual Studio...that costs $295. I guess $300 is price to play...need to look around for some lower cost alternatives. Where is Borland when we need them...

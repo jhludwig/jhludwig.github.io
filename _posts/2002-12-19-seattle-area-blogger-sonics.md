@@ -1,8 +1,0 @@
----
-title: "Seattle Area Blogger -- Sonics"
-date: "2002-12-19"
-tags: 
-  - "northwest"
----
-
-**Seattle Area Blogger -- Sonics Game Friday 12/20**. Hey Seattle area bloggers, I have 1 spare ticket for the Sonics game friday night, and it'd be fun to meet someone in person and chat. Send me a note at the ignitionpartners address if you'd like to meet me at the game. Good opponent (hornets), great seats, and we can chat about blogs.

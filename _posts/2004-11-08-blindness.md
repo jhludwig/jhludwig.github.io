@@ -1,8 +1,0 @@
----
-title: "Blindness"
-date: "2004-11-08"
-tags: 
-  - "books"
----
-
-[Blindness](http://www.amazon.com/exec/obidos/tg/detail/-/0156007754/qid=1099937083/sr=8-1/ref=pd_csp_1/102-4131696-2978514?v=glance&s=books&n=507846) by Jose Saramago -- the author and book have received all kinds of gaudy awards and notices, including the Nobel Prize. I guess I just found this book to be somewhat engaging. The most notable thing about the book is the unusual writing style -- thoughts and actions from the viewpoints of multiple characters are intermixed, it takes some fine parsing to sometimes figure out what was action, what was thought, and who was doing it. Is this Saramago's normal style or was it crafted for this book to convey the confusion and disorientation caused by the world-wide blindness? As far as the story itself, a parable about human nature, how quickly we can descend, and how people can still maintain dignity and hope -- well it was a bit of a yawner for me, I think this theme is better explored thru reading actual history books and biographies of world war II or other episodes.

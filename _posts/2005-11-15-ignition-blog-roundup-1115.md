@@ -1,8 +1,0 @@
----
-title: "Ignition Blog Roundup 11/15"
-date: "2005-11-15"
-tags: 
-  - "ignition"
----
-
-\* [Martin and Seattle Biodiesel in Newsweek](http://www.martinandalex.com/blog/archives/2005/11/seattle_biodies_2.html) -- congrats! Seattle Biodiesel is a rocket. \* [John Conners and his first year at Ignition](http://blog.seattlepi.nwsource.com/microsoft/archives/100517.asp?source=rss) -- "It's a kick." \* The [NetworkGarage guys love the Sonos](http://www.networkgarage.com/2005/11/hello_sonos_goodbye_audiotron.html#more). \* NetworkMagic [gets a review up on Toms](http://www.tomsnetworking.com/Sections-article148.php) and now available at [Amazon](http://www.amazon.com/exec/obidos/tg/detail/-/B000BR39UA/qid=1132120378/sr=8-1/ref=pd_bbs_1/102-3295413-0684968?v=glance&s=software&n=507846). \* Phil has a [new version of Berry411](http://thebogles.com/blog/2005/11/announcing-berry-411-version-26/) out -- better and better. \* Phil also takes a [hard look at the new Google Analytics.](http://thebogles.com/blog/2005/11/google-analytics-and-end-user-privacy/) And raises some good concerns. \* Jason on [recruiting budget trends](http://jobster.blogs.com/blog_dot_jobster_dot_com/2005/11/staffing_recrui.html) -- _"Several employers i spoke with indicated that they fully intend to scale back their job board spending and invest those funds instead in the areas of passive candidate recruiting and driving traffic to their own websites"_ \* [Phil on searching all sites linked to by a certain page](http://thebogles.com/blog/2005/11/minisearch-search-all-sites-linked-to-from-a-url/) -- another great twist on search scoping. \* Rich on [how to get your music off your ipod](http://www.tongfamily.com/gadgets/ipod/2005/11/14/ipod_to_computer.html)

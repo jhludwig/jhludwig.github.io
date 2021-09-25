@@ -1,8 +1,0 @@
----
-title: "Cool office desk"
-date: "2007-02-14"
-tags: 
-  - "tech"
----
-
-[Milk Desk](http://crunchgear.com/2007/02/13/milk-desk/ "Milk Desk") -- i love well designed office furniture. I have a custom desk now that I am unhappy with because, despite massive passthrus, it just can't handle the cabling and desk space demands of all the accesories needed. I am designing my own desk right now, some cool ideas in this one.
