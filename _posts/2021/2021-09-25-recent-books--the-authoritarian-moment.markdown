@@ -2,8 +2,7 @@
 title: "Recent Books -- The Authoritarian Moment by Ben Shapiro"
 date: "2021-09-25"
 ---
-
-[The Authoritarian Moment: How the Left Weaponized America's Institutions Against Dissent Kindle Edition](https://www.goodreads.com/book/show/57935190-the-authoritarian-moment) by Ben Shapiro.  
+I read [The Authoritarian Moment: How the Left Weaponized America's Institutions Against Dissent Kindle Edition](https://www.goodreads.com/book/show/57935190-the-authoritarian-moment) by Ben Shapiro because one of the best read smartest readers I know recommended that I take a chance on it.  It is not my cup of tea but I tried to keep an open mind and be thoughtful about. 
 
 I read this because one of the best read smartest readers I know recommended that I take a chance on it.  It is not my cup of tea but I tried to keep an open mind and be thoughtful about.  
 
