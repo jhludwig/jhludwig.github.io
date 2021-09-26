@@ -31,10 +31,11 @@ paginate: 25
 
 # Build settings
 # theme: minima
-theme: minimal-mistakes-jekyll
+remote_theme: pages-themes/dinky@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
