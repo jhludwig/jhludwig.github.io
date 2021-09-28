@@ -1,8 +1,0 @@
----
-title: "Really simple coffin thumper"
-date: "2003-10-30"
-tags: 
-  - "halloween"
----
-
-Note for next year's halloween -- you can build a really simple coffin thumper by talking an old electric drill and attaching an armature to the end which will whack against your coffin wall. wire the trigger closed, attach to a dimmer, and place in a coffin or box. if i had a drill lying around today i'd try it.

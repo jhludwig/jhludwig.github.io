@@ -1,8 +1,0 @@
----
-title: "802.11 blog"
-date: "2002-04-02"
-tags: 
-  - "tech"
----
-
-**802.11 blog**. Another good one -- [net stumbler dot com](http://www.netstumbler.com/)

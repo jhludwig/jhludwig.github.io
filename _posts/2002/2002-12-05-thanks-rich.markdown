@@ -1,8 +1,0 @@
----
-title: "Thanks Rich."
-date: "2002-12-05"
-tags: 
-  - "ignition"
----
-
-**Thanks Rich**. For starting to ping weblogs.com when you make a change, now your modification times are showing up nicely in my blogroll!

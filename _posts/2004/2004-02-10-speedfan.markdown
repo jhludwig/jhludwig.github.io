@@ -1,8 +1,0 @@
----
-title: "SpeedFan"
-date: "2004-02-10"
-tags: 
-  - "tech"
----
-
-Another great utility from Rich -- [Tong Family Blog: SpeedFan](http://www.tongfamily.com/geek/001385.html "Tong Family Blog: SpeedFan") -- the guy has way too much time on his hands.

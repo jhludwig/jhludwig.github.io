@@ -1,8 +1,0 @@
----
-title: "Andy Sack"
-date: "2007-10-30"
-tags: 
-  - "ignition"
----
-
-[A Sack of Seattle: Emotions of winding down a company](http://asack.typepad.com/a_sack_of_seattle/2007/10/one-entrepreneu.html "A Sack of Seattle: Emotions of winding down a company") -- a very open and honest post about the tough times Andy and JB are going through.

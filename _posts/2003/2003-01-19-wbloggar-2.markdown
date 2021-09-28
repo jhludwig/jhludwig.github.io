@@ -1,8 +1,0 @@
----
-title: ":: w.bloggar ::"
-date: "2003-01-19"
-tags: 
-  - "tech"
----
-
-**w.bloggar.** Tried this 6-7 months ago and it was buggy, need to try again -- [:: w.bloggar ::](http://wbloggar.com/)

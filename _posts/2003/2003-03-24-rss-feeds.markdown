@@ -1,8 +1,0 @@
----
-title: "Rss Feeds"
-date: "2003-03-24"
-tags: 
-  - "tech"
----
-
-**RSS Feeds**. Great list pointed to by [Chris Pirillo](http://chris.pirillo.com/archives/2003_03.html#004373)

@@ -1,8 +1,0 @@
----
-title: "Bugtraq"
-date: "2002-03-19"
-tags: 
-  - "tech"
----
-
-**Bugtraq** I know I am late to the game on this one but a [great site](http://online.securityfocus.com/archive/1) for security issues.

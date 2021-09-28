@@ -1,8 +1,0 @@
----
-title: "bug labs"
-date: "2007-11-04"
-tags: 
-  - "hardware"
----
-
-[Bug Labs](http://buglabs.net/ "Bug Labs") -- not sure what i would use this for but a cool concept.

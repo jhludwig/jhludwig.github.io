@@ -1,8 +1,0 @@
----
-title: "Golden Peaches of Samarkand"
-date: "2004-01-29"
-tags: 
-  - "books"
----
-
-Way behind on book reviews. Picked up [The Golden Peaches of Samarkand: A Study of T'Ang Exotics](http://www.amazon.com/exec/obidos/tg/detail/-/0520054628/qid=1075438597//ref=sr_8_xs_ap_i13_xgl14/104-0807987-2027925?v=glance&s=books&n=507846 "Amazon.com: Books: The Golden Peaches of Samarkand: A Study of T'Ang Exotics") more for its title than any other reason, for some reason Samarkand sounds compelling to me. The book is a little dry but interesting insight into the culture of 7th century China -- makes you realize how culturally and historically impoverished we are here in the States.

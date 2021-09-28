@@ -1,8 +1,0 @@
----
-title: "Halloween"
-date: "2002-09-29"
-tags: 
-  - "halloween"
----
-
-**Halloween Status**. Spent the day converting a shipping box into a [scary crate](http://www.theludwigs.com/Scary%20Crate.jpg). I'll throw in some straw, some pulsing light, maybe some fog emissions.

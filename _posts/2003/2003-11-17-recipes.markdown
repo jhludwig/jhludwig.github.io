@@ -1,6 +1,0 @@
----
-title: "Recipes"
-date: "2003-11-17"
----
-
-[Recipezaar - a recipe food cooking & nutritional info site - Recipezaar](http://www.recipezaar.com/ "Recipezaar - a recipe food cooking & nutritional info site - Recipezaar")

@@ -1,8 +1,0 @@
----
-title: "Software roundup"
-date: "2004-10-26"
-tags: 
-  - "software"
----
-
-\* [Halflife 2 coming and will require online activation](http://www.extremetech.com/article2/0,1558,1683077,00.asp?kc=ETRSS02129TX1K0000532) -- we just downloaded the new counterstrike variant with the HL2 engine -- oh my god does it look gorgeous, it has toppled Far Cry as the best looking game ever -- on an x800 xt anyway. \* [Lamp stacks](http://www.windley.com/2004/10/22.html#a1478) a popular notion \* Save this for later -- [how to fix Media Center autoplay DVD behaviour](http://www.furrygoat.com/PermaLink.aspx?guid=4245ad94-6cc4-4b75-a6f5-b2d00fde5beb ) \* [Monitor IM traffic on your network](http://channels.lockergnome.com/linux/archives/20041008_monitor_im_traffic_on_your_network.phtml) -- if you don't want to see it in tomorrow's newspaper, don't type it. \* [FlightSim history](http://radio.weblogs.com/0001011/2004/10/26.html#a8513 ) -- I remember the old Apple \]\[ cassette version, just stick figures for mountains. You could fly off the stick figure grid and just start randomly flying thru Apple \]\[ memory, and the game did it's best to render the contents as stick figure geography.

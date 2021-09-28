@@ -1,8 +1,0 @@
----
-title: "Special Providence"
-date: "2002-11-20"
-tags: 
-  - "books"
----
-
-**Special Providence: American Foreign Policy and How it Changed the World**. I'm enjoying this [book](http://www.amazon.com/exec/obidos/tg/detail/-/0375412301/qid=1037941349/sr=8-1/ref=sr_8_1/104-7929887-9967955?v=glance&s=books&n=507846) and am just a chapter in. A good argument to start that the US has been far more active in foreign policy, and to far better effect, than we generally recognize. My favorite quote: _"The United States, on such a view, is the Mr. Magoo of the world community."_

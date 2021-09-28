@@ -1,8 +1,0 @@
----
-title: "Doom3"
-date: "2004-08-20"
-tags: 
-  - "games"
----
-
-[id Software: DOOM 3](http://www.idsoftware.com/games/doom/doom3/ "id Software: DOOM 3") -- fun, but nearly unplayable without the sound cranked and without surround sound. The game relies on a constant stream of monsters popping up behind you, and if you can't hear it happening, the game just isn't as much fun. It's actually kind of a cheap monster system, I prefer the more realistic AI in far cry, but doom3 is still a good timewaster.

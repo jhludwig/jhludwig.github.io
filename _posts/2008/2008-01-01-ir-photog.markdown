@@ -1,8 +1,0 @@
----
-title: "IR photog"
-date: "2008-01-01"
-tags: 
-  - "photography"
----
-
-[makezine.com: Looking at the Low End](http://www.makezine.com/12/infrared/ "makezine.com: Looking at the Low End") -- good primer in make (sub required). just ordered the filters I need.

@@ -1,8 +1,0 @@
----
-title: "Redfin"
-date: "2004-09-26"
-tags: 
-  - "northwest"
----
-
-[Redfin](http://www.redfin.com/stingray/do/home) mentioned in Seattle Times/PI paper today -- what a cool real estate search site.

@@ -1,8 +1,0 @@
----
-title: "Bronchitis"
-date: "2005-02-08"
-tags: 
-  - "health"
----
-
-Been quiet for a while, had a killer bronchitis/flu thing. Lost a week plus to fighting this thing. Don't get it. Probably worsened by the fact that, 15 years ago, I inhaled an aspirin tablet and had to endure 4 bronchoscopies, a hospital stay, and numerous other indignities, and now have a permananently scarred area in my upper lungs. Ask me for the full story sometime, it has its hilarious moments.

@@ -1,8 +1,0 @@
----
-title: "TV doings 2/28"
-date: "2005-02-28"
-tags: 
-  - "tv"
----
-
-\* Very excited about [centerstage](http://centerstageproject.com/) as the media center UI for my mac mini. One of the missing components that this machine needs to be the perfect hometheater pc. \* Rich [wonders why people aren't using notebooks](http://www.tongfamily.com/guide/home_theater/2005/02/24/notebook_instead.html) as hometheater pcs. It's a fine point. Price, styling are probably partial blockers.

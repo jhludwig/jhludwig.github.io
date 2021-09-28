@@ -1,8 +1,0 @@
----
-title: "Test"
-date: "2002-12-05"
-tags: 
-  - "status"
----
-
-**Test.** Been screwing around under the covers and want to make sure I am back to normal.

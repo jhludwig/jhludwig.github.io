@@ -1,8 +1,0 @@
----
-title: "1-wire"
-date: "2008-01-18"
-tags: 
-  - "control"
----
-
-[1-Wire Devices - Maxim](http://www.maxim-ic.com/products/1-wire/ "1-Wire Devices - Maxim") -- interesting low cost control wiring and protocol. Maybe useful for halloween projects. Via [Wes Felter](http://wmf.editthispage.com/2008/01/17)

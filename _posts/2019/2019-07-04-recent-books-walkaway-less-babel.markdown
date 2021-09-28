@@ -1,8 +1,0 @@
----
-title: "Recent Books -- Walkaway, Less, Babel"
-date: "2019-07-04"
----
-
-- [Walkaway](https://www.amazon.com/Walkaway-Novel-Cory-Doctorow-ebook/dp/B01FQQ47OC) by Cory Doctorow.  My first Doctorow, and I am not sure I will do any more.  A hash of steampunk, cyberpunk, biohacking, post-gender, libertarian themes all jammed into a stew, and there just isn't much story or character in there.
-- [Less](http://Less (Winner of the Pulitzer Prize): A Novel https://www.amazon.com/dp/031631613X) by Andrew Sean Greer. Contrast with above, a great character finding himself in the middle part of his life.  Informed by the generations before and after him as they deal with their own crises.
-- [Babel](http://Babel: Around the World in Twenty Languages https://www.amazon.com/dp/0802128793) by Gaston Dorren.  A look at each of the top 20 most used languages in the world.  And a lot of cultural insight along the way.  Very good.

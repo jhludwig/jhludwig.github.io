@@ -1,8 +1,0 @@
----
-title: "Wildseed"
-date: "2002-08-15"
-tags: 
-  - "ignition"
----
-
-**Wildseed**. Latest story in [Inc](http://www.inc.com/magazine/20020801/24439.html) magazine. If you eve rhave a chance to see a demo of the Wildseed product at a trade show, it will be well worth your time.

@@ -1,8 +1,0 @@
----
-title: "10,000 RPM WD Drives"
-date: "2003-02-06"
-tags: 
-  - "tech"
----
-
-**10,000 RPM WD Drives**. Coming this month for desktop machines per [x-bit labs - Special Hardware Infocenter](http://www.xbitlabs.com/news/story.html?id=1044471776). I wonder how loud they are -- I will want to get these if they are quiet enough. .

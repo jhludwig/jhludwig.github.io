@@ -1,9 +1,0 @@
----
-title: "LEDs"
-date: "2002-11-10"
-tags: 
-  - "halloween"
-  - "lighting"
----
-
-A good [source for LEDs](http://superbrightleds.com/).

@@ -1,8 +1,0 @@
----
-title: "Naveen"
-date: "2003-05-16"
-tags: 
-  - "business"
----
-
-[The Seattle Times: Business & Technology: InfoSpace founder made insider trades, judge rules](http://seattletimes.nwsource.com/html/businesstechnology/134749050_jain16.html "The Seattle Times: Business & Technology: InfoSpace founder made insider trades, judge rules")

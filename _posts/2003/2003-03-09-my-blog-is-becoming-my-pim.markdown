@@ -1,8 +1,0 @@
----
-title: "My Blog is becoming my PIM"
-date: "2003-03-09"
-tags: 
-  - "tech"
----
-
-**My Blog is becoming my PIM**. I used [Info Select](http://www.miclog.com/isdesc.htm) years ago and I keep thinking I should try it again. But I realized today that what I really want are the features of Info Select on my blog. IE I want to be able to really quickly sort and search the blog based on any string I enter. Because increasingly my blog is my PIM, i am dumping all my notes up here for my own future reference. I don't have Favorites or Bookmarks in my browser anymore, they all go in the blog with annotations. All the little notes I used to keep -- up on the blog. If I had a reasonable security model, I'd move my todo list and a bunch more notes up here. And all my contacts -- tho for that I need better security and better DB functionality. I'd love to see a blogging package that implemented a lot more of the PIM feature list, I'd move to that.

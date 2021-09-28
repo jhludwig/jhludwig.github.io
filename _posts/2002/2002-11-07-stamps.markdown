@@ -1,9 +1,0 @@
----
-title: "Stamps"
-date: "2002-11-07"
-tags: 
-  - "control"
-  - "halloween"
----
-
-Now this is cool stamp development software [Robo-Ware Robotics Servo Control Software](http://www.rentron.com/Robo-Ware.htm). Maybe this is a cooler stamp? [OOPic](http://www.oopic.com/). Another sbc source -- [Single Board Computers & Peripherals](http://www.newmicros.com/main.html)

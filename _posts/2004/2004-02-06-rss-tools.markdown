@@ -1,8 +1,0 @@
----
-title: "RSS Tools"
-date: "2004-02-06"
-categories: 
-  - "blog"
----
-
-[RSS Winterfest - Great RSS Tools](http://www.socialtext.net/rss-winterfest/index.cgi?great_rss_tools&login=user2953 "RSS Winterfest - Great RSS Tools") via [John Battelle](http://battellemedia.com/archives/000307.php)

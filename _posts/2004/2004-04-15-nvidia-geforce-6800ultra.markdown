@@ -1,8 +1,0 @@
----
-title: "Nvidia GeForce 6800Ultra"
-date: "2004-04-15"
-tags: 
-  - "tech"
----
-
-Nice roundup of reviews at gizmodo -- [Nvidia GeForce 6800Ultra Review Roundup](http://www.gizmodo.com/archives/nvidia_geforce_6800ultra_review_roundup_015088.php "Nvidia GeForce 6800Ultra Review Roundup") -- it's time to upgrade video cards again. I continue to find it interesting that today's apps have an unquenchable demand for GPU MIPs, while my appetite for more CPU MIPs isn't that great. This has interesting implications in the longrun for Intel, for the balance of power in the industry, etc.

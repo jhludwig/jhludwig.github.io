@@ -1,8 +1,0 @@
----
-title: "Comments"
-date: "2002-11-26"
-tags: 
-  - "tech"
----
-
-**Comments**. Added comments just for [Adrian](http://www.smithstuff.net). Not sure I want comments really. :)

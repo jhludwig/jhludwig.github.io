@@ -1,8 +1,0 @@
----
-title: "XBox and 802.11"
-date: "2002-11-25"
-tags: 
-  - "tech"
----
-
-**Xbox and 802.11**. More info on [Broadband Reports](http://www.broadbandreports.com/forum/remark,5085607~root=wlan~mode=flat)forums. Thanks [Adrian](http://www.smithstuff.net).

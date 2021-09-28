@@ -1,8 +1,0 @@
----
-title: "CF Stats"
-date: "2006-08-11"
-tags: 
-  - "sports"
----
-
-Crazy depth stats on college football games at [CFBStats](http://www.cfbstats.com) , via [EDSBS ? Archive ? STATISTICS. WOW.](http://www.everydayshouldbesaturday.com/?p=2376 "EDSBS ? Archive ? STATISTICS. WOW.")

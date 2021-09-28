@@ -1,8 +1,0 @@
----
-title: "Disk Performance"
-date: "2003-11-19"
-tags: 
-  - "tech"
----
-
-I'm with [Scott Loftesness](http://www.sjl.us/main/2003/11/performance_red.html "Scott Loftesness: Performance re-defined") -- I've got enough storage capacity now, I don't need all the energies of the storage industry going into capacity increases. What I need are higher performance disk subsystems -- given the cheapness of disks and ram, i am surprised we aren't seeing disks with even more cache, with smarter caches, and i am surprised we are not seeing consumer storage subsystems with data striped across multiple drives, thus getting multiple read heads working on our behalf. And I need more reliable storage -- I want my data auto-replicated across multiple disks so I don't have to worry about backup anymore. Where are the mass market products that address disk performance and data reliability?

@@ -1,8 +1,0 @@
----
-title: "Zempt"
-date: "2003-07-11"
-categories: 
-  - "blog"
----
-
-Note to self -- Zempt recommended by [The Shifted Librarian: Saturday, July 05, 2003](http://www.theshiftedlibrarian.com/2003/07/05.html#a4225 "The Shifted Librarian: Saturday, July 05, 2003") as a good mt posting tool.

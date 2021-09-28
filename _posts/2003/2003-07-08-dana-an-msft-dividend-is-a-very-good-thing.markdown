@@ -1,8 +1,0 @@
----
-title: "Dana, an MSFT dividend is a very good thing"
-date: "2003-07-08"
-tags: 
-  - "business"
----
-
-Dana thinks that [an MSFT dividend is a bearish, bad thing](http://www.corante.com/mooreslore/20030701.shtml#43464 "Moore's Lore: new technology. Computing, connectivity, mobile, convergence, communications, software, etc."). As a stockholder I think it is a wonderful thing. I don't want MSFT to buy ATT stock, to buy Nextel stock, to invest in a bunch of hare-brained startups, to try to start a VC fund, or to do any other non-software adventure. I'd even like to see them shut down some of their money-wasting non-PC adventures like their smartphones and xbox efforts. MSFT is really really good at PC software, and they run a really really profitable PC software business. Everything else is just a money-wasting adventure and is not their core competence. So please, give the money back to the shareholders, let us make our own decisions about what other ventures to invest in. This isn't bearish at all, I will invest the money elsewhere, and I trust the market economy to efficiently direct that investment towards opportunities that are high growth and that may not be MSFT's core competence.

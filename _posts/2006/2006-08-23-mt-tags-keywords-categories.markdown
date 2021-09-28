@@ -1,8 +1,0 @@
----
-title: "MT Tags, Keywords, Categories"
-date: "2006-08-23"
-categories: 
-  - "blog"
----
-
-Prior to MT3.3, I was using a plugin to automagically convert keywords into categories, and basically using keywords as tags. now I am trying to switch to the mt3.3 official tags feature, but i'd still like the feature that autoconverts tags into categories. i just want one set of descriptive words which gives me the features of tags and categories. is there a plugin that keeps tags and categories in sync?

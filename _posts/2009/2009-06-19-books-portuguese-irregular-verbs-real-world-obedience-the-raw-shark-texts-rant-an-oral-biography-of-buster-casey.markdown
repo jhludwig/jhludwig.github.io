@@ -1,8 +1,0 @@
----
-title: "Books -- Portuguese Irregular Verbs, Real World, Obedience, The Raw Shark Texts, Rant: An Oral Biography of Buster Casey"
-date: "2009-06-19"
-tags: 
-  - "books"
----
-
-\* "Portuguese Irregular Verbs":amazon by Alexander McCall Smith. A self-absorbed eccentric man leads an eccentric life with eccentric friends. Thankfully short. Amazon says 3.5 stars, this seems high. 2 stars I'd say. \* "Real World":amazon by Natsuo Kirino. Curious to read a well regarded novel from Japan. But didn't do it for me. Callow angst-ridden teenagers, yawn. Amazon says 4 stars, I say 1.5. Couldn't finish the book. \* "Obedience: A Novel":amazon by Will Lavender. Kind of interesting premise, a psychological game unfolds on a campus, slowly sucking in some students. But the characters were thin and the pacing forced and all a little unbelievable. First novel so here's hoping practice makes perfect. Amazon says 2.5 stars, why did I buy this book?? I'd say 1.5 stars -- I could finish it but I wish I hadn't. \* "The Raw Shark Texts":amazon by Steven Hall. Another first novel, this one is a crackerjack of a story. A gripping opening, an interesting central premise about memes, great imagery. Really awesome. Amazon says 4 stars, I agree wholeheartedly, an interesting book. \* "Rant: an oral biography of Buster Casey":amazon by Chuck Palaniuk. Chuck, you need therapy. A disturbing tale of epidemic, time travel, moral laxity, bigotry, disease. Interesting, yes. Corrupting, probably. Amazon says 4 stars, I'd agree, though this is a warped book.
