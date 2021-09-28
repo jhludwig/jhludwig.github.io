@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../dinky"
+		},
+		{
+			"path": "../minima"
+		}
+	],
+	"settings": {}
+}
