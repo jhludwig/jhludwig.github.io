@@ -197,6 +197,27 @@
 		<article class="blog-post">
 
 			<div class="blog-post__header">
+				<h2 class="blog-post__title"><a href="/blog/reorganized-under-the-covers">Reorganized under the covers</a></h2>
+				<p class="blog-post__subtitle">17 June 2003</p>
+			</div>
+
+			
+
+			<div class="blog-post__content">
+				<p><p>I made a lot of changes under the covers of the blog this am. Changed a lot of details about security, directory structures, etc, related to my upgrade to Win Server 2003. Everything should be working, there shouldn’t be any externally visible difference, but let me know if something seems busted.</p>
+</p>
+				<!-- <p><p>I made a lot of changes under the covers of the blog this am. Changed a lot of details about security, directory structures, etc, related to my upgrade to Win Server 2003. Everything should be working, there shouldn’t be any externally visible difference, but let me know if something seems busted.</p>
+</p>
+				<p><a href="/blog/reorganized-under-the-covers" class="button">Read More</a> -->
+			</div>
+
+		</article>
+
+		
+
+		<article class="blog-post">
+
+			<div class="blog-post__header">
 				<h2 class="blog-post__title"><a href="/blog/tressels-new-six-year-deal-pays-handsomely">Tressel&#039;s new six-year deal pays handsomely</a></h2>
 				<p class="blog-post__subtitle">16 June 2003</p>
 			</div>
@@ -482,36 +503,6 @@
 				<!-- <p><p>Just finished <a href="http://www.amazon.com/exec/obidos/tg/detail/-/0688163173/ref=pd_bxgy_img_2/002-5323723-7644812?v=glance&amp;s=books">Shutter Island</a>. Great book, would be a good movie (some plot points similar to this year’s <a href="http://www.sonypictures.com/movies/identity/">Identity</a>). I see that <a href="http://www.amazon.com/exec/obidos/tg/detail/-/0380731851/qid=1055461439/sr=8-1/ref=sr_8_1/002-5323723-7644812?v=glance&amp;s=books&amp;n=507846">Mystic River</a>, Lehane’s earlier book, will be a <a href="http://mysticrivermovie.warnerbros.com/">movie</a> later this year with a strong cast.</p>
 </p>
 				<p><a href="/blog/shutter-island" class="button">Read More</a> -->
-			</div>
-
-		</article>
-
-		
-
-		<article class="blog-post">
-
-			<div class="blog-post__header">
-				<h2 class="blog-post__title"><a href="/blog/win-server-2003-upgrade-problem-and-fix">Win Server 2003 Upgrade problem and fix</a></h2>
-				<p class="blog-post__subtitle">10 June 2003</p>
-			</div>
-
-			
-
-			<div class="blog-post__content">
-				<p><p>Pings are working again from my blog, I had a rocky week this week. I upgraded to Windows Server 2003 last week – why? Well, it just seemed like a fun thing to do. Plus I know how fast Microsoft dev resources migrate away from old platforms to the new platform, if you want great ongoing help and support you need to bite the bullet and run the latest stuff.</p>
-
-<p>But the upgrade initially hosed me. The IPSEC service failed to load with a really vague error message, and when IPSEC doesn’t load it takes the machine off net. You can turn IPSEC off, but critical services like DNS Client depend on it. For a week I limped along with IPSEC off, and my web server worked, but the machine couldn’t do any client name resolution (among other problems) and so trying to ping DNS names didn’t work.</p>
-
-<p>Thanks to the responsiveness of guys at Microsoft – Dave, Jawad, Stephen, Raymond, David, Osman, and more – we got it figured out. I had installed <a href="http://www.diamondcs.com.au">Port Explorer beta</a> a long time ago and had quit using it. But it installs Winsock providers and these were hanging around on my system – we discovered these by using the sporder.exe tool from the <a href="http://www.microsoft.com/msdownload/platformsdk/sdkupdate/">windows platform sdk</a>. On an upgrade to WinServer2003, these make IPSEC unhappy, it refuses to load, and things go to sh%t.</p>
-
-<p>Once I uninstalled Port Explorer, things righted themselves.</p>
-
-<p>I tried to use the online Microsoft support options to get this resolved – the KB, the support forums – but there was no info about, and the folks in the support forum just told me to reinstall. Thankfully the dev teams at Microsoft were super responsive. Thanks much guys!</p>
-</p>
-				<!-- <p><p>Pings are working again from my blog, I had a rocky week this week. I upgraded to Windows Server 2003 last week – why? Well, it just seemed like a fun thing to do. Plus I know how fast Microsoft dev resources migrate away from old platforms to the new platform, if you want great ongoing help and support you need to bite the bullet and run the latest stuff.</p>
-
-</p>
-				<p><a href="/blog/win-server-2003-upgrade-problem-and-fix" class="button">Read More</a> -->
 			</div>
 
 		</article>

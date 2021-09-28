@@ -197,6 +197,65 @@
 		<article class="blog-post">
 
 			<div class="blog-post__header">
+				<h2 class="blog-post__title"><a href="/blog/deeper-into-coreos-networking-i-understand-most-but-not-all-of-what-is-happening">Deeper into CoreOS networking -- I understand most but not all of what is happening</a></h2>
+				<p class="blog-post__subtitle">24 September 2013</p>
+			</div>
+
+			
+
+			<div class="blog-post__content">
+				<p><p>OK so I brought up a CoreOS instance using Vagrant/virtualbox on my machine. I am trying to understand the network config and how traffic is managed and routed to the containers. From spelunking around the web, here is what I think is happening:</p>
+
+<ul>
+  <li>CoreOS uses iptables to control routing and deliver to containers.</li>
+  <li>By default the iptables rule set is totally open – everything accepted, everything permitted, everything routed. ie, /sbin/iptables -L indicates that there are no rules set and the defaults are ACCEPT.</li>
+  <li>As an option, one could create an iptable firewall config and define a systemd config file that ran it. So system-wide restrictions can be implemented.</li>
+  <li>Additionally/alternatively, the individual containers can define iptables firewalls (using systemd or whatever in those containers).</li>
+  <li>you have a very permissive iptables setup in coreos, you are letting all</li>
+  <li>OK besides the inbound ethernet interface, CoreOS defines a bridge interface for the containers to use.</li>
+  <li>Per http://blog.docker.io/2013/03/docker-containers-can-haz-networking-now/, Docker analyses the bridge definition and uses that to assign IP addresses to the containers that start up. This is how containers get their IP addresses.</li>
+  <li>The Docker command line can also be used to map certain inbound ports to the container. Docker will twiddle the nat table rules to achieve this.</li>
+</ul>
+
+<p>OK so this makes sense. so now let’s look at what is actually happening on my system when I bring up CoreOS in a VM, with two containers, an ubuntu and a centos container.</p>
+
+<ul>
+  <li>“/sbin/iptables -L” confirms that iptables is totally permissive. Check</li>
+  <li>“/sbin/iptables -L -t nat” shows that Docker has indeed inserted itself into the nat table, the appropriate nat rules are there along with the necessary masquerade rule. Check.</li>
+  <li>“/sbin/brctl show” lists two virtual ethernet connectors, one per running container. When I kill a container, one disappears. Check.</li>
+  <li>
+    <p>“/bin/ifconfig” starts to confuse me a little. after the one container is killed, with only one running, i get the following interfaces:</p>
+
+    <ul>
+      <li>bond0: I understand what a bonded interface is, but this seems like a rump inteface. No ethernet address, no aliasing i can find anywhere, there is nothing to bond? there is no packet traffic over the interface.</li>
+      <li>docker0: ok this makes sense, this is the previously defined bridge for the containers, check.</li>
+      <li>enp0s3: this has a reasonable looking IP address and is probably the virtual interface for the coreos host, check.</li>
+      <li>gre0: ok this is usually for ip tunneling, as is the next. But i am not tunneling anything I don’t think? And again no traffic on it.</li>
+      <li>tunl0. no traffic on it.</li>
+      <li>lo: standard loopback, check.</li>
+      <li>vethXXXX: this is the adapter for the active container, check.</li>
+      <li>within a container, ifconfig shows me the virtual ethernet interface and a loopback interface, and iptables is wide open. check.</li>
+    </ul>
+  </li>
+</ul>
+
+<p>So I think I understand the lay of the land. Maybe the tunneling and bonding are just created for all configs but only used in certain uses?</p>
+
+<p>UPDATE: the good people on the coreos google group helped me out, the bond/gre/tunl adapters are temporary artifacts that are unneeded and will go away.</p>
+</p>
+				<!-- <p><p>OK so I brought up a CoreOS instance using Vagrant/virtualbox on my machine. I am trying to understand the network config and how traffic is managed and routed to the containers. From spelunking around the web, here is what I think is happening:</p>
+
+</p>
+				<p><a href="/blog/deeper-into-coreos-networking-i-understand-most-but-not-all-of-what-is-happening" class="button">Read More</a> -->
+			</div>
+
+		</article>
+
+		
+
+		<article class="blog-post">
+
+			<div class="blog-post__header">
 				<h2 class="blog-post__title"><a href="/blog/switched-from-iphone-to-android-this-week">Switched from iPhone to Android this week</a></h2>
 				<p class="blog-post__subtitle">21 September 2013</p>
 			</div>
@@ -602,27 +661,6 @@
 
 </p>
 				<p><a href="/blog/how-do-you-permanently-delete-files-from-github-use-ansible-to-modify-a-file-and-other-nits" class="button">Read More</a> -->
-			</div>
-
-		</article>
-
-		
-
-		<article class="blog-post">
-
-			<div class="blog-post__header">
-				<h2 class="blog-post__title"><a href="/blog/the-supreme-court-doma-ruling-is-going-to-roll-through-every-state-and-organization">The Supreme Court DOMA ruling is going to roll through every state and organization</a></h2>
-				<p class="blog-post__subtitle">23 July 2013</p>
-			</div>
-
-			
-
-			<div class="blog-post__content">
-				<p><p>In Ohio, <a href="http://www.scotusblog.com/2013/07/a-new-same-sex-marriage-ruling-in-ohio/">a federal judge rules that Ohio has to recognize same-sex marriages performed in other states.</a> This is going to roll through every state, company, organization, municipality. If it is unconstitutional for the federal government to discriminate against legally married couples, then it is surely unconstitutional for any other entity to do the same. Great news. If I was a responsible party at a government entity or a company, I’d make sure my organization was in compliance now, no point in waiting for the inevitable lawsuit.</p>
-</p>
-				<!-- <p><p>In Ohio, <a href="http://www.scotusblog.com/2013/07/a-new-same-sex-marriage-ruling-in-ohio/">a federal judge rules that Ohio has to recognize same-sex marriages performed in other states.</a> This is going to roll through every state, company, organization, municipality. If it is unconstitutional for the federal government to discriminate against legally married couples, then it is surely unconstitutional for any other entity to do the same. Great news. If I was a responsible party at a government entity or a company, I’d make sure my organization was in compliance now, no point in waiting for the inevitable lawsuit.</p>
-</p>
-				<p><a href="/blog/the-supreme-court-doma-ruling-is-going-to-roll-through-every-state-and-organization" class="button">Read More</a> -->
 			</div>
 
 		</article>
