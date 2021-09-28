@@ -1,8 +1,0 @@
----
-title: "Yes I know my layout sucks"
-date: "2003-05-06"
-tags: 
-  - "tech"
----
-
-BTW yes I know I am basically using the sucky default MT template and that my right column behaves for crap once it gets to the bottom of my posts, at least if you are using IE. I am just too lazy to fix, and eventually my list of posts will grow long enough to fix it. it is amazing to me that MT ships with such a broken template.

@@ -1,8 +1,0 @@
----
-title: "Nugent for Heisman"
-date: "2004-09-20"
----
-
-From [SI.com - Writers - Stewart Mandel: A clear winner in the SEC-ACC debate - Sunday September 19, 2004 9:14PM](http://sportsillustrated.cnn.com/2004/writers/stewart_mandel/09/19/weekend.review/index.html "SI.com - Writers - Stewart Mandel: A clear winner in the SEC-ACC debate - Sunday September 19, 2004 9:14PM"):
-
-_2\. Considering the seemingly unprecedented rash of missed extra points and other seismic choke-jobs by kickers, there may not be a more valuable player in the country than Ohio State's Mike Nugent. A week after hitting the game-winning, 55-yard field goal to beat Marshall, Nugent went 5-for-5 (from 50, 47, 46, 33 and 30 yards) on a soaking-wet field in the Buckeyes' 22-14 win over N.C. State. Nugent has been doing this for three years now, earning All-America honors in 2002 when he hit 25 of 28 attempts and following it up with a 16-of-19 junior season and 8 of 9 so far this year (the only miss coming from 50 yards). Is it any coincidence that during the same time span Ohio State, despite often struggling terribly on offense (it managed just 137 yards against the Wolfpack), is 28-2?_

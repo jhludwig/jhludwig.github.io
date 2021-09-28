@@ -1,8 +1,0 @@
----
-title: "Ignition blog roundup 1/18"
-date: "2005-01-18"
-tags: 
-  - "ignition"
----
-
-\* Jobster is [hiring](http://www.thebogles.com/blog/2005/01/jobster-is-hiring.html) -- Web Developer, Core Developer, Lead Program Manager, Lead Product Marketing Managers, and Senior Marketing Communications Manager. OK all ignition companies are probably hiring, but phil is the only guy who's asked me to post about it. Oh and [nice press in the PI about jobster today.](http://seattlepi.nwsource.com/business/208259_jobster18.html) \* [John summarizes recent reviews](http://marketingplaybook.com/2005/01/13/recent_webblog_book_reviews.html) of the book. \* Martin has a bunch of posts about [building a home nas.](http://www.martinandalex.com/blog/archives/2005/01/thinking_nas_ag.html) My counsel -- build your own box using Windows or a recent Linux/Samba dist -- i've had trouble with the appliance boxes that have some older build of samba burnt in. \* [Martin](http://www.martinandalex.com/blog/archives/2005/01/try_network_mag.html) and [Rich](http://www.tongfamily.com) point towards the network magic beta (disclosure -- i'm on the board). \* [Z-wave vs Zigbee](http://www.martinandalex.com/blog/archives/2005/01/good_zigbeezens.html) from Martin. Useful for halloween projects. \* Rich has [some good htpc info](http://www.tongfamily.com//2004/12/29/htpc_with_dothan.html) -- here on using dothan-based mboard. Me, I just ordered a Mac Mini. \* Rich also has a ton of ipod utility posts -- [defrag hints](http://www.tongfamily.com/guide/ipod/2004/12/19/defragmenting_an_ipod.html), [mounting an ipod](http://www.tongfamily.com/guide/ipod/2004/12/17/anapod_explorer.html).

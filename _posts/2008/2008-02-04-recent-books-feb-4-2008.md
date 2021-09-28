@@ -1,8 +1,0 @@
----
-title: "Recent Books -- Feb 4 2008"
-date: "2008-02-04"
-tags: 
-  - "books"
----
-
-\* "The Ghost Brigades":amazon by John scalzi. Ok most of the way thru, kind of "Forever War":amazon -ish. The denouement is a little weak, a little too much falls into place. But solid story in a much more densely occupied galaxy than ours appears to be. \* "Borden Chantry":amazon by Louis L'Amour. Great tale, first L'Amour I've read. Classic American west hero. Politically incorrect in so many ways but well told. \* "The Revolution Will Not Be Funded":amazon. Given to me by a very smart left-leaning person, not something I would have ordinarily stumbled across, but I am glad I did. A collection of essays from authors with very different experiences and worldviews than mine -- typically minority, typically low income. The basic theme is a criticism of 501c3 funding for charities: the structure prevents in many ways recipient organizations from attacking structural problems in society due to gift limits on political activity, reporting overhead, etc. There is a lot of needlessly pejorative anti-capitalism and anti-white talk which distracts from the message, and a lot of whining about the burdens of fundraising, and a lot of "revolution for revolution's sake" talk. And only a few hints from some of the writers about proposed solutions. But still thought provoking -- there are real problems in society that require policy solutions, not just amelioration. If you give a lot of money to charities, this is not a bad book to read as part of your overall education process.

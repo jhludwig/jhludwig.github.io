@@ -1,9 +1,0 @@
----
-title: "“Whatever Happened to…?”"
-date: "2009-03-26"
-tags: 
-  - "history"
-  - "tech"
----
-
-["Whatever Happened to…?" | Technologizer](http://technologizer.com/2009/03/26/whatever-happened-to/). Good times, I remember all these. Loved my Epson MX-80 printer, my Hercules graphics card, my Hayes modem. I even loved my MiniDisc for a while tho those things were goofy. Zip discs were awesome for carrying my entire working set of docs from work to home and back. I spent too much time with dBase one summer. And way too much time on CompuServe back when that was the main way MSFT supported betas.

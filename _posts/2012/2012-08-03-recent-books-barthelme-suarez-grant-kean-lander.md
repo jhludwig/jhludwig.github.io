@@ -1,8 +1,0 @@
----
-title: "Recent Books -- Barthelme, Suarez, Grant, Kean, Lander"
-date: "2012-08-03"
-tags: 
-  - "books"
----
-
-\* "The Disappearing Spoon":amazon by Sam Kean. Breezy walk through all the elements and their quirks, along with the back stories of their discovery and the quirky, sometimes petty scientists involved. \* "Whiter Shades of Pale":amazon by Christian Lander. If you like Portlandia, you'll probably chuckle at this. \* "Kill Decision":amazon by Daniel Suarez. Guy writes a solid thriller with great short term technology extrapolation. I assume he will write a followup to this, there is certainly a very dystopian tale to write. \* "Blackout":amazon by Mira Grant. The first book in this post-zombie-apocalypse series was awesome, complicated characters and no storybook endings. But in this, the third book, I feel like the author chickened out and went for the happy ending and single dimensional villains. Still fun but could have been more... \* "Forty Stories":amazon by Donald Barthelme. There is an de Kooning on the cover of this book, and that serves as a hint to the type of stories you will find in here. I'm not sure there is a writing genre called Abstract Expressionism but these stories sure seem to fit the bill -- patchworks of elements that seem to form coherent wholes but I'm never quite sure of the intent.

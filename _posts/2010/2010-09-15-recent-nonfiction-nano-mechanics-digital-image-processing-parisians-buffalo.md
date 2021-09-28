@@ -1,9 +1,0 @@
----
-title: "Recent Nonfiction -- Nano Mechanics, Digital Image Processing, Parisians, Buffalo"
-date: "2010-09-15"
-tags: 
-  - "books"
-  - "nonfiction"
----
-
-\* "Nano Mechanics and Materials":amazon by Wing Kam Liu, Eduard G. Karpov, Harold S. Park. Fairly dense text on modeling of nanoscale materials and composites. Best approached with a solid understanding of mechanics (not my strength) and finite element analysis (i'm ok on that), as the core idea is to meld macro-level FEA with nano-level mechanical analysis, paying careful attention to the bridging issues. Unrated on Amazon or Goodreads, a quality text. \* "Digital Image Processing: An Algorithmic Introduction using Java":amazon by Wilhelm Burger and Mark Burge. Decent introduction to basic image processing algorithms using Java and ImageJ. If you want a quick explanation of things like erosion, dilation, edge detection, spectral analysis, etc., this is fine. Amazon says 5 stars, I think this is just a good book. \* "Parisians: An Adventure History of Paris":amazon by Graham Robb. I like Paris, adventure tales, and history books, so this should be a total winner, right? But it totally left me flat. Yawn. No emotional connection with the characters or stories. Amazon says 3.5 stars and Goodreads agrees but I find it totally uninteresting. \* "City on the Edge: Buffalo, New York, 1900 - present":amazon by Mark Goldman. A very thorough history of the last century or so of Buffalo's history. The same tale could largely be told about any declining rust belt city, but the author has a clear love for Buffalo and does a great job telling the tale. Leaves one admiring the city that survives and wistful for what was lost. Way too much detail in some parts for a non-Buffalonian, but still excellent. Amazon gives 4.5 stars, Goodreads 4 stars, this is a very good book.

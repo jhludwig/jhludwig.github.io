@@ -1,6 +1,0 @@
----
-title: "What I&#039;m Reading Tonight"
-date: "2004-07-18"
----
-
-\* [CEOs skim off 8% of a merger's value](http://www.nytimes.com/2004/07/18/business/yourmoney/18watch.html ). Ugly. \* [Isaac Hayes' Three Laws of Robotics](http://weblogs.asp.net/tmeston/archive/2004/07/17/186238.aspx ). Ha. \* [RSS Screensaver](http://inessential.com/?comments=1&postid=2894). Pointcast lives. \* [Bittorrent traffic surpasses kazaa](http://slashdot.org/article.pl?sid=04/07/14/2030228). And so of course we have... \* [Bitoogle](http://www.bitoogle.com/), the search engine for torrent files. \* [Doom 3 goes gold](http://www.extremetech.com/article2/0,1558,1623704,00.asp?kc=ETRSS02129TX1K0000532). Yeeha! \* [Commoditization of software.](http://ross.typepad.com/blog/2004/07/tech_commoditie.html) Interesting. \* [Is .Net stealing Java's Thunder?](http://www.webservicespipeline.com/news/23900832) Yet again, Microsoft is making the platform very affordable and easy to adopt. \* [Gates: DVDs obsolete in 10 Years.](http://www.lostremote.com/archives/001706.html) For me it may be sooner, I am pretty happy with Video on Demand services. \* [Software that lasts 200 years](http://www.bricklin.com/200yearsoftware.htm). Good read.

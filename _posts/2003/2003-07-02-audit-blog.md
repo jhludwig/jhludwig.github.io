@@ -1,8 +1,0 @@
----
-title: "Audit Blog?"
-date: "2003-07-02"
-tags: 
-  - "tech"
----
-
-Another random idea for the day. I kind of wish my PC kept up a blog of its own. I'd like to see day by day -- what software was installed, what errors occurred, what config changes were made. all nicely categorized, which a nice search interface. A web interface so i could see it from anywhere of course and permit others as necessary to see it. A nice xml interface of course, it would be fun to do cross machine analysis. Kind of a replacement for existing error logs and audit logs -- call it an "error blog" or "audit blog" (ok i am trademarking those terms right now!).

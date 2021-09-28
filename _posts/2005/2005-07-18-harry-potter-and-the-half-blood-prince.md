@@ -1,8 +1,0 @@
----
-title: "Harry Potter and the Half-Blood Prince"
-date: "2005-07-18"
-tags: 
-  - "books"
----
-
-Just finished "Harry Potter and the Half-Blood Prince":amazon. Good yarn, pretty classic mythology at play in the story. Certainly leaves you hungry for the next book as some huge issues are left dangling.

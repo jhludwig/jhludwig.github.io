@@ -1,8 +1,0 @@
----
-title: "Recent books -- an eclectic mix"
-date: "2007-03-22"
-tags: 
-  - "books"
----
-
-\* "Remainder":amazon by tom McCarthy. The tale of a severely brain injured man attempting to recover his life. Vaguely promising premise but I could never really identify with the main or secondary character. Certainly a unique tale though. \* "The Shia Revival":amazon by Nasr. i am not very well educated on modern islam -- sunni, shia, wahabi, sufi, all means little to me. this was a fine first book to read -- explained enough of the history to understand the genesis of the various strains, and explains the regional politics that are intertwined with the divisions in islam. and brings it all forward to the current situation in iraq, iran, and the rest of the middle east. a very helpful text. i am sure this author has some biases, it would probably be smart to read a few more texts to get a start on understanding the current conflicts. \* "Creative concrete ornaments for the garden":amazon by Hunter. Nice intro to basic concrete techniques. Purely decorative uses, not for structural elements. \* "About Alice":amazon by Trillan. Short soothing sweet read about lifelong love. Quietly inspiring. Calming.

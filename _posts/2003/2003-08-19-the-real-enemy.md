@@ -1,8 +1,0 @@
----
-title: "The Real Enemy"
-date: "2003-08-19"
-tags: 
-  - "usa"
----
-
-[Dana is concerned about the US falling behind China](http://www.corante.com/mooreslore/20030801.shtml#49175 "Moore's Lore: new technology. Computing, connectivity, mobile, convergence, communications, software, etc.") and China becoming the dominant world power -- he even calls them the "enemy" at points. I don't know. From a nationalistic point of view I guess I can see his point, but as a human being, I have a hard time getting upset about the largest population in the world taking on a larger role in the world.

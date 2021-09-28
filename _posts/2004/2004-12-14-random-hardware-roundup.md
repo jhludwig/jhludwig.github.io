@@ -1,8 +1,0 @@
----
-title: "Random hardware roundup"
-date: "2004-12-14"
-tags: 
-  - "devices"
----
-
-\* [Olivier notes](http://feeds.feedburner.com/OlivierTravers?m=180) the problems you face when building a new SATA-based PC. Over the next 6 months this stupid problem is going to cause more floppy drives to sell out of Fry's than any other reason. And many of them will be returned after one use. I've had to deal with this 3 times now, pain in the a&$. \* Crap I've had my ATI x800 installed for like a month now, and I am obsolete, I need [the 850](http://go.theregister.com/feed/2004/12/02/ati_x850_x800xl_launch/). \* The [Falcon NW](www.falcon-nw.com) fragbox 2 looks like the perform form factor -- a lot smaller than your standard mini-tower, but enough space to force in the latest video cards and some storage alternatives. \* [$19 for 7.1 audio](http://feeds.feedburner.com/ThomasHawksDigitalConnection?m=602). Basically the soundcard market is almost dead, it is so cheap to get an amazing card now, and soon the processing will just get sucked back onto the main processor. Unlike video cards, we just don't seem to have an inexhaustible need for ever better audio \* [Miniprojectors](http://www.engadget.com/entry/3611739073995828/). Certainly the projector market would benefit from technology introduction and price competition. \* ok getting odder and odder -- [this little rf adapter for wireless remotes seems cool](http://www.smarthome.com/8045.html) -- fits in where a battery normally goes -- does it work?? \* [Interesting phone for outdoorsy types](http://www.pcmag.com/article2/0,1759,1728450,00.asp?kc=PCRSS02129TX1K0000530) -- walkie talkie and gps functionality

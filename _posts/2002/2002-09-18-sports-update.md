@@ -1,8 +1,0 @@
----
-title: "Sports Update"
-date: "2002-09-18"
-tags: 
-  - "sports"
----
-
-**Sports Update**. Overlake Gold soccer team tied Snohomish Country Christian 1-1 last night -- and had way more shots on goal. Forest Ridge Varsity Volleyball team defeated Archbishop Murphy 3-1 last night and it could have been a lot worse, Forest Ridge was dominant. Wow, sports in a metropolitan private school league are draining -- you get to drive all over the city between 3 and 7pm, the worst possible time to be on I-5 and I-405.

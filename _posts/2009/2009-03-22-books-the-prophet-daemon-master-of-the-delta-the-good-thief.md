@@ -1,8 +1,0 @@
----
-title: "Books -- The Prophet, Daemon, Master of the Delta, The Good Thief"
-date: "2009-03-22"
-tags: 
-  - "books"
----
-
-\* "The Prophet":amazon by Kahlil Gibran. Been on the shelf for years, finally read it. Simple poetical musing on the big issues of life. Quick read, worth a moment -- the section on parenting touched me most. \* "Daemon":amazon by Daniel Suarez. Fun cyber terror romp. Many parts scarily possible. "Fun" understates the book, it was great fun. \* "Master of the Delta":amazon by Thomas H. Cook. Small town secrets and class differences get out of control. Also an exploration of the nuances of evil. Quite good though the author explicitly foreshadows too often -- it is obvious early on that some story threads are going to collide, the author doesn't need to keep hinting. But I am nitpicking, a good story. \* "The Good Thief":amazon by Hannah Tinti. I gave this book a long time. But ultimately I gave up, there was no reward. Seems like a retelling of Oliver Twist and I never liked the original. And if you want to read Dickens, go read Dickents. Maybe it is just the fact that Dickens was forced on me in high school that I am reacting to.

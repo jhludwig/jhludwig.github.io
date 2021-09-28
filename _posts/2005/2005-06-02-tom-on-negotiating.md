@@ -1,8 +1,0 @@
----
-title: "Tom on Negotiating"
-date: "2005-06-02"
-tags: 
-  - "business"
----
-
-Tom Evslin has [a great post on negotiating](http://feeds.feedburner.com/FractalsOfChange?m=95). "Lesson #3: start winning right away, even on modalities. Demanding and conceding are habits." I would not want to be across the table from Tom, I always want him on my side. Thankfully, during the course of my career, I've always been on the same side of the table when I worked with Tom.

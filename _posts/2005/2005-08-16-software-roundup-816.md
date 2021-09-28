@@ -1,8 +1,0 @@
----
-title: "Software roundup 8/16"
-date: "2005-08-16"
-tags: 
-  - "software"
----
-
-\* [Yahoo Widgets](http://widgets.yahoo.com) (the software formerly known as konfabulator) is nice, what Active Desktop should have been. We were just too early, ahead of the hardware and ahead of the software. And I was too big a fan of Active Desktop, I learned lots of painful lessons from this experience -- just because you want something to be great, doesn't mean it is great; listen to your team, the truth is there. \* [Fanblogs](http://www.fanblogs.com) pointed me to a great widget -- [team schedules](http://fanwidget.com). Nice. Can't wait for September. \* Who needs powerpoint when [S5](http://javascript.weblogsinc.com/entry/1234000470052355/) is around. \* [Phil recommends NVU](http://www.thebogles.com/blog/2005/07/nvu-friendly-open-source-web-authoring.html) for site authoring \* Monad continues to impress -- [bulk image rotating](http://www.proudlyserving.com/archives/2005/08/rotate_images_w.html) and [scaling](http://www.proudlyserving.com/archives/2005/08/more_monad_imag.html) \* Rich summarizes some [good photo tools](http://www.tongfamily.com/guide/photography/2005/08/15/digital_photo_tools.html) \* [Walt reviewed evernote](http://jkontherun.blogs.com/jkontherun/2005/08/mossberg_review.html) while i was out. Sounds cool but...i use 5 machines regularly...I want it server-based...basically I want my blog to work this way. \* [Technorati mobile](http://m.technorati.com) -- nice effort. For me tho technorati has not yet become an essential tool, for my searches it doesn't provide materially better results than existing search engines.

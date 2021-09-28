@@ -1,8 +1,0 @@
----
-title: "Microsoft Plus! DME"
-date: "2003-03-21"
-tags: 
-  - "tech"
----
-
-**Microsoft Plus! DME**. I bought [Microsoft Plus! Digital Media Edition](http://www.microsoft.com/windows/plus/PlusHome.asp) this week and tried it out. It was cheap at Costco, <$10 after rebate. I mostly wanted to play with the Photo Story feature. Photo Story was pretty easy to use, but I am not sure how often I will. You pick a bunch of photos, add a voiceover if you want (I've never been able to get microphones to work well with Windows), add a soundtrack if you want, and it all gets jammed together as a WMV file. You can't go back and change it later -- adding or deleting photos, or appending content to it. That is the biggest problem. Nor can you burn to a dvd tho i am sure some third party program would let me burn the resultant WMV to a dvd, but the resolution of the resultant WMV isn't so great. I can't see myself using Photo Story that much as a result.

@@ -1,8 +1,0 @@
----
-title: "More Products I Don&#039;t Need (But Want)"
-date: "2007-03-14"
-tags: 
-  - "products"
----
-
-\* [Tong Family Blog: Camcorder Recommendations](http://www.tongfamily.com/camcorder_recommendations.php "Tong Family Blog: Camcorder Recommendations") -- rich does a nice job of reviewing high end video cameras. for the 27 minutes of filming i do a year, i don't need any of these, but... \* A [projector with an ipod dock](http://crunchgear.com/2007/03/12/viewsonic-pj258d-first-projector-to-feature-an-ipod-dock/)! Who doesn't need one of these. \* The [USB flute](http://crunchgear.com/2007/03/09/electronic-usb-wind-instrument-go-ahead-pretend-youre-a-real-musician/). And to the writer who sneers at "rocking out (with a flute?)" -- go dust off your Jethro Tull LPs. \* [Etymotic earcord winder](https://www.etymotic.com/ephp/er4-acc.aspx). OK I might actually need this. \* [MoGo mouse](http://www.tongfamily.com/pcs/hardware/mogo_mouse_bt.php). This looked very cool when I saw rich with it. \* [Super Paper Mario for the Wii](http://www.gamespot.com/wii/rpg/superpapermario/index.html). Mario. Wii. \* A [chumby](http://www.chumby.com/corporate) of course \* The [Vectrix 3-wheeler](http://www.vectrix.com/default.aspx?portal=1&page=111) because it is just awesome. \* The [Callaway FT-i,](http://www.callawaygolf.com/ft%2Di/technology.aspx?lang=en) this is all that separates me from Tiger Woods. (I kick myself that I've never invested in a golf enthusiast company, because golfers will buy anything). \* The [MSR Reactor](http://www.msrgear.com/home.asp) because you never know when you need to cook in gale force winds.

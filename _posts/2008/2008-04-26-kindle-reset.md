@@ -1,8 +1,0 @@
----
-title: "Kindle reset"
-date: "2008-04-26"
-tags: 
-  - "kindle"
----
-
-5 months into Kindle use and I had to reset it for the first time ever, it locked up this morning and was unresponsive to every button. To reset, you take the back cover off and there is a Reset hole to stick a paperclip in. A few minutes to reboot and good as new. I guess once every 5 months isn't terrible.
