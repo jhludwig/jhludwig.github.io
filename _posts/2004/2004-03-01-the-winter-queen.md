@@ -1,0 +1,8 @@
+---
+title: "The Winter Queen"
+date: "2004-03-01"
+tags: 
+  - "books"
+---
+
+[Amazon.com: Books: The Winter Queen : A Novel](http://www.amazon.com/exec/obidos/tg/detail/-/1400060494/qid=1078162902//ref=pd_ka_1/103-1212557-3439030?v=glance&s=books&n=507846 "Amazon.com: Books: The Winter Queen : A Novel") by Boris Akunin -- a great detective novel, the first translated from a best-selling Russian series. A great character and a great story, makes me sad that I am not fluent in Russian, I have to wait for the rest of the series to be translated. I wonder how much other great reading I have missed because I am mono-lingual?

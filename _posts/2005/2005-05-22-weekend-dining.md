@@ -1,0 +1,10 @@
+---
+title: "Weekend Dining"
+date: "2005-05-22"
+tags: 
+  - "northwest"
+---
+
+Based on [john's reco](http://www.zagula.com/food_and_wine/2005/05/19/seven_stars_pepper.html), we found our way to seven stars pepper. A little hard to find but it was tasty -- the Chong Gin chicken john reco'ed was excellent. But at the end of the meal we all agreed -- chinese food is just not our favorite asian cuisine, we far prefer the flavors and spices of thai food.
+
+Also we ate at [serafina](http://www.serafinaseattle.com/) for lunch one day. Great great italian, we consistently like the Melanzane alla Serafina (eggplant rolls). Parking can be painful at busy times.

@@ -1,0 +1,8 @@
+---
+title: "Jon Udell and the on-demand blogosphere"
+date: "2005-03-08"
+tags: 
+  - "tech"
+---
+
+[Jon's latest](http://weblog.infoworld.com/udell/2005/03/07.html#a1191) is a great read. I've often wished that I could search just a subset of the web -- I'd like to give google not a single domain to scope a search, but a list of domains. Jon's article is a great articulation of that idea in depth -- the list of interesting domains he focuses on is your blogroll, but the idea could be used with other lists as well. [Like Tom Evslin](http://blog.tomevslin.com/2005/03/the_vertical_se.html), I don't think I believe in vertical search engines. But I am certainly convinced that people/sites can provide an "editorial voice" on top of the existing search engines, by scoping a search to a set of domains.

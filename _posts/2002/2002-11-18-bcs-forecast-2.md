@@ -1,0 +1,10 @@
+---
+title: "BCS Forecast"
+date: "2002-11-18"
+tags: 
+  - "buckeyes"
+---
+
+**BCS forecast**. Not sure why Brad picks Miami to leapfrog OSU in the standings -- [ESPN.com: NCF - Inside The BCS](http://espn.go.com/ncf/s/2002/1117/1462226.html) -- doesn't make sense to me. OSU can only build on its lead from last week as OSU won while Miami was idle. Sure OSU looked weak but victory margin does not matter to the computers. OSU's schedule strength can only go up it seems to me...hmm, [cnnsi](http://sportsillustrated.cnn.com/football/college/news/2002/11/17/bcs_preview/) is echoing the ESPN line, projecting OSU's lead to slip. Maybe I need to go review the BCS math. Can beating a weak team actually hurt a contender more than being idle?
+
+OK I've started to dig into the computer components. Of the 4 that have published today, 3 did not change from last week, but 1 -- the NY Times poll -- did drop OSU to 2 and move Miami to 1. Given that the computers are not permitted to consider margin of victory, this seems like a pretty bad flaw in the NY Times algorithm to me. I just don't get how playing and winning can be considered more negative than being idle.

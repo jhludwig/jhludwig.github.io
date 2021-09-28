@@ -1,0 +1,13 @@
+---
+title: "West Hollywood extended stay hotels"
+date: "2010-02-26"
+tags: 
+  - "la"
+  - "vacation"
+---
+
+Just back from a stay in West Hollywood. Stayed at "Le Parc Suites":http://www.leparcsuites.com/. I think this place had its best moments 10 years ago. Not terrible, the service levels were good, the street is nice, but the facility is aging and probably wasn't great to start with.
+
+From walking around, where we should have stayed (kitchen a requirement): \* "Palihouse":http://www.palihouse.com/suites.asp?st=5. Looks very cool and good kitchens. Not as nice a street location as Le Parc but looks way awesomer. \* "Petit Ermitage":http://www.petitermitage.com/home.php. Also full kitchens.
+
+Close but lacking a real kitchen: \* "LeMontrose Suite Hotel":http://www.lemontrose.com/accommodations/amenities.php. Kitchenette type facilities \* "Chamberlain":http://www.chamberlainwesthollywood.com/accommodations/index.html. Kitchenette as well in some rooms

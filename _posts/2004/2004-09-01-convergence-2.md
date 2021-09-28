@@ -1,0 +1,8 @@
+---
+title: "Convergence"
+date: "2004-09-01"
+tags: 
+  - "tech"
+---
+
+[Phones as wallets](http://www.theregister.co.uk/2004/09/01/samsun_philips_mobile/), [walljacks as access points](http://www.netstumbler.com/2004/08/30/wi_fi_wall_jacks_to_enable_wireless_grid). Fascinating. Seems like as Moore's law drives the cost of including additional electronic functionality to zero, we are going to see all kinds of interesting combos. The premium is going to be on clear understanding of the scenarios and usage models, leading to useful integrations. Just because you can slam a camera into a vacuum cleaner doesn't mean you should.

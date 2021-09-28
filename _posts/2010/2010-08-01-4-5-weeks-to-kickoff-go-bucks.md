@@ -1,0 +1,21 @@
+---
+title: "4.5 weeks to kickoff! Go Bucks!"
+date: "2010-08-01"
+tags: 
+  - "big-10-conference"
+  - "buckeyes"
+  - "marshall"
+  - "nebraska"
+  - "pac-10"
+  - "penn-state"
+  - "sports"
+  - "usc"
+---
+
+Wow, August is upon us, only 4.5 weeks to "OSU's kickoff with Marshall":http://www.dispatch.com/live/content/sports/stories/2010/08/01/cfbx01-gi89c2m8-1.html?sid=101.
+
+Super excited about the prospects for this year's OSU team. An experienced offensive backfield and line, a beastly-looking defensive line, and great talent in most other areas. A gnarly in-conference road schedule tho and a strengthening Big-10 conference will make it a tough year tho. Around the nation, I'm also keyed up for the Nebraska-Texas game, I'd love the see the newest member of the Big-10 wax Texas. And I'll have my eyes on USC, I think they could do very well in a so-so Pac-10. I'll probably watch some Washington games tho I have never bonded with the team.
+
+As of this moment, I'll be attending the OSU November home games, Penn State and Michigan. And depending on the season, potentially the bowl game. I might attend a UW game. I wish I could get back to Columbus for the Miami game or to Iowa City or Madison for the big road games but not likely to happen.
+
+Go Bucks!

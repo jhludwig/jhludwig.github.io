@@ -1,0 +1,8 @@
+---
+title: "Recent materials stuff that intrigued me"
+date: "2008-01-01"
+tags: 
+  - "materials"
+---
+
+\* [The Quest for a New Class of Superconductors](http://www.physorg.com/news117380394.html "The Quest for a New Class of Superconductors") -- exploration of materials for higher temp superconductivity -- basically trying to find materials that conduct without involving phonons \* [Silicon nanowire battery with much greater energy density](http://news-service.stanford.edu/news/2008/january9/nanowire-010908.html). One example of how messing with the nanostructure of materials can have remarkable impacts \* [Materials with no thermal expansion](http://www.physorg.com/news117289132.html) \* [Nanorods as measurement devices](http://nanotechweb.org/cws/article/tech/32223) -- measuring cell ph \* [extra strong metallic foams](http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6TY2-4R2Y4JY-6&_user=10&_coverDate=02%2F29%2F2008&_rdoc=3&_fmt=summary&_orig=browse&_srch=doc-info(%23toc%235606%232008%23999419995%23675061%23FLA%23display%23Volume)&_cdi=5606&_sort=d&_docanchor=&_ct=22&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=be02e7199dc855915980a37a993d62b0) -- another instance of how messing with nano structure can have remarkable macro effects \* [Turning diamonds into conducters](http://www.sciencemag.org/cgi/content/citation/318/5855/1345b) \* [High performance carbon nanotube fibers.](http://www.sciencemag.org/cgi/content/abstract/318/5858/1892?maxtoshow=&HITS=10&hits=10&RESULTFORMAT=&fulltext=high+performance+carbon+nanotube+fiver&searchid=1&FIRSTINDEX=0&resourcetype=HWCIT)

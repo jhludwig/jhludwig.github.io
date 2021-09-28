@@ -1,0 +1,9 @@
+---
+title: "Ignition roundup 6/24"
+date: "2005-06-24"
+tags: 
+  - "ignition"
+  - "venture"
+---
+
+\* A lot of Ignition faces at [Gnomedex](http://www.gnomedex.com). Thanks to [Clearsight](http://www.clearsightsystems.com/), [Intelligent Results](http://www.intelligent-results.com/), [Cloudmark](http://www.cloudmark.com) for nice swag and samples. And huge kudos to [mfoundry](http://www.mfoundry.com) for their efforts to get all the attendees using the mfoundry gnomedex app. \* Not everyone could be there -- [notably the mpire guys were launching down at ebay live](http://www.vcmom.com/2005/06/24/mpire-_ebay_live.html) \* Phil was there [and he keeps improving berry411](http://www.thebogles.com/blog/2005/06/new-berry-plugins.html) -- he showed me the ups tracking plugin. awesome. \* Also phil found this [cool jobs map](http://www.thebogles.com/blog/2005/06/workzoos-map-of-job-distribution-over.html), and jason at jobster had a good talk with john connors about the [ceo playbook](http://jobster.blogs.com/blog_dot_jobster_dot_com/2005/06/the_ceos_playbo.html) \* Phil also points towards [Bus Monster](http://www.thebogles.com/blog/2005/06/bus-monster.html) -- wow, google is really becoming the platform for truly interesting apps. \* Rich found this fascinating [site that tracks our aircraft carriers](http://www.globalsecurity.org/military/ops/where.htm). \* Martin found a good blog on [energy investing](http://www.martinandalex.com/blog/archives/2005/06/new_clean_techn.html) \* John has posted one of his presentations on the [marketing playbook as an mp3 or show](http://marketingplaybook.com/2005/06/23/virtual_hot_air.html). \* And last, but definitely not least, check out adrian's latest project -- [vacuum forming](http://www.smithstuff.net). I have to borrow this for halloween prop creation.

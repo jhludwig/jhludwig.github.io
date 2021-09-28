@@ -1,0 +1,11 @@
+---
+title: "Online math resources"
+date: "2010-02-11"
+tags: 
+  - "math"
+  - "web"
+---
+
+Just discovered "Cramster":http://www.cramster.com/. Awesome. If they have coverage for the text used in your class, this is super helpful.
+
+Finding that Wolfram Alpha is also becoming more useful. Easier to run to it to figure out the integral of x^2 sinx sinhx than spinning up mathematica or maple or matlab.

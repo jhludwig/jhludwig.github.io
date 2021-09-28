@@ -1,0 +1,20 @@
+---
+title: "Microsoft needs to get out in front of the developer parade"
+date: "2014-01-07"
+---
+
+David Sobeski has a great writeup on facebook covering Microsoft's methodical destruction of developer trust over the last 15 years:
+
+<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+
+[Post](https://www.facebook.com/dsobeski/posts/10153683440480008) by [David Sobeski](https://www.facebook.com/dsobeski).
+
+I am relearning how to be a software developer after many years away and it is notable that, not only am I not using any Microsoft technologies or tools, nothing from Microsoft even entered the consideration set as I selected targets, libs, tools, etc.
+
+Rehashing all the missteps is entertaining, David does a great job of that, I never tracked all this stuff and many of the acronyms and decisions around them are lost in the fog of history. For whatever reason, Microsoft is at the nadir of its developer influence.
+
+If I was the new CEO at Microsoft, fixing this would be job 1, and I wouldn't be timid. I would have a 6 month plan to make Microsoft relevant to every developer. And there is no way to do that without buying a bunch of assets to get out in front of the existing parades. I'd buy Github or Atlassian. Stackoverflow. I'd buy or embrace a Linux dist -- CentOS maybe, or screw it, just buy RedHat. I'd jump into the vagrant/docker world and buy a position in that space. I'd buy modern leading noSQL and Hadoop distributions. Xamarin as a tool. And 10 more things. At the end of this, Microsoft would be in the conversation with every developer on the planet. OK it would be a chocolate mess of technology assets, but read David's write up -- Microsoft has a chocolate mess of assets now, without any developer relevance.
+
+I wouldn't worry at all in the first 3 years about cleaning all this up and rationalizing it. I'd run the teams separately, I'd encourage them all to go go go, and I'd create organic opportunities for them to talk and discuss collaboration, without forcing it. Relevance as measured by developer use, and speed of evolution would be my top criteria. Every developer who is not using a Microsoft tool or runtime would be viewed as a failure. Internally I'd direct the Visual Studio team to become the tool for every developer, regardless of what platform they are targeting -- iOS, Android, AWS, whatever. Rationalization could come later if at all.
+
+This strategy will create confusion, overlaps, duplications, conflicts, and chaos -- but dammit, Microsoft will be relevant again. Relevance will make up for a lot of sins.

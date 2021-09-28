@@ -1,0 +1,15 @@
+---
+title: "Halloween 2006 Status -- Pneumatics"
+date: "2006-10-22"
+tags: 
+  - "halloween"
+  - "props"
+---
+
+I'm feeling pretty good about pneumatics for this halloween.
+
+My primary use is for a [creature crate](http://www.frightprops.com/frightprops/props/Product.asp?ID=0686). This is working really well, money well spent as I don't think I could have created anything as durable as this. I've "retired" my opening/closing coffin from last year as this crate is jus so much more effective.
+
+A secondary use is for a popping ghost. I'm using an [efx-tek](http://www.efx-tek.com/) prop controller with some 24vdc [smc](http://www.smcusa.com/) solenoids (off ebay) to shoot a blast of 120psi air at irregular intervals. The air is directed upwards along a line from the ground up to a tree limb, and a lightweight ghost (gauzy fabric around a clear plastic cup which catches the air blast) flies up the string 10 feet and then settles down. I'll position it all behind a tombstone and light the ghost path. The pneuma and mechanics are rock solid, I'm happy with them. The ghost is fine, at night in sudden bursts no one will see how crappy it really looks. I'd love to have the skill/ideas to create a better lightweight ghost -- it has to catch the air blast in a stiff inner cup structure, needs a lot of gauzy outstructure to float around, and needs to weigh very little -- I am probably at 4 oz now and wouldn't want it heavier. Oh and be weather resistant as this is for outdoor use.
+
+Notes for 2007: better looking ghost. And build 3 of these for different spots in the yard.

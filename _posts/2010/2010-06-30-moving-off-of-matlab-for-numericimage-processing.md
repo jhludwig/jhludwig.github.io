@@ -1,0 +1,19 @@
+---
+title: "Moving off of Matlab for numeric/image processing"
+date: "2010-06-30"
+tags: 
+  - "imagej"
+  - "jython"
+  - "math"
+  - "matlab"
+  - "numpy"
+  - "python"
+  - "science"
+  - "software"
+---
+
+Reardon abused me (not really) for still using Matlab and goaded me to look into the ImageJ world. So I am learning. Seems like I need to get smart on
+
+\* "ImageJ":http://rsbweb.nih.gov/ij/ and the "Fiji":http://pacific.mpi-cbg.de/wiki/index.php/Main\_Page distribution \* Python derivatives like "Jython":http://www.jython.org/ for ImageJ scripting and "NumPy/SciPy":http://numpy.scipy.org/ for numeric/array processing \* There are a ton of other scripting language choices but seems like python covers this well enough. I don't want the brain damage of "Clojure":http://clojure.org/.
+
+Other stuff to learn? I'll have to pick up an editor and source management tool as well. The benefit of all this? Any code I write should be faster, more easily redistributable, and there is a large support community. The disadvantage? I have to assemble all these piece-parts to get something equivalent to MatLab, so more time d&\*king around with software which is time taken away from research focus. And the Matlab universe has a pretty good support community too, so not clear I am trading up there. Certainly the ImageJ/Jython/NumPy path is "cooler" along a certain dimension, but do I care?

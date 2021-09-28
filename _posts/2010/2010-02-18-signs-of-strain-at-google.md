@@ -1,0 +1,16 @@
+---
+title: "Signs of strain at Google?"
+date: "2010-02-18"
+tags: 
+  - "google"
+  - "software"
+  - "web"
+---
+
+OK the missteps that Google has made with Buzz this week are well chronicled. They jammed a product out without really thinking it through.
+
+That doesn't hit me that much as a user. But today using the iphone map app I am getting continuous errors -- here is the map of "drugstores near my current location":http://twitpic.com/13st7z. Not unique to me, I've heard of this from many folks today.
+
+And I'm looking at the ESPN boxscore page for "Purdue/OSU right now":http://espn.go.com/ncb/boxscore?gameId=300480194 and first the google toolbar tells me it is in Portuguese, and now in Catalan, and asks if I want a translation.
+
+One wonders if Google is spreading itself a little thin.

@@ -1,0 +1,8 @@
+---
+title: "Ignition blog roundup 5/15"
+date: "2005-05-15"
+tags: 
+  - "ignition"
+---
+
+\* [Adrian is trying out metal casting](http://www.geekfishing.net//2005/05/14/how_about_trying_metal_casting_.html) -- this [lindsay books catalog](http://www.lindsaybks.com/) is truly amazing \* Andy is [recommitting to his blog](http://asack.typepad.com/a_sack_of_seattle/2005/05/blogging.html) (kind of) \* Rich is enamored with [the mt spamlookup plugin](http://www.tongfamily.com//2005/05/10/spamlookup.html) -- personally i've given up on trackbacks and have reallowed typekey-registered commentors. I don't have time to futz with all the plugins and tools to allow anything else. \* Rich also continues to play with podcasting -- [looking at a better portable mp3 recorder](http://www.tongfamily.com/guide/gadgets/2005/05/10/samsung_yepp_ypmt6z.html) (I've put on my father's day wish list) \* Phil is a blogging animal - looking [at password composer](http://www.thebogles.com/blog/2005/05/passwd-composer.html) (which is cool but i regularly use at least 6 different machines), playing with [google mobile](http://www.thebogles.com/blog/2005/05/mobile-google-local-comments.html) and his 411 app, calling out for more [large-type support](http://www.thebogles.com/blog/2005/04/failure-of-vision.html) \* Great [unintentional press for PerfectMatch](http://marketingplaybook.com/2005/04/29/priceless.html) (one of our investments) \* Also, Johnza [on the fourth place](http://marketingplaybook.com/2005/05/03/the_fourth_place.html) -- _"Why can’t the Internet become a 4th place. A place that we’ve never really had before, where we get many of the things that we get from the 1st, 2nd and 3rd places but without the physical limitations"_

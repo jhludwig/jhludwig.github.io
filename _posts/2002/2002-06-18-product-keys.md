@@ -1,0 +1,10 @@
+---
+title: "Product Keys"
+date: "2002-06-18"
+tags: 
+  - "tech"
+---
+
+**Product Keys**. So I have a file now that is one of the most precious files on my computer -- a list of all my Windows and Office Product Keys. Because I screw around with my systems a lot, reinstalling Windows and Office is unfortunately something I do on occasion. It is pretty pathetic that I have to keep a file of these keys so that I can successfully reinstall.
+
+This is actually something I wish Passport solved for me. Let me associate an install with my passport and have passport remember the dang keys for me. So that on reinstall i can just provide my passport and everything swims along. This doesn't require huge magic adoption of passport by the industry. It just requires Microsoft product teams to set this as a goal and work together to solve. Later on you could extend to handle keys and credentials of other parties and websites but that is an option. It would be valuable if Microsoft just solved the Microsoft created problem.

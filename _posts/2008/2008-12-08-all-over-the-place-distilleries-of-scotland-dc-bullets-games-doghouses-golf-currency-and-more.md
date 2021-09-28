@@ -1,0 +1,42 @@
+---
+title: "All over the place -- Distilleries of Scotland, DC, Bullets, Games, Doghouses, Golf, Currency, and more"
+date: "2008-12-08"
+tags: 
+  - "authentication"
+  - "bullets"
+  - "dc-games"
+  - "design"
+  - "distilleries"
+  - "energy"
+  - "europe"
+  - "games"
+  - "games-golf"
+  - "golf"
+  - "golf-clubs"
+  - "golfers"
+  - "magnetosphere"
+  - "mainstream-games"
+  - "nitrogen"
+  - "open-source-design"
+  - "outdoors"
+  - "pet-furniture"
+  - "po-box"
+  - "science"
+  - "scotland-currency"
+  - "scotland-golf"
+  - "security"
+  - "stuff"
+  - "vacation"
+  - "wow"
+---
+
+- [Brett on Stuff » Distilleries of Scotland](http://www.brettonstuff.com/index.php/backpacking/distilleries-of-scotland/). A reason to hike Scotland
+- [WOW](http://lifehacker.com/5103852/would-you-pay-7-for-two+factor-online-banking-authentication) -- stronger authentication than your bank. What does that say about the world.
+- [Running DC thru the house](http://www.greentechmedia.com/articles/a-current-in-every-ceiling-5278.html). An idea whose time has come again?
+- [Indie games DB](http://www.crunchgear.com/2008/11/22/tigdb-the-indie-games-database/). Often way better than mainstream games
+- [Guided Bullets.](http://blog.wired.com/defense/2008/11/what-if-a-snipe.html) Why not.
+- [Thingiverse](http://www.thingiverse.com/). Kind of an open source design site.
+- [Denhaus](http://www.denhaus.com/) -- awesome pet furniture
+- [Nitrogen-infused golf clubs](http://www.crunchgear.com/2008/11/13/nitrogen-infused-golf-clubs-mimic-big-swing-speeds/). Golfers will buy anything.
+- [Dutch 5 Euro coin](http://www.google.com/reader/view/#stream/user%2F07916954266999182530%2Fstate%2Fcom.google%2Fstarred). Awesome, wish I could order. Not the first time I have been blocked from ordering a euro product, wish I could sign up for a forwarding PO box in Europe.
+- [Mini Magnetosphere](http://www.ubergizmo.com/15/archives/2008/11/mini_magnetosphere_to_prevent_astronauts_from_cosmic_rays.html). Maybe we all need one of these

@@ -1,0 +1,20 @@
+---
+title: "New Sony Reader, same old busted strategy"
+date: "2011-08-31"
+tags: 
+  - "design"
+  - "ebooks"
+  - "gadget"
+  - "kindle"
+  - "sony"
+  - "tweet"
+  - "venture"
+---
+
+"Sony has a new e-reader out":http://techcrunch.com/2011/08/31/sonys-latest-kindle-killer-is-worlds-lightest-ereader/?utm\_source=feedburner&utm\_medium=feed&utm\_campaign=Feed%3A+Techcrunch+%28TechCrunch%29 and it seems to be very nice hardware, I'd love to buy one. Let me check out their reader store and see what their book inventory looks like these days:
+
+[![](images/reader.jpg "reader")](http://theludwigs.com/wp-content/uploads/2011/08/reader.jpg)
+
+Oh. And this kind of sums up Sony's strategy. Nicely designed premium hardware, but off in their own software and service planet, which is not well executed. I've tried to give Sony the benefit of the doubt -- I owned the "first Sony Reader back in 2007":http://theludwigs.com/2007/01/im-a-sony-reader-convert/ -- but they have failed to act on the big picture here. A big part of the Kindle's awesomeness is the great store backend, the seamless download experience with the store, and the availability of Kindle software on every device on the planet so that I can read my purchases on my PC, my Mac, my phone, my Kindle, my iPad, on the web, pretty much anywhere. Sony totally whiffs on this total experience. It is kind of sad because I would love to see a first rate competitor to the Kindle, and Sony has some great assets to bring to bear -- retail stores, solid hardware design skills.
+
+In the long run, Amazon wants to sell digital goods, Sony wants to make great devices -- I have to wonder why Sony doesn't abase themselves, drop their own store, let Amazon run the backend for the Sony device, and make the Reader the best Kindle-compatible device in the world. Any other strategy just seems pointless.

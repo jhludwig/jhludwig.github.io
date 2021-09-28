@@ -1,0 +1,12 @@
+---
+title: "Halloween Status"
+date: "2007-10-27"
+tags: 
+  - "halloween"
+---
+
+Dry run last night:
+
+\* Foggers in good shape. Large fogger ran fine on about a 12.5% duty cycle, will crank up by Halloween night. 3 point foggers (Cujo's doghouse, mausoleum, tree) all worked fine. Will need to check fog fluid levels. \* Sound systems all operational. Thunder and lightning sounds good, Mausoleum sounds good, Courtyard good, Tree good. Main entrance good. Doghouse levels seem a little off. \* lighting all good. Lightning, spots, uv spots all operational. Added LED eyes to skeletons today \* major props all functional. active props all working -- tree, crate, FCG. Static props all holding together.
+
+Good to go!

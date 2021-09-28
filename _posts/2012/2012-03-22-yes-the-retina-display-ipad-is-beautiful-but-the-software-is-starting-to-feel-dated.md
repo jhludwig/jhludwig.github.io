@@ -1,0 +1,25 @@
+---
+title: "Yes the retina display iPad is beautiful, but the software is starting to feel dated"
+date: "2012-03-22"
+tags: 
+  - "cloud"
+  - "gtd"
+  - "ios"
+  - "ipad"
+  - "software"
+  - "tweet"
+---
+
+OK I am completely conflating issues in this post but that accurately reflects my state of mind.
+
+Like everyone else has said, the new screen is beautiful, the pad does run a little hot, the extra weight and thickness is a little noticeable, blah blah blah. Nothing new to add here. For me, the greatest impact is on the readability of text in retina-enabled apps, it really is easier n the eye. And kind of bizarrely, the few iPhone apps I use on the iPad now look really nice when blown up to full screen, they no longer look clunky.
+
+To the point, tho, the iPad hardware continues to improve and I find myself using the iPad more and more.
+
+[![](images/PROGMAN-282x300.jpg "_PROGMAN")](http://theludwigs.com/wp-content/uploads/2012/03/PROGMAN.jpg)However iOS is starting to feel dated. The iPad is delivering a Windows 3.x shell experience -- a big beautiful screen and all it shows is a sea of spaced icons. And when you tap them, you get full screen apps, it is actually like earlier versions of Windows.
+
+This works fine if you are basically just launching full screen games, videos, and books all day, which is admittedly the greatest part of iPad use for most people. But i actually have to do some real work in my life, I need to accomplish things. I need a tablet that is a little more productive. Right now if i want to work on a project, I have to navigate a sea of apps, and all the project details are spread around in a million places -- I've got notes in Evernote and docs in Dropbox and Keynote/iCloud and relevant emails in Mail and todo lists in several places. It is not a great experience dealing with all this -- hop into mail or evernote to see what I should be working on (and navigate the folder/tag hierarchies in those as necessary), then hop over somewhere else to work on a doc, meanwhile fighting off distractions from other incoming mail or whatever. My projects and my tasks take a distinct backseat to the app hierarchy and that seems wrong. I'd like to have a screen per project -- slide over to my screen with all the things i am working on with respect to a portfolio company, and i could see the docs i need to work on, my todo list, upcoming meeting dates, and the latest email thread, and i could send notes and work on docs right there. or slide over to my maker project at home and work on that. or to home remodel project screen where i can see the plan docs, the latest email, the upcoming schedule and discussion items, etc.
+
+I also want all my data to sync everywhere. If I have a project I am working on, I should be able to go to a folder on my desktop machine and see all the related files. And these should all be available on my work machine, my home machine, wherever. Right now I have content stored in Evernote and synced across all my machines, in Dropbox and synced across all my machines, in iCloud synced across all my machines. If I want to get all the content and files for a project, well good luck. None of these storage solutions are really working the way I want to work. Evernote does a nice job keeping everything ordered by folder and project, and has a nice UI, but it is work to get content in and out of evernote and into other apps. Dropbox has the very natural folder-on-the-desktop model which makes it super easy to use with a million apps, but my Dropbox folder is now chaos with all kinds of random stuff intermixed, apps creating their own confusing folder hierarchies (Byline I am looking at you), and it is just chaos. iCloud also keeps stuff stored by app, not by project, and is just further fracturing my storage.
+
+So to summarize, I want a very project-centric experience, with transparent and complete syncing of project files and contents across all machines, and I want all my apps to work with the same project contents. I could use a web product like "OneHub":www.onehub.com (an Ignition investment) and they have a good ipad app, and this may be the way to go, I am seriously considering. Box.net is too expensive, Basecamp doesn't have an iPad app. All these solutions have a lot of great collaboration support but that is secondary for me -- I just want to keep my own life in order and get my own stuff done. The iPad and current cloud storage solutions aren't really helping me to focus, keep things ordered, and get things done.

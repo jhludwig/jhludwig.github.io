@@ -1,0 +1,8 @@
+---
+title: "Radio and Bugs."
+date: "2003-02-05"
+tags: 
+  - "tech"
+---
+
+**Radio and Bugs**. [Sam Gentile points](http://dotnetweblogs.com/sgentile/archive/02052003.aspx#423) to some discussions about Radio bugs. I've had my share of problems. I don't think it is a lot worse than any of the other blog tools, they all have quirks and rough edges that make them unusable for anyone but enthusiasts.

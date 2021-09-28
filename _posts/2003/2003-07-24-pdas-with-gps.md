@@ -1,0 +1,8 @@
+---
+title: "PDAs with GPS"
+date: "2003-07-24"
+tags: 
+  - "tech"
+---
+
+[Satoshi's Wireless Weblog: User Interface is an Art: PDA with integrated GPS](http://blog.neoteny.com/nakajima/archives/006004.html "Satoshi's Wireless Weblog: User Interface is an Art: PDA with integrated GPS") -- so why don't PCs have built in GPS by now? Do the Intel Centrino chipsets have GPS built in? I don't think so, searching for GPS on the Intel website doesn't bring up much. It would be so helpful for so many apps if you could find out definitive lat/long info for the PC.

@@ -1,0 +1,8 @@
+---
+title: "Recent books -- Misquoting Jesus, A Voyage Long and Strange, Rising Sun Victorious"
+date: "2009-01-17"
+tags: 
+  - "books"
+---
+
+\* "Misquoting Jesus":amazon by Bart D. Ehrman. Initially engaging, a bit too long at times, but overall very good discussion of the history of the Bible. Gives a nice overview of the field of textual criticism -- using history, language skills, psychology, and physical document analysis to determine how a document has morphed over the years. \* "A Voyage Long and Strange":amazon by Tony Horwitz. Couldn't make it thru. The stories of all the early discoverers of North America seems like something I would like, but the book just couldn't hold me. The people they were and the world they explored are so distant from the modern day, not just in time. I could never find any relevance. \* "Rising Sun Victorious":amazon edited by Peter G. Tsouras. Military historians look at ways that Japan might have won (or at least fought to a draw) the Pacific war in WWII. Interesting, a lot of missed opportunities, well thought out scenarios.

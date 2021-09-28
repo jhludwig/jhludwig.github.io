@@ -1,0 +1,14 @@
+---
+title: "The last empty Saturday of the year has passed..."
+date: "2010-08-29"
+tags: 
+  - "buckeyes"
+  - "football"
+  - "sports"
+---
+
+...College football kicks off this week! Finally.
+
+Getting ready for the season:
+
+\* "Live odds":http://www.bangthebook.com/football-betting/live-football-odds.php. Not that I bet, nor do I believe that odds have much to do with expected outcomes, but still interesting to peruse. \* "CFB stats":http://www.sports-reference.com/cfb/ -- awesome site with comprehensive stats. For when you need to spew them at someone to prove your school is better. \* "Senator Tressel held in high regard by coaching ranks":http://seattletimes.nwsource.com/html/collegesports/2012722914\_survey29.html?syndication=rss. Pretty awesome. \* "Blogpoll":http://www.sbnation.com/ncaa-football/rankings/college-football-blogpoll-top-25.

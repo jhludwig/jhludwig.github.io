@@ -1,0 +1,20 @@
+---
+title: "Beware the OSX Migration Assistant"
+date: "2012-09-29"
+tags: 
+  - "fail"
+  - "osx"
+  - "tweet"
+---
+
+When I got my Retina Macbook Pro, I used the migration assistant to transfer over all my docs and apps. I had used it in the past and it had worked fine.
+
+But this time, my experience was different. First, it struggled with the amount of picture and music content I tried to transfer over, something about 200G+ of data didn't make it happy. I ultimately just copied over my iTunes and Aperture libraries manually.
+
+But the bigger problem is that the migration utility refused to copy apps and docs from the "John" account on my old macbook pro to the "John" account on the new machine. It mumbled about the account already existing and demanded I used a new account.
+
+[![](images/2995807604_219f46cbf9_m.jpg "http://www.flickr.com/photos/uwehermann/")](http://theludwigs.com/wp-content/uploads/2012/09/2995807604_219f46cbf9_m.jpg)And this ended up being a disaster. I've suffered thru a couple months of a constant chown/chmod fest and I have given up. Nothing wants to run, and sudo doesn't even reliably solve.
+
+So yesterday I nuked the whole SSD and put a fresh install of Mountain Lion on the machine. I downloaded Mountain Lion from the app store, used "Lion Diskmaker":http://blog.gete.net/lion-diskmaker-us/ to put it on a usb key, rebooted in rescue mode, formatted the SSD, and reinstalled Mountain Lion. And then reinstalled the 50 or os apps, reconnected mail/cal/contacts to all my accounts, reinstalled plugins for xcode, aperture, safari, etc, copied over my Aperture and iTunes library and docs from a network store, and am pretty much back up and running.
+
+Lesson learned. I'm not the only person in the world that has hit this, here is a "good description of the core problem":http://pondini.org/OSX/MigrationProblems.html and the many ways you can try to solve. One wonders why anyone thought this was a reasonable way for the migration assistnat to act.

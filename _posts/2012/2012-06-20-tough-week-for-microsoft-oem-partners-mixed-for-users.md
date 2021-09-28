@@ -1,0 +1,20 @@
+---
+title: "Tough week for Microsoft OEM partners, mixed for users"
+date: "2012-06-20"
+tags: 
+  - "msft"
+  - "oems"
+  - "pcs"
+  - "phone"
+  - "tweet"
+---
+
+[![](images/roadkill.jpg "Naf : 4D @ flickr")](http://theludwigs.com/wp-content/uploads/2012/06/roadkill.jpg)Microsoft had a busy week running over OEMs:
+
+\* "Microsoft Surface":http://www.microsoft.com/surface/en/us/default.aspx seems like a very interesting product, the announcement did the job of generating buzz (and probably stalling enterprise iPad purchases, which was likely a key factor in announcing this early), and it was a move MSFT had to make -- the existing OEM model has been getting killed by the superior Apple integrated design, retail, and support experience. So the right move by MSFT, but they threw over 25 year relationships with OEMs to make it happen. It will be fascinating to see how OEMs respond -- goaded to create even better Windows products, run to Android, other? I wonder if MSFT will license all the nice keyboard and cover technology to OEMs if they want to build Surface-like machines. \* "Windows 8 not coming to existing Windows Phones":http://news.cnet.com/8301-1035\_3-57456655-94/no-windows-phone-8-upgrade-for-current-devices/. No new news here, Microsoft just confirmed they are abandoning existing Windows Phone devices. Sure they are backporting some of the UI features, but I don't expect any new significant app to ever appear for the existing Windows Phones, and that sucks. As a user, I will certainly walk away from the device as soon as it makes sense (likely iPhone 5 time). And how must Nokia feel after pinning their corporate strategy to Windows Phone -- there is no way Lumia sales improve on this news. \* And of course Nokia is now on deck. MSFT just demonstrated a willingness to dump 25 year relationships to achieve MSFT's goals. How patient will MSFT be with Nokia? Not very.
+
+When I joined MSFT in the 80s, MSFT was selling its LAN products through 3Com and other OEMs, and MSFT blew up those relationships when they didn't pan out. Right move for MSFT, tough on 3Com. In the early 90s, the IBM relationship played out the same way. Again the right move for MSFT. And these current moves seem right for MSFT.
+
+As a user I'm pretty unhappy about the phone situation and I will probably dump my Windows Phone, but I am pretty happy about competition in the tablet space, it will result in better choices for all of us.
+
+UPDATE: "DF points":http://daringfireball.net/2012/06/surface\_between\_rock\_and\_hardware\_place to "this excellent article on asymco":http://www.asymco.com/2012/06/20/who-will-be-microsofts-tim-cook/ which digs into the numbers for msft behind the decision to bypass the oems.

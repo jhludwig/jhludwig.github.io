@@ -1,0 +1,13 @@
+---
+title: "low end computing grab bag -- arduino, sensors, fritzing, LEDs, coin batteries, etc"
+date: "2012-11-18"
+tags: 
+  - "arduino"
+  - "internetofthings"
+  - "led"
+  - "tweet"
+---
+
+A random collection of links I've noticed in the past month or so, need to follow up on most of these.
+
+\* "APDuino.org":http://apduino.org/. Standard software for managing an arduino fully populated with sensors. Feel like arduino hw and sw ought to evolve to include more sensor capability by default \* "Understanding coin cell limitations":http://www.adafruit.com/blog/2012/11/15/ee-bookshelf-understanding-coin-cell-limitations/. Great stuff. Batteries are behaviourly way more complex than you would like. \* "Voice modifier shield for arduino":http://learn.adafruit.com/wave-shield-voice-changer/overview. I have a "Boss VT-1":http://www.bossus.com/gear/productdetails.php?ProductId=414 which is ridiculously pricey, I would love to have a bunch of cheaper alternatives \* "ARM-powered Arduinos coming":http://hackaday.com/2012/10/03/finally-an-arm-powered-arduino/?utm\_source=feedburner&utm\_medium=feed&utm\_campaign=Feed%3A+hackaday%2FLgoM+%28Hack+a+Day%29 \* "GPS for power tools":http://www.nytimes.com/2012/09/23/technology/computer-precision-for-power-tools-novelties.html?\_r=0. Interesting. In not too long we will just describe to our power tools what we want done, and let the tool do all the decision making. \* "Kickstarter sensor projects":http://postscapes.com/internet-of-things-and-kickstarter. I'm tempted to buy one of each \* "USB analog gauge":http://www.adafruit.com/blog/2012/09/18/usb-analog-gauge/. I have a ton of old gauges, they are beautiful, this is exactly why I bought them. \* "Fritzing":http://fritzing.org/. I need to understand Fritzing more deeply. \* "Reactive LED light panels":http://www.evilmadscientist.com/2012/octomods/. I love these things tho I have no practical use for them. \* "PureVLC":http://purevlc.com/. Making every LED light a router.

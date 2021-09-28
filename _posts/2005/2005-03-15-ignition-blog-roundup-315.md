@@ -1,0 +1,10 @@
+---
+title: "Ignition Blog Roundup 3/15"
+date: "2005-03-15"
+tags: 
+  - "ignition"
+---
+
+One month til tax day and what are people thinking about?
+
+\* [Andy Sack](http://asack.typepad.com/a_sack_of_seattle/2005/03/its_not_competi.html) -- it's not competition that kills small companies, it is lack of monetizable demand... \* Phil Bogle on [walled gardens, social networks, and openness](http://www.thebogles.com/blog/2005/03/walled-gardens-social-networks-and.html); on [social networks as web services](http://www.thebogles.com/blog/2005/03/social-networks-as-web-services.html). Phil is one smart mofo, ignore him at your peril. \* Johnza is [feeling badly about his job](http://marketingplaybook.com/2005/03/10/liars_cheats_quacks_spies_and_other_noble_professions.html) -- he's been tagged as a liar, quack, and cheat. But you can catch him speaking at [DMA World](http://marketingplaybook.com/2005/03/09/dma_world_april_6.html) \* [Martin finds Gurley's blog](http://www.martinandalex.com/blog/archives/2005/03/bill_gurley_sou.html) and Gurley is right in blasting the state legislators who are helping to reinforce old telecom monopolists. \* Rich of course has a ton of tech pointers -- [decoding blue screen error codes](http://www.tongfamily.com//2005/03/06/bccode_100000d1.html) (isn't it amazing that google is a better way to get answers than the windows help system is?); [Via's Luke platform](http://www.tongfamily.com/guide/cars/2005/03/11/via_luke.html), another great small pc component; [how to reset any flavor of ipod](http://www.geekfishing.net/consumer/gadgets/2005/03/14/ipod_reset.html) (mine is beyond a simple reset, it is time to go to the apple store); the [latest mt plugins for antispam](http://www.tongfamily.com//2005/03/13/antispam_plugins.html) and [other malposts](http://www.tongfamily.com/guide/blogs/2005/03/13/mtbannumericentities.html) \* [Michelle loves gardenweb](http://www.vcmom.com/2005/02/20/home_appliance_etc_chat_forums.html) as a source of household recommendations

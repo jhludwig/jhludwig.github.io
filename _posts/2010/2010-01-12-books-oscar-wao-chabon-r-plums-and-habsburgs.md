@@ -1,0 +1,8 @@
+---
+title: "Books -- Oscar Wao, Chabon, R, Plums, and Habsburgs"
+date: "2010-01-12"
+tags: 
+  - "books"
+---
+
+\* "The Brief Wondrous Life of Oscar Wao":amazon by Junot Diaz. Amazing story. Intertwines the tale of an outcast, a tragic family, the sad 20th century history of the Dominican Republic, and classic science fiction themes. Unique and surprisingly hopeful. Amazon gives 4-5 stars, this is definitely a 5 star read. \* "Gentlemen of the Road":amazon by Michael Chabon. Great tale of middle age adventurers. Jacket blurb says reminiscent of Leiber's Fafhrd and the Gray Mouser stories and this is dead on. Amazon says 3.5 stars but I thought this was fun, 4 stars at least. \* "A Handbook of Statistical Analyses Using R":amazon by Brian Everitt and Torsten Hothorn. I wanted an overview of R, this wasn't it, but a useful set of case studies of the various types of problems that R can be used on. Very thinly reviewed on Amazon, I'd say 3 stars. \* "The Perfect Fruit":amazon by Chip Brantley. Moderately interesting story of the inside of the fruit growing industry. Personally would have enjoyed more of the science, and more color on the people in the industry. Amazon says 5 stars but not a ton of reviews. I'd say 3. \* "The Red Prince: The Secret Lives of a Habsburg Archduke":amazon by Timothy Snyder. The blurb on Amazon drew me, and I enjoy history. The author attempts to enliven this story with a lot of meandering and fictionalization, it just didn't work for me. Perhaps Habsburg history is meandering and confusing, perhaps just this telling, I'll never know as I am giving up. Amazon says 4.5 stars with a light review history, I'd say 2.5. It is not terrible but just didn't grab me.

@@ -1,0 +1,8 @@
+---
+title: "Comcast/Microsoft service"
+date: "2004-11-09"
+tags: 
+  - "tech"
+---
+
+OK the box is coming to my house next thursday...again per someone who should know -- _"Call 1-800-COMCAST and order their dual-tuner DVR box. It comes with 120GB harddrive and has both HD and DVR integrated. It'll cost you an extra $4.95/month and they'll switch your current HD box."_

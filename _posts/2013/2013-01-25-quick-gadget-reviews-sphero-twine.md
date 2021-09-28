@@ -1,0 +1,13 @@
+---
+title: "Quick gadget reviews -- sphero, twine"
+date: "2013-01-25"
+tags: 
+  - "gadgets"
+  - "tweet"
+---
+
+The "sphero":www.gosphero.com is nicely done and drives dogs crazy. Solid packaging and works. But it is crazy expensive for a little gadget. I appreciate everything that has gone into it, but it just costs too much. Because I really want a fleet of them so that I can do things like "this video":http://www.techrockies.com/sphero-s-robots-impress-in-nyc-christmas-video/s-0046561.html. But at $100+ my fleet is going to be small.
+
+The "Twine":www.supermechanical.com is also slick. Super easy setup, nice directive packaging. Not as polished as the sphero but of course a different target. Also too expensive because I want $20 of these. Not so clear why the twine is so expensive, the bom has to be less than the sphero.
+
+But both are inspiring -- nicely executed and they meet their promise. Really fun to see products like this exist. How cool would it be if they could work together! I want my sphero to flash red and go into panic motion if my twine detects too much heat.

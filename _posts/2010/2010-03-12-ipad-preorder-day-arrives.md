@@ -1,0 +1,14 @@
+---
+title: "iPad preorder day arrives"
+date: "2010-03-12"
+tags: 
+  - "apple"
+  - "hardware"
+  - "ipad"
+---
+
+Ok well the day arrived. I can't quite figure out what the ipad is for. I still need to carry my iPhone for phone calls. I still need to carry my MacBook Pro for real software -- Matlab, Mathematica, Aperture, LaTEX-heavy docs. I'll still carry the Kindle for its awesome battery life. Would I carry the iPad as well??? Or are there occasional trips where I'd carry instead of the MacBook Pro?
+
+Or maybe it is for the couch at home. But usually I again need to run real software. So what is this thing for?
+
+So I only ordered one.

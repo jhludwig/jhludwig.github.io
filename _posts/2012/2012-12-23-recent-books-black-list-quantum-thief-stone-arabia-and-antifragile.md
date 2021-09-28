@@ -1,0 +1,15 @@
+---
+title: "Recent books - Black List, Quantum Thief, Stone Arabia, and Antifragile"
+date: "2012-12-23"
+tags: 
+  - "books"
+  - "tweet"
+---
+
+[![The-Quantum-Thief1](images/The-Quantum-Thief1-196x300.jpg)](http://theludwigs.com/2012/12/recent-books-black-list-quantum-thief-stone-arabia-and-antifragile/the-quantum-thief1/)
+
+\* "Black List":amazon by Brad Thor. Eh. A treasonous cabal plans an apocalyptic cyber-attack on the US. Pretty standard suspense tale, some interesting characters left completely undeveloped, pretty standard plotting. \* "The Quantum Thief":amazon by Hannu Rajamiemi. Very nice tale of distant future with terribly advanced nano/cyber systems. Difficult to tell where humanity leaves off and technology begins. \* "Stone Arabia":amazon by Dana Spiotta. Odd tale of a grown woman and her brother struggling with mortality, relevance, and their own identities. Can't say I loved it but there was some draw.
+
+and some nonfiction:
+
+\* "Antifragile: Things That Gain From Disorder":amazon by Nassim Nicholas Taleb. Black Swan was better structured, but this is an interesting follow-on and has kept the material fresh. If you haven't read one of Taleb's books, you must. You may not buy it all but it is a very valuable point of view.

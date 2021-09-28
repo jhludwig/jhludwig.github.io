@@ -1,0 +1,14 @@
+---
+title: "Lack Of A Viable Business Model Is Stifling Software Innovation"
+date: "2003-01-15"
+tags: 
+  - "venture"
+---
+
+**Lack Of A Viable Business Model Is Stifling Software Innovation**. Dave Winer sez [Lack Of A Viable Business Model Is Stifling Software Innovation](http://story.news.yahoo.com/news?tmpl=story&ncid=74&e=3&cid=74&u=/cmp/20030115/tc_cmp/inw20030114s0003). I'll admit that the VC industry is a little risk averse right now (though I am relatively new to the business so what do I know). But Dave seems to be speaking from his own personal experience with Userland, and I'll just point out that Userland may not be very fundable for lots of other reasons. I love Radio and have paid for it, but it has a lot of bugs (for instance when I upstream content to my own ftp site, none of the graphics links are correct, I apparently have to go handpatch the templates), has a really quirky interface, and is really not ready for broad use and adoption.
+
+The other blog tools I have used are in this state as well. I have learned to love blogger, but sometimes when I try to bold a selection of text or insert a link, it puts the tags in the wrong place. Or sometimes it gets confused about whether I have published or not, and I have to do a bogus edit cycle on an item to convince it I need to publish. And why isn't blogroll management just part of blogger?
+
+I just presented blog tools and blogs to a set of casual internet users today and they loved the idea of a blog but the tools were totally intimidating to them -- the interfaces, the terminology, the quirks are all overwhelming.
+
+It is hard to think about funding businesses/products in this state. I realize that all the products will improve over the lifetime of any funding we put in, but I need an entrepreneur to tell me how they are going to use the money to achieve a level of breakthru business success, how they are going to break blogs out of the hobbyist/enthusiast segment and make them a more general phenomena. Maybe I have just not talked to the right entrepreneurs yet.

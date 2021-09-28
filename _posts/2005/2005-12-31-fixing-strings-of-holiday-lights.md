@@ -1,0 +1,9 @@
+---
+title: "Fixing strings of holiday lights"
+date: "2005-12-31"
+tags: 
+  - "halloween"
+  - "lighting"
+---
+
+OK not necessarily a Halloween item bu this looks like a great tool to have if it really works -- was sold out everywhere this holiday season -- [The LightKeeper Pro is designed to solve the frequent problems associated with Miniature Light Sets and Bulbs. By simply plugging your light set into the LightKeeper Pro and pressing the Trigger, most problems can be fixed automatically.](http://lightkeeperpro.com/default.asp)

@@ -1,0 +1,21 @@
+---
+title: "I don't really get Gamification"
+date: "2012-04-06"
+tags: 
+  - "games"
+  - "tweet"
+---
+
+I love games, online or board. We always have a gamefest at family get-togethers -- this year's mania was "Survive: Escape from Atlantis":http://theludwigs.com/2011/12/survive-escape-from-atlantis-is-our-board-game-of-the-season/. And if you tracked my minutes of computer use during the week, I'm pretty sure the "game of the moment":http://masseffect.com/ would be in the top 5-10. Games are what sucked me into software and computers long ago, I still love them.
+
+So I get games and gaming, they are a durable source of entertainment. We've played games for all of human history and we will continue to do so. Betting on games seems like a sound investment strategy tho we've never found an investment that worked for us (man I wish we'd had money in PopCap).
+
+However, games have their place, and I don't want to play games all day long. If you look at the rest of the top 10 sites or services that I engage with, none of them have gamification features. No badges, or levels, or reward systems, or points, or whatever. I use sites because they are great tools (Wordpress, Evernote, Twitter, Amazon, etc) or because they have great content (various sports, tech, econ, news sites) or they are in some other way very effective at helping me run my life or get my job done. All these sites invest a lot in user engagement I am sure -- tracking my use, trying out alternatives and watching my response, moving UI elements around to encourage engagement, etc etc. But they don't push explicit game features at me as part of the site (the sports sites obviously offer fantasy game experiences as an optional part of their site).
+
+"Gamification":http://en.wikipedia.org/wiki/Gamification[![](images/320px-Pog_Collection-300x197.jpg "320px-Pog_Collection")](http://theludwigs.com/wp-content/uploads/2012/04/320px-Pog_Collection.jpg) seems to take engagement management a step too far, where gamification means putting explicit badges/levels/etc on an otherwise non-game site, to encourage engagement. First, real engagement comes from deep utility -- great content or a great tool that really saves people time. No amount of gamification window dressing will overcome shortfalls in utility or content over time.
+
+Second, gamification seems to miss the point of what makes games engaging. Great games have great stories, great characters, great head-to-head combat, are beautiful to look at, respond naturally to your input, etc. Level systems and awards are a part of the experience but only a minor part. Yes I get some gratification from leveling up in COD or other games, but if the game sucked, the level rewards wouldn't keep me there.
+
+Investing in user engagement makes total sense, and there are a ton of techniques to use, and some of them may start to resemble some elements of games -- for instance "Keas":www.keas.com is using team-building and team competition to encourage engagement in health programs, and this seems to work (we have an investment in Keas) -- social is an excellent motivator in many arenas. But gamification as it is generally defined doesn't really make sense to me. Active management of user engagement, sure, that makes sense. Building great games, that makes total sense. Applying minor elements of gaming to non-game properties, ehh, it just feels manipulative.
+
+I do wonder if applying the deeper elements of games -- story, characters -- to non-game properties would be a smart thing to try. Obviously requires a lot more creativity and skill, but stories are very very powerful.

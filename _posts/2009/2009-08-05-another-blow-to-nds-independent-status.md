@@ -1,0 +1,12 @@
+---
+title: "Another blow to ND&#039;s independent status"
+date: "2009-08-05"
+tags: 
+  - "college-football"
+  - "michigan"
+  - "notre-dame"
+---
+
+UConn (after signing a home and home series last week with Michigan) [doesn't feel like they have to bend over for Notre Dame anymore](http://bleacherreport.com/articles/230769-uconn-likely-to-opt-out-of-football-series-with-notre-dame). ND has been able to stuff a schedule full of lower rank Div I opponents, but these are the teams that are exactly in demand by the top tier of Div I teams. So the price in dollars and return visits for all these games are heading up. It will be interesting to see how this plays out for ND, as the price rises for them to maintain their schedule, though obviously t[hey still are doing fine economically as an independent](http://blogs.orlandosentinel.com/sports_college/2009/07/how-much-revenue-did-your-favorite-fbs-school-take-in-in-200708-this-chart-will-tell-you.html).
+
+The UConn/Michigan linkup tho is especially pointed, as teams from the two conferences which have been most desirous of ND inclusion have joined up to put a hole in ND's schedule.
