@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/about</loc>
-<lastmod>2021-09-30T11:54:19-07:00</lastmod>
+<lastmod>2021-10-01T05:52:19-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/thanks</loc>
-<lastmod>2021-09-30T11:54:19-07:00</lastmod>
+<lastmod>2021-10-01T05:52:19-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blog/northwest-news-104-well-september</loc>
@@ -15919,6 +15919,10 @@
 <url>
 <loc>http://localhost:4000/blog/another-bs-medical-bill</loc>
 <lastmod>2021-09-30T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/smarthome</loc>
+<lastmod>2021-10-01T00:00:00-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/project/demo-project</loc>
