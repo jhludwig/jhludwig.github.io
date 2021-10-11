@@ -200,6 +200,36 @@
 		<article class="blog-post">
 
 			<div class="blog-post__header">
+				<h2 class="blog-post__title"><a href="/blog/4647">Scientific computing and the cloud</a></h2>
+				<p class="blog-post__subtitle">27 August 2011</p>
+			</div>
+
+			
+
+			<div class="blog-post__content">
+				<p><p><a href="http://theludwigs.com/wp-content/uploads/2011/08/20110827-091100.jpg"><img src="images/20110827-091100.jpg" alt="20110827-091100.jpg" /></a> This year I’ve had a chance to experiment with tools for compute intensive applications. In particular, tools that harness the profusion of inexpensive CPU/GPU cycles available – OpenMP for multi-threading on single machines so that multiple cores can be leveraged; MPI to distribute compute load over clusters of machines; OpenCL for handing general purpose computation off to a graphics processor. And then on top of these tools, NumPy and SciPy for scripting and visualization from Python. The amount of excellent computational software which is now available is amazing, these capabilities would have cost immeasurable amounts of money just a decade ago. And the first time I tied together a cluster of machines or yoked up a GPU and did a massive computation, and then displayed the animated results using Python – what a great feeling! The ability to attack really hard, really large problems is better than it is has ever been.</p>
+
+<p>But what a nightmare of housekeeping. Breaking up computation into threads and spreading it across multiple cores with shared memory and file system is tedious and error-prone – hand-offs between threads create opportunities for many errors. The work to break up and manage the computation load across multiple machines is even more mind-numbing and error-prone, and now the lack of shared memory and files are additional complications. Using graphics processors is even more obtuse, with their funky fractured memory spaces and architectures and limited language support. And getting all the software piece parts running in the first place takes a long time to work through all the dependencies, mixing and matching distributions and libraries and tools, and then getting it all right on multiple machines. And then you get to maintain all this as new versions of libs and runtimes are released..</p>
+
+<p>But again the results can be stunning – just look around the web at what people are doing in engineering (“Youtube video”:http://www.youtube.com/watch?v=4z1STnnA3aM), life sciences (“Science Mag article”:http://www.sciencemag.org/content/331/6019/848.full#F3), or any of a dozen other areas. Harnessing multiple cheap processors to perform complicated modeling or visualization can have huge payoff in financial services, bioinformatics, engineering analysis, climate modeling, actuarial analysis, targeting analysis, and so many other areas.</p>
+
+<p>However, it is just too darn hard to wield all these tools. The space is crying out for a cloud solution. I want someone else to figure out all the dependencies and library requirements and spin up the correctly configured virtual machines with all the necessary componentry. And keep that up to date as new libraries and components are developed. I want someone else to figure out the clustering and let me elastically spin up 1, 10, 100 machines as I need to, and manage all the housekeeping between these machines. I want someone else to buy all the machines and run them, and let me share them with other users, because my use is very episodic, and I don’t want to pay for 100 or 1000 or 10000 machines all the time, when I only need the machines for a week here and there. Maybe I want to run all my code in the cloud, or maybe I want to have all the VMs and clustering info delivered to my data center, but I want someone else to solve the housekeeping and configuration issues, and let me get to work on my problems.</p>
+
+<p>Amazon is doing some great work in AWS with their HPC support (“AWS HPC support”:http://aws.amazon.com/hpc-applications/#HPCEC2). Microsoft has made a commitment to provide scientific computing resources in the cloud (“NYT article”:http://www.nytimes.com/2010/02/05/science/05cloud.html). There is a lot of great academic work happening (“ScienceCloud2011”:http://datasys.cs.iit.edu/events/ScienceCloud2011/). But the opportunity is out there to do a lot more.</p>
+</p>
+				<!-- <p><p><a href="http://theludwigs.com/wp-content/uploads/2011/08/20110827-091100.jpg"><img src="images/20110827-091100.jpg" alt="20110827-091100.jpg" /></a> This year I’ve had a chance to experiment with tools for compute intensive applications. In particular, tools that harness the profusion of inexpensive CPU/GPU cycles available – OpenMP for multi-threading on single machines so that multiple cores can be leveraged; MPI to distribute compute load over clusters of machines; OpenCL for handing general purpose computation off to a graphics processor. And then on top of these tools, NumPy and SciPy for scripting and visualization from Python. The amount of excellent computational software which is now available is amazing, these capabilities would have cost immeasurable amounts of money just a decade ago. And the first time I tied together a cluster of machines or yoked up a GPU and did a massive computation, and then displayed the animated results using Python – what a great feeling! The ability to attack really hard, really large problems is better than it is has ever been.</p>
+
+</p>
+				<p><a href="/blog/4647" class="button">Read More</a> -->
+			</div>
+
+		</article>
+
+		
+
+		<article class="blog-post">
+
+			<div class="blog-post__header">
 				<h2 class="blog-post__title"><a href="/blog/like-many-others-steve-jobs-has-had-a-profound-effect-on-my-life">Like many others, Steve Jobs has had a profound effect on my life</a></h2>
 				<p class="blog-post__subtitle">26 August 2011</p>
 			</div>
@@ -572,27 +602,6 @@
 
 </p>
 				<p><a href="/blog/law-of-constant-headphone-frustration" class="button">Read More</a> -->
-			</div>
-
-		</article>
-
-		
-
-		<article class="blog-post">
-
-			<div class="blog-post__header">
-				<h2 class="blog-post__title"><a href="/blog/software-tips">Software tips</a></h2>
-				<p class="blog-post__subtitle">25 July 2011</p>
-			</div>
-
-			
-
-			<div class="blog-post__content">
-				<p><p>* “How to unhide your Library in Lion”:http://tidbits.com/article/12306?rss – chflags nohidden ~/Library. Yay. * “Making desktop web apps with Automator”:http://ihnatko.com/2011/07/22/making-desktop-webapps-in-lion/. All kinds of goodness in here. * “BBEdit 10 is out”:http://www.barebones.com/products/bbedit/bbedit10.html. Purchased. * “Marked”:http://markedapp.com/ seems like a super useful companion to BBEdit. * “Billguard is now free-er”:http://www.avc.com/a_vc/2011/07/billguard.html.</p>
-</p>
-				<!-- <p><p>* “How to unhide your Library in Lion”:http://tidbits.com/article/12306?rss – chflags nohidden ~/Library. Yay. * “Making desktop web apps with Automator”:http://ihnatko.com/2011/07/22/making-desktop-webapps-in-lion/. All kinds of goodness in here. * “BBEdit 10 is out”:http://www.barebones.com/products/bbedit/bbedit10.html. Purchased. * “Marked”:http://markedapp.com/ seems like a super useful companion to BBEdit. * “Billguard is now free-er”:http://www.avc.com/a_vc/2011/07/billguard.html.</p>
-</p>
-				<p><a href="/blog/software-tips" class="button">Read More</a> -->
 			</div>
 
 		</article>
