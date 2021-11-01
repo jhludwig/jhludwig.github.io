@@ -1,4 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-10-22T08:44:04-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">A Little Ludwig Goes a Long Way</title><entry><title type="html">Leadership lessons, startup financing, and more Web3 thoughts this week</title><link href="http://localhost:4000/blog/leadership-startup-web3" rel="alternate" type="text/html" title="Leadership lessons, startup financing, and more Web3 thoughts this week" /><published>2021-10-22T00:00:00-07:00</published><updated>2021-10-22T00:00:00-07:00</updated><id>http://localhost:4000/blog/leadership-startup-web3</id><content type="html" xml:base="http://localhost:4000/blog/leadership-startup-web3">&lt;h3 id=&quot;leadership-lessons&quot;&gt;Leadership Lessons&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-11-01T07:25:22-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">A Little Ludwig Goes a Long Way</title><entry><title type="html">Voting, Interactive Art, Web3, and other things this week</title><link href="http://localhost:4000/blog/voting-art-web3" rel="alternate" type="text/html" title="Voting, Interactive Art, Web3, and other things this week" /><published>2021-11-01T00:00:00-07:00</published><updated>2021-11-01T00:00:00-07:00</updated><id>http://localhost:4000/blog/voting-art-web3</id><content type="html" xml:base="http://localhost:4000/blog/voting-art-web3">&lt;h3 id=&quot;voting&quot;&gt;Voting&lt;/h3&gt;
+
+&lt;p&gt;November already! It’s voting season again, and a big thanks to the &lt;a href=&quot;https://www.sos.wa.gov/_assets/elections/wa_vbm.pdf&quot;&gt;Washington State vote by mail system&lt;/a&gt; this week, it is really wonderful.  Hard to understand why every state doesn’t learn from, it has certainly driven up my participation and engagement level.  It’s no surprise &lt;a href=&quot;http://www.electproject.org/2020g&quot;&gt;Washington is in the top 5 states by participation rate&lt;/a&gt; — and I hope we learn from the top 4 and improve.&lt;/p&gt;
+
+&lt;h3 id=&quot;interactive-art-installations&quot;&gt;Interactive Art Installations&lt;/h3&gt;
+
+&lt;p&gt;I took a spin thru software for interactive art installs this week.  I used to do some large scale halloween decorating and used DMX control software at that time, software has improved a lot sicne then.  I am particularly interested in video projection mapping, gosh there are a lof of nice choices.  I could just roll something by hand but using one of these seems smart, they all seem to handle multiple projectors mapping onto arbitrary geometries:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://madmapper.com&quot;&gt;madmapper&lt;/a&gt;.  Lots of features, lots of guides, nice UI, seems to be reasonably active.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qlab.app/overview/&quot;&gt;qlab&lt;/a&gt;. Looks very on point, nice iOS companion app&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.millumin.com/v3/index.php&quot;&gt;millumin&lt;/a&gt;.  UI maybe not as slick, but still looks pretty complete&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://troikatronix.com/get-it/&quot;&gt;isadora&lt;/a&gt;.  A little more techie maybe.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://derivative.ca&quot;&gt;Touchdesigner&lt;/a&gt;.  Seems to have a very strong pro community around it&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://resolume.com/software&quot;&gt;resolume&lt;/a&gt;.  Really nice VJ features&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://visution.com&quot;&gt;visution&lt;/a&gt;:  UI not so polished but still looks complete&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I intend to try a small experiment with one of these.&lt;/p&gt;
+
+&lt;p&gt;These additional projects may have promise but they seem limited in some substantial way&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.heavym.net&quot;&gt;heavym&lt;/a&gt;.  only supports 1 output at the moment.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mapmapteam.github.io&quot;&gt;mapmap&lt;/a&gt;.  open source but abandoned.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lightform.com/creator&quot;&gt;lightform creator&lt;/a&gt;.  cool but limited to their out of stock hardware.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;web3-this-week&quot;&gt;Web3 this week&lt;/h3&gt;
+
+&lt;p&gt;I largely stayed away from web3 this week, but I did read a few things.  Haseeb is a bit more rational than some of the adherents — for example &lt;a href=&quot;https://haseebq.com/why-decentralization-isnt-as-important-as-you-think/&quot;&gt;Why decentralization is a bit of a red herring&lt;/a&gt;.  And then Packy McCormick on &lt;a href=&quot;https://www.notboring.co/p/sc3nius&quot;&gt;sc3nius&lt;/a&gt;, worth reading.&lt;/p&gt;
+
+&lt;p&gt;And then there is &lt;a href=&quot;https://www.readthegeneralist.com/briefing/dao&quot;&gt;this primer on DAOs&lt;/a&gt;.  I want to like DAOs, there is something interesting about software for new organizational models.  But when you have to understand 87 new concepts and 123 projects to wrap your head around the simplest DAO – well, radical transparency loses its meaning when it is wrapped up in obtuse complexity.&lt;/p&gt;
+
+&lt;h3 id=&quot;random&quot;&gt;Random&lt;/h3&gt;
+
+&lt;p&gt;I’d like to build out an &lt;a href=&quot;https://www.primalucelab.us&quot;&gt;astrophotography pc&lt;/a&gt; and setup.  tho living amidst the light pollution and mirk of seattle is not really conducive to great astrophotography.&lt;/p&gt;
+
+&lt;p&gt;And a macrophotography setup — &lt;a href=&quot;https://adaptalux.com/shop/packs/&quot;&gt;adaptalux&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.engine.xyz/wp-content/themes/the-engine-wp-theme/templates/pitchbook-assets/The-Engine-Pitchbook.pdf&quot;&gt;Tough tech investing landscape 2021&lt;/a&gt; – kind of the antidote to web3.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/dickiebush/status/1453725972876775424?s=20&quot;&gt;Pixar rules for story telling&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://whyisthisinteresting.substack.com/p/the-may-december-collaboration-edition?token=eyJ1c2VyX2lkIjozNDgwMzgxLCJwb3N0X2lkIjo0MzI0NjA5MywiXyI6Ik5EemtmIiwiaWF0IjoxNjM1NTE2MDUzLCJleHAiOjE2MzU1MTk2NTMsImlzcyI6InB1Yi03MDAwIiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.FsAtiFVgIam9SUGkOd_ZL7eFdMBR5lAQ1CNr5Kxui_Q&quot;&gt;May December collaboration&lt;/a&gt; – nice to see new artists embracing great work of the past, and older artists embracing the art of today.  Enriching for all.&lt;/p&gt;</content><author><name></name></author><summary type="html">Voting</summary></entry><entry><title type="html">Leadership lessons, startup financing, and more Web3 thoughts this week</title><link href="http://localhost:4000/blog/leadership-startup-web3" rel="alternate" type="text/html" title="Leadership lessons, startup financing, and more Web3 thoughts this week" /><published>2021-10-22T00:00:00-07:00</published><updated>2021-10-22T00:00:00-07:00</updated><id>http://localhost:4000/blog/leadership-startup-web3</id><content type="html" xml:base="http://localhost:4000/blog/leadership-startup-web3">&lt;h3 id=&quot;leadership-lessons&quot;&gt;Leadership Lessons&lt;/h3&gt;
 
 &lt;p&gt;Every job has a signficant sales and marketing component.  Engineering is no exception.  &lt;a href=&quot;https://www.joelonsoftware.com/2002/02/13/the-iceberg-secret-revealed/&quot;&gt;You have to communicate what you are doing regularly and emphatically&lt;/a&gt; (and also listen to the response you get, and adapt accordingly).&lt;/p&gt;
 
@@ -249,6 +293,4 @@
   &lt;li&gt;Amount you saved – another total fiction.  Based on the nonsense total charge and Premera’s claims of what they paid.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;In all this, I have no power as consumer to do anything.  The insurers and providers are motivated to jack numbers up.  The system results in a lot of profits being diverted to insurance companies and administrative overhead that does nothing to benefit patients.&lt;/p&gt;</content><author><name></name></author><summary type="html">Yet another bull$&amp;amp;!t medical bill. Encapsulates how screwed up our health insurance system is, why the whole thing should be thrown in the trash.</summary></entry><entry><title type="html">My 4th major iteration of blog tech</title><link href="http://localhost:4000/blog/switching-blog-tech" rel="alternate" type="text/html" title="My 4th major iteration of blog tech" /><published>2021-09-28T00:00:00-07:00</published><updated>2021-09-28T00:00:00-07:00</updated><id>http://localhost:4000/blog/switching-blog-tech</id><content type="html" xml:base="http://localhost:4000/blog/switching-blog-tech">&lt;p&gt;I started blogging 20+ years ago.  I used Blogger to start, used the Radio Userland stack for a while, toyed with Drupal, jumped to MovableType for quite a while, then to Wordpress.  I started out with a simple static site and then got pulled slowly to dynamic sites.  I’ve felt for a while that Wordpress had become a giant complicated thing but inertia left me there.&lt;/p&gt;
-
-&lt;p&gt;Last week tho my wordpress install had some corruption and for a day or two I couldn’t edit it.  So I finally got off my butt and have moved to a static site on github pages – kind of back where this whole journey began, and I am happy to be back to a static site.  The static site tools are a lot better than Blogger ~20 years ago!&lt;/p&gt;</content><author><name></name></author><summary type="html">I started blogging 20+ years ago. I used Blogger to start, used the Radio Userland stack for a while, toyed with Drupal, jumped to MovableType for quite a while, then to Wordpress. I started out with a simple static site and then got pulled slowly to dynamic sites. I’ve felt for a while that Wordpress had become a giant complicated thing but inertia left me there.</summary></entry></feed>
+&lt;p&gt;In all this, I have no power as consumer to do anything.  The insurers and providers are motivated to jack numbers up.  The system results in a lot of profits being diverted to insurance companies and administrative overhead that does nothing to benefit patients.&lt;/p&gt;</content><author><name></name></author><summary type="html">Yet another bull$&amp;amp;!t medical bill. Encapsulates how screwed up our health insurance system is, why the whole thing should be thrown in the trash.</summary></entry></feed>
