@@ -200,6 +200,38 @@
 		<article class="blog-post">
 
 			<div class="blog-post__header">
+				<h2 class="blog-post__title"><a href="/blog/trying-to-get-set-up-a-raspberry-pi-dev-environment-on-osx">Trying to get set up a Raspberry Pi dev environment on OSX</a></h2>
+				<p class="blog-post__subtitle">30 September 2012</p>
+			</div>
+
+			
+
+			<div class="blog-post__content">
+				<p><p><a href="http://theludwigs.com/wp-content/uploads/2012/09/3097197970_873351cb3e_n.jpg"><img src="images/3097197970_873351cb3e_n.jpg" alt="" title="http://www.flickr.com/photos/jmsmith000/" /></a>I’ve been trying to get a Raspberry Pi dev environment set up on OSX. I’d like to have a cross compiler, a full linux build, an emulator all operational.</p>
+
+<p>There is a pretty clear outline at “RPIforum from earlier this summer”:http://www.rpiforum.net/forum/tutorials/article/16-a-raspberry-pi-emulated-environment-on-osx-lion/. I’ve had partial success:</p>
+
+<p>* Install Xcode and Xcode command line tools. No problem, I had these around anyway * Install “homebrew”:http://mxcl.github.com/homebrew/. A package manager for OSX, a good thing to have. Installing this is what finally “broke my existing flawed OSX install”:http://theludwigs.com/2012/09/beware-the-osx-migration-assistant/ and drove me to reinstall OSX. But installed super cleanly once I had a fresh OSX * Install the dependencies for ARM toolchain: brew install mpfr gmp libmpc libelf texinfo. There is a known error with mpfr compilation, so reinstall that with flags “per homewbrew wiki”:https://github.com/mxcl/homebrew/issues/15061. * Then install the Arm tools. BTW, you can’t just copy and past the script from the RPI forum page because of the damn smart quotes – echo “export PATH=$HOME/rpi/arm-cs-tools/bin:$PATH” » ~/.bash_profile will utterly fail * Then compile kernel. This step is unfortunately failing late in the process, I think at the linking stage. Still digging into. I have tried an alternative recipe at “the elinux site”:elinux.org/RPi_Kernel_Compilation, it fails as well, in both cases unhappy with the vmlinux file. * Then install the qemu emulator. the rpi forum recipe is missing a dash, should be a double dash in front of the use-gcc flag i believe. works fine with that change</p>
+
+<p>So I feel close. Just need to dig into the kernel compile problem. Here are the details, I need to study the make file to figure out exactly where this occurs:</p>
+
+<p>``</p>
+
+<p>==&gt; make ARCH=arm CROSS_COMPILE=~/rpi/arm-cs-tools/bin/arm-none-eabi- -k &gt; compile.txt size: file: arch/arm/boot/compressed/../../../../vmlinux is not an object file size: file: arch/arm/boot/compressed/../../../../vmlinux is not an object file size: file: arch/arm/boot/compressed/../../../../vmlinux is not an object file size: file: arch/arm/boot/compressed/../../../../vmlinux is not an object file arch/arm/boot/compressed/vmlinux.lds:77: undefined symbol <code class="language-plaintext highlighter-rouge">__OBJC' referenced in expression make[2]: *** [arch/arm/boot/compressed/vmlinux] Error 1 make[1]: *** [arch/arm/boot/compressed/vmlinux] Error 2 make[1]: Target </code>arch/arm/boot/zImage’ not remade because of errors. make: *** [zImage] Error 2 make: Target <code class="language-plaintext highlighter-rouge">_all' not remade because of errors.</code>`</p>
+</p>
+				<!-- <p><p><a href="http://theludwigs.com/wp-content/uploads/2012/09/3097197970_873351cb3e_n.jpg"><img src="images/3097197970_873351cb3e_n.jpg" alt="" title="http://www.flickr.com/photos/jmsmith000/" /></a>I’ve been trying to get a Raspberry Pi dev environment set up on OSX. I’d like to have a cross compiler, a full linux build, an emulator all operational.</p>
+
+</p>
+				<p><a href="/blog/trying-to-get-set-up-a-raspberry-pi-dev-environment-on-osx" class="button">Read More</a> -->
+			</div>
+
+		</article>
+
+		
+
+		<article class="blog-post">
+
+			<div class="blog-post__header">
 				<h2 class="blog-post__title"><a href="/blog/tip-of-the-day-toggle-hidden-files-in-finder">Tip of the day -- toggle hidden files in finder</a></h2>
 				<p class="blog-post__subtitle">30 September 2012</p>
 			</div>
@@ -585,36 +617,6 @@
 
 </p>
 				<p><a href="/blog/randomly-feeling-a-sense-of-gratitude" class="button">Read More</a> -->
-			</div>
-
-		</article>
-
-		
-
-		<article class="blog-post">
-
-			<div class="blog-post__header">
-				<h2 class="blog-post__title"><a href="/blog/dorking-around-with-open-source-routergatewayfirewall-stuff">Dorking around with open source router/gateway/firewall stuff</a></h2>
-				<p class="blog-post__subtitle">09 August 2012</p>
-			</div>
-
-			
-
-			<div class="blog-post__content">
-				<p><p><a href="http://theludwigs.com/wp-content/uploads/2012/08/6855809752_35cd52feff_n.jpg"><img src="images/6855809752_35cd52feff_n.jpg" alt="" title="http://www.flickr.com/photos/hades2k/" /></a>Just for yucks I am using a linux box in my house as gateway for all the devices in my house, I just want to be able to see what is going on at the network level and do a little more finegrained control.</p>
-
-<p>I considered using “dd-wrt”:http://www.dd-wrt.com/site/index but it is not keeping up with router releases – it is not available for any of the routers on the shelf at best buy locally, for instance. and these router boxes are kind of a mess anyway, super limited on ram and storage, which constrains what I can do. i can easily build a cheap linux box with ethernet in, wifi out. the only advantage the router boxes have are the 4+ onboard wired ethernet ports. but wired ethernet seems to be going the way of the dodo in the home.</p>
-
-<p>There are a ton of code bases to choose from. Here are some that seemed notable</p>
-
-<p>* “untangle”:http://www.untangle.com/. commercial product but also some open source light version which they try to hide on their site. which makes me think the open source thing is 99% of the commercial thing. nice UI. They obviously don’t really want to support people like me tho, probably will steer away from this. * “clearOS”:http://www.clearfoundation.com/Software/overview.html. similar but looks even more open-sourcy, they say the right things about supporting open source community. * “ipfire”:http://www.ipfire.org/. very open sourcy and modern (git repositories for instance). git repositories seem active * “zeroshell”:http://www.zeroshell.net/eng/. old school open source (not git based for instance), looks a little rough around the edges, but very complete. * “devil linux”:http://www.devil-linux.org/home/index.php. boots off cd/usb so easy to try but doesn’t seem to have the network depth of the previous choices</p>
-
-<p>i’ll probably start with an ipfire trial. unless someone has a better idea.</p>
-</p>
-				<!-- <p><p><a href="http://theludwigs.com/wp-content/uploads/2012/08/6855809752_35cd52feff_n.jpg"><img src="images/6855809752_35cd52feff_n.jpg" alt="" title="http://www.flickr.com/photos/hades2k/" /></a>Just for yucks I am using a linux box in my house as gateway for all the devices in my house, I just want to be able to see what is going on at the network level and do a little more finegrained control.</p>
-
-</p>
-				<p><a href="/blog/dorking-around-with-open-source-routergatewayfirewall-stuff" class="button">Read More</a> -->
 			</div>
 
 		</article>
