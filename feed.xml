@@ -1,20 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-07T09:09:48-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">A Little Ludwig Goes a Long Way</title><entry><title type="html">I kind of love Wombo Dream</title><link href="http://localhost:4000/blog/generated-art" rel="alternate" type="text/html" title="I kind of love Wombo Dream" /><published>2021-12-07T00:00:00-08:00</published><updated>2021-12-07T00:00:00-08:00</updated><id>http://localhost:4000/blog/generated-art</id><content type="html" xml:base="http://localhost:4000/blog/generated-art">&lt;p&gt;I am kind of loving &lt;a href=&quot;https://www.wombo.art&quot;&gt;Wombo Dream&lt;/a&gt;.  Endlessly fascinating.  I asked it to create some Windows 95 inspired images, using the various styles, and the results just get trippier and trippier:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-07T10:58:04-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">A Little Ludwig Goes a Long Way</title><entry><title type="html">I kind of love Wombo Dream</title><link href="http://localhost:4000/blog/generated-art" rel="alternate" type="text/html" title="I kind of love Wombo Dream" /><published>2021-12-07T00:00:00-08:00</published><updated>2021-12-07T00:00:00-08:00</updated><id>http://localhost:4000/blog/generated-art</id><content type="html" xml:base="http://localhost:4000/blog/generated-art">&lt;p&gt;I am kind of loving &lt;a href=&quot;https://www.wombo.art&quot;&gt;Wombo Dream&lt;/a&gt;.  Endlessly fascinating.  I asked it to create some Windows 95 inspired images, using the various styles, and the results just get trippier and trippier:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/blog/Win95 A.jpeg&quot; alt=&quot;Win95 thru a blurry lens&quot; /&gt; “Through a blurry lens”)&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;http://localhost:4000/images/blog/Win95 A.jpeg&quot; alt=&quot;Win95 thru a blurry lens&quot; /&gt;
+  &lt;figcaption&gt;Windows 95 imagined thru a blurry lens.&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/blog/Win95 B.jpeg&quot; alt=&quot;Win95 with an edible&quot; /&gt; “With an edible”)&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;http://localhost:4000/images/blog/Win95 B.jpeg&quot; alt=&quot;Win95 with an edible&quot; /&gt;
+  &lt;figcaption&gt;...after an edible...&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/blog/Win95 C.jpeg&quot; alt=&quot;Win95 with some peyote&quot; /&gt; “With some peyote”)&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;http://localhost:4000/images/blog/Win95 C.jpeg&quot; alt=&quot;Win95 now with peyote&quot; /&gt;
+  &lt;figcaption&gt;...now try peyote...&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/blog/Win95 D.jpeg&quot; alt=&quot;Win95 now with absinthe&quot; /&gt; “Now with absinthe”)&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;http://localhost:4000/images/blog/Win95 D.jpeg&quot; alt=&quot;Win95 now with absinthe&quot; /&gt;
+  &lt;figcaption&gt;...or maybe absinthe...&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/blog/Win95 E.jpeg&quot; alt=&quot;Win95 while in the concussion protocol&quot; /&gt; “While in the concussion protocol”)&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;http://localhost:4000/images/blog/Win95 E.jpeg&quot; alt=&quot;Win95 in the concussion protocol&quot; /&gt;
+  &lt;figcaption&gt;...while in the concussion protocol...&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/blog/Win95 F.jpeg&quot; alt=&quot;Win95 at the club&quot; /&gt; “At the club”)&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;http://localhost:4000/images/blog/Win95 F.jpeg&quot; alt=&quot;Win95 at the club&quot; /&gt;
+  &lt;figcaption&gt;...or while at the club...&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/blog/Win95 G.jpeg&quot; alt=&quot;Win95 ala Timothy Leary&quot; /&gt; “Timothy Leary style”)&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;http://localhost:4000/images/blog/Win95 G.jpeg&quot; alt=&quot;Timothy Leary style&quot; /&gt;
+  &lt;figcaption&gt;...as Timothy Leary might see...&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/blog/Win95 H.jpeg&quot; alt=&quot;Win95 after the 9th eggnog&quot; /&gt; “After the 9th eggnog”)&lt;/p&gt;</content><author><name></name></author><summary type="html">I am kind of loving Wombo Dream. Endlessly fascinating. I asked it to create some Windows 95 inspired images, using the various styles, and the results just get trippier and trippier:</summary></entry><entry><title type="html">Scattered readings from November</title><link href="http://localhost:4000/blog/learning-cornucopia" rel="alternate" type="text/html" title="Scattered readings from November" /><published>2021-11-30T00:00:00-08:00</published><updated>2021-11-30T00:00:00-08:00</updated><id>http://localhost:4000/blog/learning-cornucopia</id><content type="html" xml:base="http://localhost:4000/blog/learning-cornucopia">&lt;p&gt;Holidays, birthdays, family activities.  Omicron!  In the midst of moving houses.  I am just scattered all over the place right now.  Hence a total grab bag of things.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;http://localhost:4000/images/blog/Win95 H.jpeg&quot; alt=&quot;Win95 after a lot of eggnog&quot; /&gt;
+  &lt;figcaption&gt;...after the 9th eggnog.&lt;/figcaption&gt;
+&lt;/figure&gt;</content><author><name></name></author><summary type="html">I am kind of loving Wombo Dream. Endlessly fascinating. I asked it to create some Windows 95 inspired images, using the various styles, and the results just get trippier and trippier:</summary></entry><entry><title type="html">Scattered readings from November</title><link href="http://localhost:4000/blog/learning-cornucopia" rel="alternate" type="text/html" title="Scattered readings from November" /><published>2021-11-30T00:00:00-08:00</published><updated>2021-11-30T00:00:00-08:00</updated><id>http://localhost:4000/blog/learning-cornucopia</id><content type="html" xml:base="http://localhost:4000/blog/learning-cornucopia">&lt;p&gt;Holidays, birthdays, family activities.  Omicron!  In the midst of moving houses.  I am just scattered all over the place right now.  Hence a total grab bag of things.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/SamIAm2021MD/status/1459051952831189013?s=20&quot;&gt;Covid simulation&lt;/a&gt;.  Fascinating&lt;/p&gt;
 
