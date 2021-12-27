@@ -27,12 +27,12 @@
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="A Little Ludwig Goes a Long Way – A Little Ludwig Goes a Long Way">
 	<meta name="twitter:description" content="A smattering of opinions on technology, books, business, and culture.  Now in its 4th technology iteration.">
-	<meta name="twitter:image:src" content="/images/blog/bellevuesunrise2.jpeg">
+	<meta name="twitter:image:src" content="http://localhost:4000/images/blog/bellevuesunrise2.jpeg">
 
 	<!-- Facebook OpenGraph -->
 	<meta property="og:title" content="A Little Ludwig Goes a Long Way – A Little Ludwig Goes a Long Way" />
 	<meta property="og:description" content="A smattering of opinions on technology, books, business, and culture.  Now in its 4th technology iteration." />
-	<meta property="og:image" content="/images/blog/bellevuesunrise2.jpeg" />
+	<meta property="og:image" content="http://localhost:4000/images/blog/bellevuesunrise2.jpeg" />
 
 	
 	<!-- Font Embed Code -->
@@ -66,7 +66,7 @@
 </head>
 
 
-<body class="loading ajax-loading" data-site-url="" data-page-url="/blog/page213/">
+<body class="loading ajax-loading" data-site-url="http://localhost:4000" data-page-url="/blog/page213/">
 
 
 	<header class="header">
@@ -194,6 +194,38 @@
 			<section class="blog single">
 
 	<div class="wrap">
+
+		
+
+		<article class="blog-post">
+
+			<div class="blog-post__header">
+				<h2 class="blog-post__title"><a href="/blog/mounting-ext2fs-volumes-under-windows">Mounting Ext2FS volumes under Windows</a></h2>
+				<p class="blog-post__subtitle">19 June 2003</p>
+			</div>
+
+			
+
+			<div class="blog-post__content">
+				<p><p>My cheapo <a href="http://www.theludwigs.com/archives/000572.html">connectstor NAS box</a> died recently. Just started whirring and whirring, unresponsive to any remote CIFS or HTTP request. I tore it apart and mounted one of the raided 120G drives in a USB2.0 drive enclosure and started looking at it directly from my desktop machine.</p>
+
+<p>First I tried <a href="http://www.powerquest.com/partitionmagic/">PartitionMagic</a> on it. Good news – the volume was recognizable. So-so news – it was an ext2 format volume, the connectstor box runs linux of course. PartitionMagic couldn’t seem to do much with ext2 volumes, I wanted to get the data off the disk.</p>
+
+<p>Google suggests <a href="http://www.ext2fs.com/">Paragon Software’s Ext2FS</a> driver for windows. For $30 seemed worth trying, but their ecommerce site, hosted in europe somewhere, couldn’t seem to take my MasterCard. probably some little trivial problem but I didn’t have the patience to figure out.</p>
+
+<p>Next I tried <a href="http://uranus.it.swin.edu.au/~jn/linux/explore2fs.htm" title="Explore2fs HomePage">Explore2fs</a>. Very nice windows utility, and I could see all my files, hurray! But trying to copy them out to my windows desktop hung the app. Some of the files made it but not all.</p>
+
+<p>Next I found the <a href="http://e2fsprogs.sourceforge.net/ext2.html">Ext2fs</a> project on sourceforge. A real live ext2 fsd for windows. Easily installed but pretty cryptic mount instructions. I had to know the disk id and volume id i was trying to mount, and i had a little trouble discovering them. But back to Explore2fs, it told me the disk and volume id, and then i could mount using Ext2Fs.</p>
+
+<p>I am now happily copying all the files over.</p>
+</p>
+				<!-- <p><p>My cheapo <a href="http://www.theludwigs.com/archives/000572.html">connectstor NAS box</a> died recently. Just started whirring and whirring, unresponsive to any remote CIFS or HTTP request. I tore it apart and mounted one of the raided 120G drives in a USB2.0 drive enclosure and started looking at it directly from my desktop machine.</p>
+
+</p>
+				<p><a href="/blog/mounting-ext2fs-volumes-under-windows" class="button">Read More</a> -->
+			</div>
+
+		</article>
 
 		
 
@@ -488,27 +520,6 @@
 				<!-- <p><p>From <a href="http://www.lockergnome.com">Lockergnome</a> I found <a href="http://www.sysinternals.com/ntw2k/freeware/procexp.shtml">Process Explorer v6.03</a>, this is a super tool for seeing exactly what process is doing what to what on your machine.</p>
 </p>
 				<p><a href="/blog/process-explorer" class="button">Read More</a> -->
-			</div>
-
-		</article>
-
-		
-
-		<article class="blog-post">
-
-			<div class="blog-post__header">
-				<h2 class="blog-post__title"><a href="/blog/mac-ie-no-more">Mac IE no more</a></h2>
-				<p class="blog-post__subtitle">13 June 2003</p>
-			</div>
-
-			
-
-			<div class="blog-post__content">
-				<p><p><a href="http://maccentral.macworld.com/news/2003/06/13/explorer/" title="Microsoft drops development of Internet Explorer for Mac">Microsoft drops development of Internet Explorer for Mac</a> – well it was always a force fit. I remember when Brad and I hired the Mac IE team – so many hurdles to overcome – hiring up a new team, based in the valley, to do Mac software. Seemed like I spent half my life justifying their existence and protecting them from the Redmond antibodies. Don and gang, you were great to work with. Wish you all the best.</p>
-</p>
-				<!-- <p><p><a href="http://maccentral.macworld.com/news/2003/06/13/explorer/" title="Microsoft drops development of Internet Explorer for Mac">Microsoft drops development of Internet Explorer for Mac</a> – well it was always a force fit. I remember when Brad and I hired the Mac IE team – so many hurdles to overcome – hiring up a new team, based in the valley, to do Mac software. Seemed like I spent half my life justifying their existence and protecting them from the Redmond antibodies. Don and gang, you were great to work with. Wish you all the best.</p>
-</p>
-				<p><a href="/blog/mac-ie-no-more" class="button">Read More</a> -->
 			</div>
 
 		</article>
