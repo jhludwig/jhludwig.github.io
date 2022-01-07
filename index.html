@@ -200,6 +200,42 @@
 		<article class="blog-post">
 
 			<div class="blog-post__header">
+				<h2 class="blog-post__title"><a href="/blog/quantum">Playing with Quantum Computing</a></h2>
+				<p class="blog-post__subtitle">07 January 2022</p>
+			</div>
+
+			
+			<a href="/blog/quantum" class="blog-post__image" style="background-image: url(/images/blog/qubit2022.jpg);"></a>
+			
+
+			<div class="blog-post__content">
+				<p><p>As an antidote to the web3 nonsense, I’ve been trying to play around with some more interesting and more fundamental innovations.  <a href="https://github.com/microsoft/QuantumKatas">Microsoft has a really nice quantum computing tutorial</a> that I have been working my way thru.  I have enough math, quantum, electonic, and cs background to wade through.  You probably want to be reasonably comfortable with vectors and imaginary numbers or it might be frustrating.</p>
+
+<p>I have a general impression, which is that it is very very very early in the development of quantum computing.  And that there is probably not much interesting software work to do right now.</p>
+
+<p>Looking at the history of digital computing, we had to invent a lot of layers of technology to get to the point where it was a mass market useful thing.  We had to invent the transistor (and triode before that).  We had to combine resistors into circuits to make logic gates, coming up with some conventions that a certain voltage/current value was a “1” and another value was a “0”.  We had to invent Boolean algrebra.  We had to combine gates into higher order components like adders.  We had to move from discrete transistors to integrated circuits.  We had to develop Von Neumann machines.  We had to get to a standard system architecture of clocked cpus with memory.  We had to develop assembly language and then higher order languages like Fortran. And we had to develop a lot of tools and process technology all along the way.  All this work overlapped and moved in fits and starts, but took decades to wrangle all this together.  By the time we got to Fortran, we could write code that many humans could understand and which you could express real world problems in.</p>
+
+<p>Without all this, writing “software” for transistors would have been terribly hard.</p>
+
+<p>With quantum computing, we are throwing out the transistor and starting back up the stack.  We are establishing conventions for what the equivalent of a “1” and “0” is.  But the stack above that is still early or nonexistent.  We are nowhere close to a development platform that lets a lot of humans write code that is understandable and relates to a large body of real world problems.</p>
+
+<p><a href="https://twitter.com/sammck">Sam</a> pointed me to <a href="https://science.thewire.in/the-sciences/quantum-computing-qubits-error-correction-no-cloning-theorem/#:~:text=Researchers%20estimate%20that%20a%20quantum,we%20can%20control%20the%20qubits">this article that says useful quantum computers may require a few million qubits</a>, and we are toying around today with systems of ~10-100 qubits.  Feels about right.</p>
+
+<p>I am optimistic about quantum computing – today’s transistors require us to fling around a huge amount of electrons to do anything useful.  If we can get to circuit elements that can work with discrete quanta, man that will be a lot of computing performance.  But it is going to take us a while.</p>
+</p>
+				<!-- <p><p>As an antidote to the web3 nonsense, I’ve been trying to play around with some more interesting and more fundamental innovations.  <a href="https://github.com/microsoft/QuantumKatas">Microsoft has a really nice quantum computing tutorial</a> that I have been working my way thru.  I have enough math, quantum, electonic, and cs background to wade through.  You probably want to be reasonably comfortable with vectors and imaginary numbers or it might be frustrating.</p>
+
+</p>
+				<p><a href="/blog/quantum" class="button">Read More</a> -->
+			</div>
+
+		</article>
+
+		
+
+		<article class="blog-post">
+
+			<div class="blog-post__header">
 				<h2 class="blog-post__title"><a href="/blog/best-books-2021">Best Books of 2021</a></h2>
 				<p class="blog-post__subtitle">26 December 2021</p>
 			</div>
@@ -893,80 +929,6 @@
 
 		
 
-		<article class="blog-post">
-
-			<div class="blog-post__header">
-				<h2 class="blog-post__title"><a href="/blog/automakers-culture-web3">Automakers and Semiconductors, Culture and Strategy, Web3, and other things I've been learning about this week</a></h2>
-				<p class="blog-post__subtitle">09 October 2021</p>
-			</div>
-
-			
-			<a href="/blog/automakers-culture-web3" class="blog-post__image" style="background-image: url(/images/blog/semiconductor.jpg);"></a>
-			
-
-			<div class="blog-post__content">
-				<p><h3 id="auto-makers-dont-drive-the-semiconductor-industry">Auto Makers Don’t Drive the Semiconductor Industry</h3>
-
-<p><a href="https://jalopnik.com/i-asked-experts-why-carmakers-cant-just-transition-to-n-1847739665">Jalopnik</a> has the automaker-sympathetic view of the chip shortage; contrast with <a href="https://fortune.com/2021/09/17/chip-makers-carmakers-time-get-out-semiconductor-stone-age/">Gelsinger’s advice to get moving to new chip technologies</a>.  As noted in <a href="https://stratechery.com/2021/mark-liu-in-time-taiwan-and-china-tsmc-and-the-u-s">Stratechery</a>, “In the long run it is the car companies that will have to give in: there simply is no good economic reason for TSMC or anyone else to build new “old” fabs”.  There is no fighting this wave.</p>
-
-<p>In the early days of Hotmail (and other web properties), the team addressed scale and reliability by buying ever more expensive Sun servers that were “enterprise grade”, hardened, reliable. This approach to web scale reliability finally gave way to new system architectures built on replicated and distributed designs running on commodity hardware.</p>
-
-<p>Some equivalent transformation is going to need to take place in auto systems design. It is inevitable that during the production and operating life of a car, the chips available at reasonable price and volume will change.  How might this affect system design?  Chips will have to be encapsulated in pluggable modules that are easily testable, easily changeable.  It probably argues for consolidating chips into fewer places in the car, and increases the importance of software and hardware design for these systems.</p>
-
-<p>Some automaker will figure this out (perhaps Tesla, Rivian, and others already have), and it will deliver them large economic and flexibility benefits.</p>
-
-<h3 id="culture-eats-strategy-for-breakfast">Culture Eats Strategy For Breakfast</h3>
-
-<p>Good article in The Atlantic about <a href="https://www.theatlantic.com/ideas/archive/2019/11/how-boeing-lost-its-bearings/602188/">how Boeing destroyed its engineering culture</a>.  <a href="https://twitter.com/sammck">Sam</a> says this may be a maxim – “Every successful creative culture is eventually absorbed by bureaucrats” – call it McKelvie’s law.</p>
-
-<p>I was fortunate to spend a lot of my career at Microsoft during a time when the management chain had developer background and fully supported developers.  Not that this meant the company was some tech-mad customer-aloof circus – everyone was pretty focused on market success, and were able to think clearly and creatively about technology.</p>
-
-<h3 id="i-dont-get-web3-but-i-keep-trying">I Don’t Get Web3, But I Keep Trying</h3>
-
-<p>I spend a bit of every week trying to wrap my head around NFTs, Crypto, Web3.  I totally get the desire to break content and services free from large corporate ownership.  Services like <a href="https://radicle.xyz">Radicle</a> and <a href="https://gitcoin.co">Gitcoin</a> seem interesting maybe (although I can’t find anyone using radicle).</p>
-
-<p>But then I read <a href="https://twitter.com/rohit_jindal29/status/1445625922770505741?s=21">this twitter thread</a> and <a href="https://future.a16z.com/why-web3-matters/">this article</a> by some very vocal proponents of web3.  These are not stupid people, so I am trying to understand their views, but I struggle with their language.</p>
-
-<p>For instance: <strong>“NFTs give users the ability to own objects, which can be art, photos, code, music, text, game objects, credentials, governance rights, access passes, and whatever else people dream up next.”</strong></p>
-
-<p>The NFT concept of ownership seems closest to the notion of owning a meal you purchased.  No one else can own that instance, tho the restauranteur retains the right to create and sell infinitely more instances.  My own purchased meal has utility to me, but over a long time I can’t really resell it or expect it to grow in value.</p>
-
-<p>Or owning an NFT is like owning a copy of a music track.  I get value out if owning the track copy, but no one is ever going to pay me much for my specific copy of “Custard Pie” by Led Zeppelin, and Led Zeppelin retains the rights to sell as many copies of this track as they can, or create new and different versions.</p>
-
-<p>This is very different than owning a unique piece of art or owning all the rights to some piece of code or to some piece of music.  Certainly someone could contractually commit to sell some deeper piece of ownership along with an NFT, but a token itself doesn’t magically solve this ownership issue, nor are tokens required to sell these rights.</p>
-
-<p>Another instance: <strong>“Ethereum is a decentralized global computer that is owned and operated by its users.  Blockchains are special computers that anyone can access but no one owns.”</strong></p>
-
-<p>The industry has a pretty good definition of what a “computer” is, and there is a giant economy of Intel instruction set and ARM instruction set computers and tools — chips, SOCs, cloud instances, vms, dev toolchains, management tools, virtualization tools, etc etc etc.</p>
-
-<p>My puny brain has a hard time understanding how blockchain compares to what we normally call computers.  If I want to write some program that does some arbitrary task, how do I host that on a blockchain?  If a blockchain is just a special computer that can only do one special kind of task, how is that useful?</p>
-
-<p>Or: <strong>“Ethereum is powered by a fungible token, ETH, which is used to incentivize the physical computers that underlie the system.”</strong></p>
-
-<p>How does a token power anything?  Or incentivize physical computers?  You can’t incentivize code or semiconductors.</p>
-
-<p>Words and definitions matter.  This breezy use of well understood terms does not help to build understanding.  It damages the arguments of the web3 proponents as it seems like they are trying to purposefully obfuscate.</p>
-
-<h3 id="iot-and-wifi">IOT and WIFI</h3>
-
-<p>Interesting that <a href="https://twitter.com/darianbjohnson/status/1446484074122649632?s=21">low cost wifi chipsets are emerging</a>, putting wifi at/near zigbee/zwave power budgets, if I understand the specs.  Suspect zigbee and zwave don’t survive this assault.</p>
-
-<h3 id="random">Random</h3>
-
-<p><a href="https://www.howardstern.com/news/2021/10/05/brandi-carlile-performs-an-elton-john-cover-and-one-of-her-new-hits-live-on-the-stern-show/?utm_source=nextdraft&amp;utm_medium=email">Brandi Carlile’s cover of Madman Across the Water</a> is awesome.  Of course Brandi’s cover of almost anything would be awesome.</p>
-
-<p><a href="https://guzey.com/intelligence-killed-genius/">An argument agains the notion of general intelligence</a>.  Hear, hear.  I’ve met a ton of smart people and they are all uniquely smart in different ways.</p>
-</p>
-				<!-- <p><h3 id="auto-makers-dont-drive-the-semiconductor-industry">Auto Makers Don’t Drive the Semiconductor Industry</h3>
-
-</p>
-				<p><a href="/blog/automakers-culture-web3" class="button">Read More</a> -->
-			</div>
-
-		</article>
-
-		
-
 	</div>
 
 </section>
@@ -994,7 +956,7 @@
 	<footer class="footer">
 
 	<div class="footer__copyright">
-		<span>© 2021 A Little Ludwig Goes a Long Way</span>
+		<span>© 2022 A Little Ludwig Goes a Long Way</span>
 		<a href="https://jekyllthemes.io" target="_blank">Jekyll Themes</a>
 	</div>
 
