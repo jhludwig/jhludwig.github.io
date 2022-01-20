@@ -27,12 +27,12 @@
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="A Little Ludwig Goes a Long Way – A Little Ludwig Goes a Long Way">
 	<meta name="twitter:description" content="A smattering of opinions on technology, books, business, and culture.  Now in its 4th technology iteration.">
-	<meta name="twitter:image:src" content="/images/blog/bellevuesunrise2.jpeg">
+	<meta name="twitter:image:src" content="http://localhost:4000/images/blog/bellevuesunrise2.jpeg">
 
 	<!-- Facebook OpenGraph -->
 	<meta property="og:title" content="A Little Ludwig Goes a Long Way – A Little Ludwig Goes a Long Way" />
 	<meta property="og:description" content="A smattering of opinions on technology, books, business, and culture.  Now in its 4th technology iteration." />
-	<meta property="og:image" content="/images/blog/bellevuesunrise2.jpeg" />
+	<meta property="og:image" content="http://localhost:4000/images/blog/bellevuesunrise2.jpeg" />
 
 	
 	<!-- Font Embed Code -->
@@ -66,7 +66,7 @@
 </head>
 
 
-<body class="loading ajax-loading" data-site-url="" data-page-url="/blog/page51/">
+<body class="loading ajax-loading" data-site-url="http://localhost:4000" data-page-url="/blog/page51/">
 
 
 	<header class="header">
@@ -194,6 +194,39 @@
 			<section class="blog single">
 
 	<div class="wrap">
+
+		
+
+		<article class="blog-post">
+
+			<div class="blog-post__header">
+				<h2 class="blog-post__title"><a href="/blog/matlab-lessons">MATLAB lessons</a></h2>
+				<p class="blog-post__subtitle">09 November 2009</p>
+			</div>
+
+			
+
+			<div class="blog-post__content">
+				<p><p>Doing a ton of MATLAB coding these days. What an amazing tool. For a numbers geek, this is so much better than Excel. The macro language in excel/spreadsheets has always been wacky, and the basic tool in later versions is even worse.</p>
+
+<p>MATLAB is awesome but of course some key lessons that I am relearning, as well as some new ones.</p>
+
+<ul>
+  <li>Off-by-one errors are killers. Especially when dealing with huge complex matrices. Document and layout your variables carefully.</li>
+  <li>The lack of any variable typing system is a little scary, as well as the lack of required variable declarations. You can get in a lot of trouble easily by declaring variables willy-nilly and doing whatever you want with them. Powerful but a little dangerous.</li>
+  <li>OK, the ability to create variables with the same name as built-in values/functions, and/or the ability to assign values to built-ins without regard to their intended value – well this is just nutso.  And the “lint” tool that is part of the development environment doesn’t make a peep about it. For instance, I used “i” as the index value for a loop. Unfortunately “i” means of course the square root of -1, and when you arbitrarily set this to say 5, bad $h!t happens. Who ever thought it was a good idea to let users do this? Lesson learned.</li>
+  <li>MATLAB is very PL/1 like. OK this doesn’t mean much to most people, but there is a function or library for everything in MATLAB. If it is something you want to do, there is probably already a function or option to do it, you just have to sift thru the function reference to find it.</li>
+  <li>BTW, make sure you change the help search options to span just the libs you have access to. Otherwise everytime you search help, you will get 95% useless information.</li>
+  <li>The lack of even the most primitive source control package in the development environment is ridiculous. It is easy to point the tool at other working directories tho. Short of installing a source control system , clone your working directory often. Really there ought to be some simple versioning in the tool and the ability to rollback.</li>
+</ul>
+</p>
+				<!-- <p><p>Doing a ton of MATLAB coding these days. What an amazing tool. For a numbers geek, this is so much better than Excel. The macro language in excel/spreadsheets has always been wacky, and the basic tool in later versions is even worse.</p>
+
+</p>
+				<p><a href="/blog/matlab-lessons" class="button">Read More</a> -->
+			</div>
+
+		</article>
 
 		
 
@@ -609,30 +642,6 @@
 				<!-- <p><p>* “If air travel was like health care”:http://www.nationaljournal.com/njmagazine/st_20090926_4826.php * “Value added by universities”:http://delong.typepad.com/sdj/2009/09/value-added-by-universities.html. Interesting way to rank</p>
 </p>
 				<p><a href="/blog/just-plain-interesting-links" class="button">Read More</a> -->
-			</div>
-
-		</article>
-
-		
-
-		<article class="blog-post">
-
-			<div class="blog-post__header">
-				<h2 class="blog-post__title"><a href="/blog/softwaretech-i-have-to-look-at-further">Software/tech I have to look at further</a></h2>
-				<p class="blog-post__subtitle">03 October 2009</p>
-			</div>
-
-			
-
-			<div class="blog-post__content">
-				<p><p>After fall quarter ends…</p>
-
-<p>* “Microsoft Courier”:http://gizmodo.com/5365299/courier-first-details-of-microsofts-secret-tablet. Well covered by now but gosh looks like a cool device. * “Daytum”:http://daytum.com/. I feel like I should like this but not really sure what to do with * “StockTwits”:http://www.abnormalreturns.com/2009/09/how-to-make-the-most-of-stocktwits/. Should learn more about * “Iphone app discovery”:http://crashdev.blogspot.com/2009/09/iphone-app-discovery-mad-libs-for.html. Nice work from guys working with Chris * “Autodesk Sketchbook Mobile”:http://www.core77.com/blog/technology/autodesk_puts_the_fun_in_your_pocket_introducing_sketchbook_mobile_14649.asp</p>
-</p>
-				<!-- <p><p>After fall quarter ends…</p>
-
-</p>
-				<p><a href="/blog/softwaretech-i-have-to-look-at-further" class="button">Read More</a> -->
 			</div>
 
 		</article>
