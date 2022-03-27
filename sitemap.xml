@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/about</loc>
-<lastmod>2022-03-07T16:04:20-08:00</lastmod>
+<lastmod>2022-03-27T08:45:37-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/thanks</loc>
-<lastmod>2022-03-07T16:04:20-08:00</lastmod>
+<lastmod>2022-03-27T08:45:37-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blog/northwest-news-104-well-september</loc>
@@ -16017,6 +16017,10 @@
 <lastmod>2022-03-07T00:00:00-08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/blog/pain-world</loc>
+<lastmod>2022-03-14T00:00:00-07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/project/demo-project</loc>
 <lastmod>2018-06-29T17:00:00-07:00</lastmod>
 </url>
@@ -16826,10 +16830,10 @@
 </url>
 <url>
 <loc>http://localhost:4000/projects/webgl/morph.html</loc>
-<lastmod>2022-02-17T20:44:43-08:00</lastmod>
+<lastmod>2022-03-14T10:41:09-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/projects/webgl/video.html</loc>
-<lastmod>2022-02-11T11:05:23-08:00</lastmod>
+<lastmod>2022-03-14T10:41:09-07:00</lastmod>
 </url>
 </urlset>
