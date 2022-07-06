@@ -201,6 +201,40 @@
 		<article class="blog-post">
 
 			<div class="blog-post__header">
+				<h2 class="blog-post__title"><a href="/blog/weekend-software-experiment-facebooks-deepmask">Weekend software experiment -- Facebook's Deepmask</a></h2>
+				<p class="blog-post__subtitle">29 August 2016</p>
+			</div>
+
+			
+
+			<div class="blog-post__content">
+				<p><p><a href="https://code.facebook.com/posts/561187904071636">Facebook open-sourced</a> its <a href="https://github.com/facebookresearch/deepmask">Deepmask and Sharpmask</a> codebases last week for object segmentation in a scene. In the past I’ve tried traditional CV methods to do object masking, and it is kind of a disaster, you end up with a very finicky codebase full of heuristics and hacks, which fails as soon as it sees a new kind of image. Seems like an archetypical use case for neural nets. So seemed worth giving it a try.</p>
+
+<p>Deepmask and Sharpmask come with pretrained models based on the <a href="http://mscoco.org/">COCO dataset</a>, it looks laborious to label a new dataset without benefit of some mechanical turk-like process, so I decided to stick with the pretrained models.</p>
+
+<p>To avoid polluting my system, and to share with the rest of the team, I decided to bring this all up in a docker container. Because our build environment has some unique characteristics, I needed to author my own container, but these were excellent dockerfile guides: <a href="https://hub.docker.com/r/kaixhin/cuda-torch/~/dockerfile/">Torch with CUDA</a> and it’s <a href="https://hub.docker.com/r/kaixhin/cuda-torch-deps/~/dockerfile/">dependencies</a>. Also <a href="https://github.com/torch/distro">Torch install</a> is a good reference.</p>
+
+<p><a href="http://theludwigs.com/2016/08/weekend-software-experiment-facebooks-deepmask/29-aug-2016-04-13-54/"><img src="images/29-Aug-2016-04-13-54.jpg" alt="29-Aug-2016-04-13-54" /></a></p>
+
+<p>First results in the picture. Did a nice job on this image for the large objects. The biggest problem I had was running out of GPU memory. The machine I was using only had 4G of video ram and this constrains how large an image you can feed in. We had a bunch of 4K x 3K street images, I found that scaling them down to 756x567 allowed me to get them thru the classifier. My modified classifier that implements a size limit is <a href="https://gist.github.com/jhludwig/9d17d8c7abd2822f863ca8256ec3a82f">here</a></p>
+
+<p>The classifier is slow, seconds to tag an image. It would be interesting to keep it resident as a demon, and to just emit the metadata instead of a modified image, and see if I could get a higher framerate. Also I want to play around with both a faster video card, as well as maybe an opencl implementation to get to non-cuda platforms. This is also my first lua code ever, I have no idea which part of this code is fast or slow.</p>
+
+<p>This was a fun little project. It points out that, if software is eating the world, then ML is eating software. For a certain class of problems, a fairly generic neural net plus a dataset is going to be competitive with the best laboriously hand-coded algorithm.</p>
+</p>
+				<!-- <p><p><a href="https://code.facebook.com/posts/561187904071636">Facebook open-sourced</a> its <a href="https://github.com/facebookresearch/deepmask">Deepmask and Sharpmask</a> codebases last week for object segmentation in a scene. In the past I’ve tried traditional CV methods to do object masking, and it is kind of a disaster, you end up with a very finicky codebase full of heuristics and hacks, which fails as soon as it sees a new kind of image. Seems like an archetypical use case for neural nets. So seemed worth giving it a try.</p>
+
+</p>
+				<p><a href="/blog/weekend-software-experiment-facebooks-deepmask" class="button">Read More</a> -->
+			</div>
+
+		</article>
+
+		
+
+		<article class="blog-post">
+
+			<div class="blog-post__header">
 				<h2 class="blog-post__title"><a href="/blog/weekend-gadget-review-the-cocoon-not-recommended">Weekend gadget review -- the Cocoon -- not recommended</a></h2>
 				<p class="blog-post__subtitle">27 August 2016</p>
 			</div>
@@ -547,41 +581,6 @@
 				<!-- <p><p>Too much fuss to install today but want to try – https://github.com/shagabutdinov/sublime-enhanced/blob/master/readme-installation.md</p>
 </p>
 				<p><a href="/blog/reminder-to-self-try-the-sublime-enhanced-package" class="button">Read More</a> -->
-			</div>
-
-		</article>
-
-		
-
-		<article class="blog-post">
-
-			<div class="blog-post__header">
-				<h2 class="blog-post__title"><a href="/blog/recent-books-unruly-places-the-rook-dispatches-from-pluto-dog-stars-pamuk-niceville">Recent books -- Unruly Places, The Rook, Dispatches from Pluto, Dog Stars, Pamuk, Niceville</a></h2>
-				<p class="blog-post__subtitle">02 August 2016</p>
-			</div>
-
-			
-
-			<div class="blog-post__content">
-				<p><ul>
-  <li><a href="https://www.amazon.com/Unruly-Places-Spaces-Inscrutable-Geographies/dp/054410157X">Unruly Places</a> by <a href="http://theludwigs.com/2016/08/recent-books-unruly-places-the-rook-dispatches-from-pluto-dog-stars-pamuk-niceville/pluto/"><img src="images/pluto.jpg" alt="pluto" /></a>Alastair Bonnett. The stories behind some of the most unusual and unlikely places on the globe – places belonging to no nation, to many nations, floating, underground, in the sky – and an understanding of the meaning and importance of place.  Enjoyable.  </li>
-  <li><a href="https://www.amazon.com/Rook-Daniel-OMalley/dp/0316098809">The Rook</a> and <a href="https://www.amazon.com/Stiletto-Novel-Files-Daniel-OMalley/dp/0316228044">Stiletto</a> by Daniel O’Malley. Great suspenseful adventure in a world filled with magic –  kind of a grown-up Harry Potter milieu.  The first page grabs you – the protagonist awakens with no memory, in a park surrounded by bodies, and in her pocket is a note that says “Read Me”. Stiletto isn’t quite as strong but still a fund read.  </li>
-  <li><a href="https://www.amazon.com/Dispatches-Pluto-Found-Mississippi-Delta-ebook/dp/B00UDCNM82">Dispatches From Pluto</a> by Richard Grant. An English adventure writer decides to settle in the Mississippi Delta. Interesting look at the culture and issues of a part of the country that seems almost foreign to me.  </li>
-  <li><a href="https://www.amazon.com/Dog-Stars-Peter-Heller-ebook/dp/B007GZELF2">The Dog Stars</a> by Peter Heller. A different kind of post-apocalyptic novel, the world has largely been emptied out, a very few people try to find their way and remain human.  </li>
-  <li><a href="https://www.amazon.com/Strangeness-my-Mind-novel-ebook/dp/B00SPVZA4C">A Strangeness In My Mind</a> by Orhan Pamuk. Tried to lift my literary sights, but as always, “Nobel Prize Winning” does not equal “interesting”.  </li>
-  <li><a href="https://www.amazon.com/Niceville-Trilogy-Vintage-Crime-Lizard/dp/030774535X">Niceville</a> by Carsten Stroud. Not a nice place. Solid horror/mystery.</li>
-</ul>
-</p>
-				<!-- <p><ul>
-  <li><a href="https://www.amazon.com/Unruly-Places-Spaces-Inscrutable-Geographies/dp/054410157X">Unruly Places</a> by <a href="http://theludwigs.com/2016/08/recent-books-unruly-places-the-rook-dispatches-from-pluto-dog-stars-pamuk-niceville/pluto/"><img src="images/pluto.jpg" alt="pluto" /></a>Alastair Bonnett. The stories behind some of the most unusual and unlikely places on the globe – places belonging to no nation, to many nations, floating, underground, in the sky – and an understanding of the meaning and importance of place.  Enjoyable.  </li>
-  <li><a href="https://www.amazon.com/Rook-Daniel-OMalley/dp/0316098809">The Rook</a> and <a href="https://www.amazon.com/Stiletto-Novel-Files-Daniel-OMalley/dp/0316228044">Stiletto</a> by Daniel O’Malley. Great suspenseful adventure in a world filled with magic –  kind of a grown-up Harry Potter milieu.  The first page grabs you – the protagonist awakens with no memory, in a park surrounded by bodies, and in her pocket is a note that says “Read Me”. Stiletto isn’t quite as strong but still a fund read.  </li>
-  <li><a href="https://www.amazon.com/Dispatches-Pluto-Found-Mississippi-Delta-ebook/dp/B00UDCNM82">Dispatches From Pluto</a> by Richard Grant. An English adventure writer decides to settle in the Mississippi Delta. Interesting look at the culture and issues of a part of the country that seems almost foreign to me.  </li>
-  <li><a href="https://www.amazon.com/Dog-Stars-Peter-Heller-ebook/dp/B007GZELF2">The Dog Stars</a> by Peter Heller. A different kind of post-apocalyptic novel, the world has largely been emptied out, a very few people try to find their way and remain human.  </li>
-  <li><a href="https://www.amazon.com/Strangeness-my-Mind-novel-ebook/dp/B00SPVZA4C">A Strangeness In My Mind</a> by Orhan Pamuk. Tried to lift my literary sights, but as always, “Nobel Prize Winning” does not equal “interesting”.  </li>
-  <li><a href="https://www.amazon.com/Niceville-Trilogy-Vintage-Crime-Lizard/dp/030774535X">Niceville</a> by Carsten Stroud. Not a nice place. Solid horror/mystery.</li>
-</ul>
-</p>
-				<p><a href="/blog/recent-books-unruly-places-the-rook-dispatches-from-pluto-dog-stars-pamuk-niceville" class="button">Read More</a> -->
 			</div>
 
 		</article>
