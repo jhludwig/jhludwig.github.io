@@ -19,7 +19,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
 	<!-- Page Info -->
-	<link rel="alternate" type="application/rss+xml" href="/feed.xml" />
+	<link rel="alternate" type="application/rss+xml" href="http://localhost:4000/feed.xml" />
 	<link rel="shortcut icon" href="/images/favicon.png">
 	<title>A Little Ludwig Goes a Long Way – A Little Ludwig Goes a Long Way</title>
 	<meta name="description" content="A smattering of opinions on technology, books, business, and culture.  Now in its 4th technology iteration.">
@@ -28,12 +28,12 @@
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="A Little Ludwig Goes a Long Way – A Little Ludwig Goes a Long Way">
 	<meta name="twitter:description" content="A smattering of opinions on technology, books, business, and culture.  Now in its 4th technology iteration.">
-	<meta name="twitter:image:src" content="/images/blog/bellevuesunrise2.jpeg">
+	<meta name="twitter:image:src" content="http://localhost:4000/images/blog/bellevuesunrise2.jpeg">
 
 	<!-- Facebook OpenGraph -->
 	<meta property="og:title" content="A Little Ludwig Goes a Long Way – A Little Ludwig Goes a Long Way" />
 	<meta property="og:description" content="A smattering of opinions on technology, books, business, and culture.  Now in its 4th technology iteration." />
-	<meta property="og:image" content="/images/blog/bellevuesunrise2.jpeg" />
+	<meta property="og:image" content="http://localhost:4000/images/blog/bellevuesunrise2.jpeg" />
 
 	
 	<!-- Font Embed Code -->
@@ -67,7 +67,7 @@
 </head>
 
 
-<body class="loading ajax-loading" data-site-url="" data-page-url="/blog/page262/">
+<body class="loading ajax-loading" data-site-url="http://localhost:4000" data-page-url="/blog/page262/">
 
 
 	<header class="header">
@@ -195,6 +195,38 @@
 			<section class="blog single">
 
 	<div class="wrap">
+
+		
+
+		<article class="blog-post">
+
+			<div class="blog-post__header">
+				<h2 class="blog-post__title"><a href="/blog/startup-processes-in-windows">Startup Processes in Windows</a></h2>
+				<p class="blog-post__subtitle">18 May 2002</p>
+			</div>
+
+			
+
+			<div class="blog-post__content">
+				<p><p><strong>Startup Processes in Windows</strong>. I’m helping my dad figure out how to shut off various strange startup processes in windows. AN incredibly common problem and incredibly stupidly painful to fix. In his case some reminder program about MSN internet service is nattering at him all the time.</p>
+
+<p>The easy steps are to go to the Startup group in the Programs menu and get rid of any gorp you don’t want. A legacy from win3.x are the LOAD= and RUN= lines in system.ini.</p>
+
+<p>But there is still a bunch of stuff running. Hmm. Ok now we go registry whacking. Run Regedit. Navigate thru the tree control on the left to the key named HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run (at least that is the name on Win2k). Examine the rightmost screen dad. If you’re not sure, don’t touch! Call me.</p>
+
+<p>Ok now navigate to the key named HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run. Same dealy.</p>
+
+<p>Finally you may have to look a key named HKEY_USERS\[somelongnumber]\Software\Microsoft\Windows\CurrentVersion\Run. Same dealy.</p>
+
+<p>When you are done, reboot and see if that helps! Oh and here is at least one site that lists the name of <a href="http://www.answersthatwork.com/Tasklist_pages/tasklist.htm">strange tasks</a> running in the background of windows and if you are supposed to touch them. There are others – try searching <a href="http://www.google.com">Google</a> with the name of the strange executable, or <a href="http://www.microsoft.com/technet/default.asp">technet</a>.</p>
+</p>
+				<!-- <p><p><strong>Startup Processes in Windows</strong>. I’m helping my dad figure out how to shut off various strange startup processes in windows. AN incredibly common problem and incredibly stupidly painful to fix. In his case some reminder program about MSN internet service is nattering at him all the time.</p>
+
+</p>
+				<p><a href="/blog/startup-processes-in-windows" class="button">Read More</a> -->
+			</div>
+
+		</article>
 
 		
 
@@ -528,30 +560,6 @@
 </table>
 </p>
 				<p><a href="/blog/safari" class="button">Read More</a> -->
-			</div>
-
-		</article>
-
-		
-
-		<article class="blog-post">
-
-			<div class="blog-post__header">
-				<h2 class="blog-post__title"><a href="/blog/boating">Boating</a></h2>
-				<p class="blog-post__subtitle">30 April 2002</p>
-			</div>
-
-			
-
-			<div class="blog-post__content">
-				<p><p><strong>Boating</strong>. The great weather makes me want to get out on a boat. And we live in a great area for it. Thankfully there is no reason to actually own a boat. There is a great market of charter options. We’ve used <a href="http://ledgermarinecharters.com/main.htm">Ledger Marine</a> here in Seattle and had great luck. Other options I’ve noticed are <a href="http://www.penmar.com/crewed.htm">Penmar</a>, <a href="http://www.cnconnect.com/charter.html">CNI Charters</a>, <a href="http://www.bellinghamyachts.com/bys/bys_5.html">Bellingham Yacht Sales</a>, <a href="http://www.abcyachtcharters.com/">ABC</a>, <a href="http://www.starellit.com/fleet.htm">Starellit</a>, and <a href="http://www.gulfislandcharter.com/">Anacortes Yacht Charters</a>. A huge range of pricing, amenities, crew options, etc. Waaaay cheaper than actually owning a boat.</p>
-
-<p>Someday I’d like to do a charter in other parts of the world. From some of these sites you can see the market for charters in other areas, and clearly the mediterranean and caribean are active markets. I have a dream of doing Australia by boat someday…</p>
-</p>
-				<!-- <p><p><strong>Boating</strong>. The great weather makes me want to get out on a boat. And we live in a great area for it. Thankfully there is no reason to actually own a boat. There is a great market of charter options. We’ve used <a href="http://ledgermarinecharters.com/main.htm">Ledger Marine</a> here in Seattle and had great luck. Other options I’ve noticed are <a href="http://www.penmar.com/crewed.htm">Penmar</a>, <a href="http://www.cnconnect.com/charter.html">CNI Charters</a>, <a href="http://www.bellinghamyachts.com/bys/bys_5.html">Bellingham Yacht Sales</a>, <a href="http://www.abcyachtcharters.com/">ABC</a>, <a href="http://www.starellit.com/fleet.htm">Starellit</a>, and <a href="http://www.gulfislandcharter.com/">Anacortes Yacht Charters</a>. A huge range of pricing, amenities, crew options, etc. Waaaay cheaper than actually owning a boat.</p>
-
-</p>
-				<p><a href="/blog/boating" class="button">Read More</a> -->
 			</div>
 
 		</article>
