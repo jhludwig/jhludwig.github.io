@@ -201,6 +201,34 @@
 		<article class="blog-post">
 
 			<div class="blog-post__header">
+				<h2 class="blog-post__title"><a href="/blog/docker-and-vscode-on-os-x-not-ready-for-primetime">Docker and VSCode on OS X -- not ready for primetime</a></h2>
+				<p class="blog-post__subtitle">22 May 2017</p>
+			</div>
+
+			
+
+			<div class="blog-post__content">
+				<p><p>My workflow for years on my MBP has centered on VMWare running Debian/Ubuntu, and all my tools in the VM.</p>
+
+<p>For developing code targeting AWS services, I thought I’d try using Docker for Mac and running Debian images with Docker.</p>
+
+<p>Well that didn’t work. <a href="https://forums.docker.com/t/time-in-container-is-out-of-sync/16566">This bug involving time drift in a container</a> has been around for a year now, with no attention paid to it. It basically makes it impossible to access any AWS services. I have to conclude that no one is actually using Docker for Mac.</p>
+
+<p>I’ve also for years used a variety of editors and IDEs on both the Mac and Linux side. I heard such good things about VSCode that I decided to try it. But after any amount of time running it, it starts to miss keystrokes – I first noticed it wasn’t responding to copy/paste from the keyboard, then it also started to fail on simple text entry. I have no time for this, as cool as VSCode may be, it fails on the fundamentals.</p>
+</p>
+				<!-- <p><p>My workflow for years on my MBP has centered on VMWare running Debian/Ubuntu, and all my tools in the VM.</p>
+
+</p>
+				<p><a href="/blog/docker-and-vscode-on-os-x-not-ready-for-primetime" class="button">Read More</a> -->
+			</div>
+
+		</article>
+
+		
+
+		<article class="blog-post">
+
+			<div class="blog-post__header">
 				<h2 class="blog-post__title"><a href="/blog/weekend-experiment-amazon-codestar">Weekend experiment -- Amazon Codestar</a></h2>
 				<p class="blog-post__subtitle">07 May 2017</p>
 			</div>
@@ -578,36 +606,6 @@
 
 </p>
 				<p><a href="/blog/recent-book-hitlers-thirty-days-to-power" class="button">Read More</a> -->
-			</div>
-
-		</article>
-
-		
-
-		<article class="blog-post">
-
-			<div class="blog-post__header">
-				<h2 class="blog-post__title"><a href="/blog/weekend-software-project-audio-classification">Weekend Software Project -- Audio classification</a></h2>
-				<p class="blog-post__subtitle">19 September 2016</p>
-			</div>
-
-			
-
-			<div class="blog-post__content">
-				<p><p>This weekend I experimented with some audio classification tools. It was an up and down experience.</p>
-
-<p>I’m interested in a couple features – hotword detection ala “Hey Siri”, “Alexa”; sound event detection (i.e. identify a glass break or gunshot); and acoustic scene classification. I didn’t dig into general speech reco, I’ve dabbled with that in the past.</p>
-
-<p>I experimented with two projects this weekend – the <a href="https://github.com/Kitt-AI/snowboy">Kitt.AI Snowboy hotword detection tool</a> and the <a href="https://github.com/TUT-ARG/DCASE2016-baseline-system-python">DCASE 2016 baseline system</a>. I spun up a single docker container that hosted both projects. This was a bit of a PITA, mostly due to getting sound devices to show up in a container. I should post something separate just on that adventure.</p>
-
-<p>Ultimately I got them both working. The Snowboy detector works reasonably well with their universal model; the personal models you can create work also, tho they are not speaker independent. The DCASE code also spins up and training can be done on a standalone machine in a modest amount of time. Unfortunately, both these projects have very restrictive licenses, which makes them kind of useless for anything besides a weekend project.</p>
-
-<p>At the root of almost all these systems is a common feature extraction algorithm, MFCC extraction. MFCCs are explained reasonably well <a href="http://www.practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/">here</a> and the author provides a <a href="https://github.com/jameslyons/python_speech_features">python reference implementation</a> with an MIT license. I’m inclined to dig more into this path going forward.</p>
-</p>
-				<!-- <p><p>This weekend I experimented with some audio classification tools. It was an up and down experience.</p>
-
-</p>
-				<p><a href="/blog/weekend-software-project-audio-classification" class="button">Read More</a> -->
 			</div>
 
 		</article>
