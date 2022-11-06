@@ -19,7 +19,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
 	<!-- Page Info -->
-	<link rel="alternate" type="application/rss+xml" href="/feed.xml" />
+	<link rel="alternate" type="application/rss+xml" href="http://localhost:4000/feed.xml" />
 	<link rel="shortcut icon" href="/images/favicon.png">
 	<title>A Little Ludwig Goes a Long Way – A Little Ludwig Goes a Long Way</title>
 	<meta name="description" content="A smattering of opinions on technology, books, business, and culture.  Now in its 4th technology iteration.">
@@ -28,12 +28,12 @@
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="A Little Ludwig Goes a Long Way – A Little Ludwig Goes a Long Way">
 	<meta name="twitter:description" content="A smattering of opinions on technology, books, business, and culture.  Now in its 4th technology iteration.">
-	<meta name="twitter:image:src" content="/images/blog/bellevuesunrise2.jpeg">
+	<meta name="twitter:image:src" content="http://localhost:4000/images/blog/bellevuesunrise2.jpeg">
 
 	<!-- Facebook OpenGraph -->
 	<meta property="og:title" content="A Little Ludwig Goes a Long Way – A Little Ludwig Goes a Long Way" />
 	<meta property="og:description" content="A smattering of opinions on technology, books, business, and culture.  Now in its 4th technology iteration." />
-	<meta property="og:image" content="/images/blog/bellevuesunrise2.jpeg" />
+	<meta property="og:image" content="http://localhost:4000/images/blog/bellevuesunrise2.jpeg" />
 
 	
 	<!-- Font Embed Code -->
@@ -67,7 +67,7 @@
 </head>
 
 
-<body class="loading ajax-loading" data-site-url="" data-page-url="/blog/page200/">
+<body class="loading ajax-loading" data-site-url="http://localhost:4000" data-page-url="/blog/page200/">
 
 
 	<header class="header">
@@ -195,6 +195,43 @@
 			<section class="blog single">
 
 	<div class="wrap">
+
+		
+
+		<article class="blog-post">
+
+			<div class="blog-post__header">
+				<h2 class="blog-post__title"><a href="/blog/bcs-rankings-4">BCS Rankings</a></h2>
+				<p class="blog-post__subtitle">22 September 2003</p>
+			</div>
+
+			
+
+			<div class="blog-post__content">
+				<p><p>OK is it too early to start talking about BCS Rankings? Considering they don’t come out until October 20th? Nah, never too early.</p>
+
+<p>I did a quick and dirty analysis tonight. ESPN has a <a href="http://espn.go.com/abcsports/bcs/rankings_full/2002-2003.html">page</a> that describes the basic calculations from last year, I started from this formula, I haven’t heard of changes to the formula this year. The <a href="http://www.cfrc.com/" title="Home">College Football Resource Center</a> and the <a href="http://www.mratings.com/cf/compare.htm">Massey Ratings</a> sites have a lot of the raw computer ranking data. The Wolfe poll will not be available until 10-20; I was not able to find the NY Times computer poll today on the net yet; and the Massey BCS variant seems to be behind a subscription wall so I used the published non-BCS Massey rating (which includes margin of victory, which is not permitted in BCS polls). Also on the Sagarin site, you need to be careful and get the BCS variant, not the standard Sagarin rating.</p>
+
+<p>Also I didn’t go thru all the strength of schedule calculations as this requires building a little db of every Div1 team’s opponents and results, a little beyond my Excel hacking tonight. The lack of this doesn’t really sway the results as it is likely only going to add a further point of difference to the scores.</p>
+
+<p>OK so today, Oklahoma (3 points) and Miami (3.67 points) would play in New Orleans. OSU (7 points) and USC (7.33) would be on the outside looking in, in a very nice Rose Bowl match I assume (tho maybe the Orange would get to poach one of these teams? Sad if so). FSU is the next closest unbeaten at 9.67 points, with the rest of the unbeatens at 12 points or more.</p>
+
+<p>This will all scramble a lot but fun to start projecting.</p>
+</p>
+				<!-- <p><p>OK is it too early to start talking about BCS Rankings? Considering they don’t come out until October 20th? Nah, never too early.</p>
+
+<p>I did a quick and dirty analysis tonight. ESPN has a <a href="http://espn.go.com/abcsports/bcs/rankings_full/2002-2003.html">page</a> that describes the basic calculations from last year, I started from this formula, I haven’t heard of changes to the formula this year. The <a href="http://www.cfrc.com/" title="Home">College Football Resource Center</a> and the <a href="http://www.mratings.com/cf/compare.htm">Massey Ratings</a> sites have a lot of the raw computer ranking data. The Wolfe poll will not be available until 10-20; I was not able to find the NY Times computer poll today on the net yet; and the Massey BCS variant seems to be behind a subscription wall so I used the published non-BCS Massey rating (which includes margin of victory, which is not permitted in BCS polls). Also on the Sagarin site, you need to be careful and get the BCS variant, not the standard Sagarin rating.</p>
+
+<p>Also I didn’t go thru all the strength of schedule calculations as this requires building a little db of every Div1 team’s opponents and results, a little beyond my Excel hacking tonight. The lack of this doesn’t really sway the results as it is likely only going to add a further point of difference to the scores.</p>
+
+<p>OK so today, Oklahoma (3 points) and Miami (3.67 points) would play in New Orleans. OSU (7 points) and USC (7.33) would be on the outside looking in, in a very nice Rose Bowl match I assume (tho maybe the Orange would get to poach one of these teams? Sad if so). FSU is the next closest unbeaten at 9.67 points, with the rest of the unbeatens at 12 points or more.</p>
+
+<p>This will all scramble a lot but fun to start projecting.</p>
+</p>
+				<p><a href="/blog/bcs-rankings-4" class="button">Read More</a> -->
+			</div>
+
+		</article>
 
 		
 
@@ -486,27 +523,6 @@
 				<!-- <p><p><a href="http://jeremy.zawodny.com/blog/archives/000970.html" title="Jeremy Zawodny's blog: Verisign is Pure Evil">Verisign is Pure Evil</a>…<a href="http://blogs.law.harvard.edu/bloggerCon/stories/storyReader$362">“Elements of Style” for Weblogs</a>…<a href="http://www.rassoc.com/gregr/weblog/archive.aspx?post=659">“Feed:” proposal</a>…<a href="http://www.rassoc.com/gregr/weblog/archive.aspx?post=657">Office 2003 available and works great with Newsgator</a>…<a href="http://laszlosystems.com/">Laszlo</a>…<a href="http://www.blogpulse.com">Blogpulse</a>…<a href="http://www.theregister.co.uk/content/3/32841.html">Gelsinger on desktop power consumption</a> (bummer)…<a href="http://www.p2pforums.com">P2PForums</a></p>
 </p>
 				<p><a href="/blog/todays-links" class="button">Read More</a> -->
-			</div>
-
-		</article>
-
-		
-
-		<article class="blog-post">
-
-			<div class="blog-post__header">
-				<h2 class="blog-post__title"><a href="/blog/krenzel-may-sit-out-saturday">Krenzel may sit out Saturday</a></h2>
-				<p class="blog-post__subtitle">16 September 2003</p>
-			</div>
-
-			
-
-			<div class="blog-post__content">
-				<p><p><a href="http://www.fanblogs.com/big10/archives/000321.php" title="Big 10 College Football - Fanblogs.com: Krenzel May Not Play">Big 10 College Football - Fanblogs.com: Krenzel May Not Play</a> – it’s a good thing we have that running game to fall back on. This is going to be a tough game for OSU.</p>
-</p>
-				<!-- <p><p><a href="http://www.fanblogs.com/big10/archives/000321.php" title="Big 10 College Football - Fanblogs.com: Krenzel May Not Play">Big 10 College Football - Fanblogs.com: Krenzel May Not Play</a> – it’s a good thing we have that running game to fall back on. This is going to be a tough game for OSU.</p>
-</p>
-				<p><a href="/blog/krenzel-may-sit-out-saturday" class="button">Read More</a> -->
 			</div>
 
 		</article>
