@@ -201,6 +201,36 @@
 		<article class="blog-post">
 
 			<div class="blog-post__header">
+				<h2 class="blog-post__title"><a href="/blog/win-server-2003-upgrade-problem-and-fix">Win Server 2003 Upgrade problem and fix</a></h2>
+				<p class="blog-post__subtitle">10 June 2003</p>
+			</div>
+
+			
+
+			<div class="blog-post__content">
+				<p><p>Pings are working again from my blog, I had a rocky week this week. I upgraded to Windows Server 2003 last week – why? Well, it just seemed like a fun thing to do. Plus I know how fast Microsoft dev resources migrate away from old platforms to the new platform, if you want great ongoing help and support you need to bite the bullet and run the latest stuff.</p>
+
+<p>But the upgrade initially hosed me. The IPSEC service failed to load with a really vague error message, and when IPSEC doesn’t load it takes the machine off net. You can turn IPSEC off, but critical services like DNS Client depend on it. For a week I limped along with IPSEC off, and my web server worked, but the machine couldn’t do any client name resolution (among other problems) and so trying to ping DNS names didn’t work.</p>
+
+<p>Thanks to the responsiveness of guys at Microsoft – Dave, Jawad, Stephen, Raymond, David, Osman, and more – we got it figured out. I had installed <a href="http://www.diamondcs.com.au">Port Explorer beta</a> a long time ago and had quit using it. But it installs Winsock providers and these were hanging around on my system – we discovered these by using the sporder.exe tool from the <a href="http://www.microsoft.com/msdownload/platformsdk/sdkupdate/">windows platform sdk</a>. On an upgrade to WinServer2003, these make IPSEC unhappy, it refuses to load, and things go to sh%t.</p>
+
+<p>Once I uninstalled Port Explorer, things righted themselves.</p>
+
+<p>I tried to use the online Microsoft support options to get this resolved – the KB, the support forums – but there was no info about, and the folks in the support forum just told me to reinstall. Thankfully the dev teams at Microsoft were super responsive. Thanks much guys!</p>
+</p>
+				<!-- <p><p>Pings are working again from my blog, I had a rocky week this week. I upgraded to Windows Server 2003 last week – why? Well, it just seemed like a fun thing to do. Plus I know how fast Microsoft dev resources migrate away from old platforms to the new platform, if you want great ongoing help and support you need to bite the bullet and run the latest stuff.</p>
+
+</p>
+				<p><a href="/blog/win-server-2003-upgrade-problem-and-fix" class="button">Read More</a> -->
+			</div>
+
+		</article>
+
+		
+
+		<article class="blog-post">
+
+			<div class="blog-post__header">
 				<h2 class="blog-post__title"><a href="/blog/tony-perkins-startup-advice">Tony Perkins Startup Advice</a></h2>
 				<p class="blog-post__subtitle">10 June 2003</p>
 			</div>
@@ -549,34 +579,6 @@
 
 </p>
 				<p><a href="/blog/more-comments-on-joels-piece-about-vcs" class="button">Read More</a> -->
-			</div>
-
-		</article>
-
-		
-
-		<article class="blog-post">
-
-			<div class="blog-post__header">
-				<h2 class="blog-post__title"><a href="/blog/no-wmds">No WMDs?</a></h2>
-				<p class="blog-post__subtitle">04 June 2003</p>
-			</div>
-
-			
-
-			<div class="blog-post__content">
-				<p><p>Everyone seems upset that we’ve found no WMDs – for instance – <a href="http://blogs.law.harvard.edu/philg/2003/06/04#a461" title="Philip Greenspun's Weblog:">Philip Greenspun</a> points to some UK news.</p>
-
-<p>Seems to me our government set too tight a definition for WMDs. Didn’t September 11 demonstrate that the worst WMDs by far are people and organizations of people? With trivial technology, just people can cause all kinds of harm.</p>
-
-<p>If I was in charge of the case for the war, I would have included people and organizations within the definitions of WMDs; particularly people and organizations that foment and export hatred of our culture/society (or really any culture/society, as it is the hatred and the actions that hatred bring on that we want to target).</p>
-
-<p>But then, no one asked me.</p>
-</p>
-				<!-- <p><p>Everyone seems upset that we’ve found no WMDs – for instance – <a href="http://blogs.law.harvard.edu/philg/2003/06/04#a461" title="Philip Greenspun's Weblog:">Philip Greenspun</a> points to some UK news.</p>
-
-</p>
-				<p><a href="/blog/no-wmds" class="button">Read More</a> -->
 			</div>
 
 		</article>
