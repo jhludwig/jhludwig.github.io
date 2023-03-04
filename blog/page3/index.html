@@ -201,6 +201,43 @@
 		<article class="blog-post">
 
 			<div class="blog-post__header">
+				<h2 class="blog-post__title"><a href="/blog/career-advice">How important is your job to your company?</a></h2>
+				<p class="blog-post__subtitle">17 January 2022</p>
+			</div>
+
+			
+			<a href="/blog/career-advice" class="blog-post__image" style="background-image: url(/images/blog/epicenter2022.png);"></a>
+			
+
+			<div class="blog-post__content">
+				<p><p><a href="https://twitter.com/Carnage4Life">Dare Obasanjo</a> has a <a href="https://twitter.com/Carnage4Life/status/1483073446045118464?s=20">nice post with a simple framework for evaluating job alternatives</a>.</p>
+
+<p>It led me to reflect on my own job selection logic.  When I started my career back in the 80s, I was working in the Midwest, and it was a time of industrial restructuring and downsizing.  Layoffs were unfortunately common.  A very smart colleague at Booz-Allen, Bert Jones (who I have lost contact with), shared these simple ideas with me.</p>
+
+<p>If you want to avoid layoffs, you should</p>
+
+<ul>
+  <li>work in the most important business (or businesses) to the company.  This means learning to read company financials and really understanding where revenues, margins, and growth comes from.</li>
+  <li>and in that business, have a job either making things or selling things.  Every other job is subject to downsizing.  But if you are making or selling the most important things to the company, you are pretty safe.</li>
+</ul>
+
+<p>These points were useful more generally throughout my career.  Even when I was at Microsoft during a period of heady growth, and layoffs were not a threat, these factors impacted directly how much support I received – the closer I was to the core Windows (or Office) businesses, the more support I received, and the more opportunities I had to have an impact.</p>
+
+<p>Of course, this also put me closer to the maelstrom, with greater focus on my performance, and that is not always the right fit, but I enjoyed it at the time.</p>
+</p>
+				<!-- <p><p><a href="https://twitter.com/Carnage4Life">Dare Obasanjo</a> has a <a href="https://twitter.com/Carnage4Life/status/1483073446045118464?s=20">nice post with a simple framework for evaluating job alternatives</a>.</p>
+
+</p>
+				<p><a href="/blog/career-advice" class="button">Read More</a> -->
+			</div>
+
+		</article>
+
+		
+
+		<article class="blog-post">
+
+			<div class="blog-post__header">
 				<h2 class="blog-post__title"><a href="/blog/poker-rosewater-lincoln">Recent Books -- Biggest Bluff, Rosewater, Lincoln Highway, Mexican Gothic</a></h2>
 				<p class="blog-post__subtitle">08 January 2022</p>
 			</div>
@@ -837,96 +874,6 @@
 </ul>
 </p>
 				<p><a href="/blog/recent-books-weak-spot" class="button">Read More</a> -->
-			</div>
-
-		</article>
-
-		
-
-		<article class="blog-post">
-
-			<div class="blog-post__header">
-				<h2 class="blog-post__title"><a href="/blog/wifi-tokens-hype-change">Learnings -- WiFi, Tokens, Hype, Change</a></h2>
-				<p class="blog-post__subtitle">13 October 2021</p>
-			</div>
-
-			
-			<a href="/blog/wifi-tokens-hype-change" class="blog-post__image" style="background-image: url(/images/blog/token.jpeg);"></a>
-			
-
-			<div class="blog-post__content">
-				<p><h3 id="the-fallacy-of-mid-market-network-gear">The fallacy of mid-market network gear</h3>
-
-<p>We have always used “consumer grade” networking gear in our house.  Cable modems off of Amazon, <a href="https://eero.com">Eero</a> wifi access points (and apple wifi access points before that).  The Eeros have a great mobile app and have generally been easy to setup and largely bulletproof.</p>
-
-<p>But I don’t love being the IT guy for the house.  So against my better judgement, in our current house I was talked into mid-market “var friendly” devices — <a href="https://araknisnetworks.com">Araknis routers</a> and <a href="https://www.commscope.com/product-type/enterprise-networking/wireless-access-points/">Ruckus access points</a> with professional install.  It has not been very clean.  These vendors have crap mobile apps and the gear isn’t designed for users to manage.  Our installer is not able to debug as he is busy doing installs.  There is no consumer support path.</p>
-
-<p>Our WiFi networks kept dropping a couple times a day.  We complained about and got no answers besides “have you tried rebooting”.  So I wrote a python script to monitor our connection every 10 seconds, and discovered that our connections were dropping every 12 hours exactly.  I put my macbook on the wired network and ran the same script, no drops.  So it seemed access point specific.</p>
-
-<p>After weeks of badgering my installer, I finally got login admin access to both the Araknis routers and the Ruckus access points.  The Araknis system logs show no problems.  The Ruckus access points all reported connectivity problems every 12 hours.  Ding ding.  Back to the Araknis UI, and guess what the DHCP lease length is set to?  12 hours.  Ding ding ding.  I set it to 72 hours and all has been relatively good since then.</p>
-
-<p>There are so many problems here.</p>
-
-<ul>
-  <li>Our installer doesn’t have the time or depth to solve these problems.</li>
-  <li>The Ruckus and Araknis products don’t expose config tools to users.</li>
-  <li>The Araknis has a stupid 12 hour default for DHCP.</li>
-  <li>The Ruckus devices are stupidly on dynamic IPs by default, and all 3 of them try to do lease renewal at the exact same time.</li>
-  <li>Neither Araknis nor Ruckus have effective consumer support services.</li>
-  <li>The Ruckus issues with DHCP are clearly known in user forums, for some time, and Ruckus does nothing about.</li>
-  <li>All of this just creates pain for consumers and for our installer.  If I was an installer I would dump all this crap and install consumer grade devices.</li>
-</ul>
-
-<p>Almost all these problems go away with <a href="https://eero.com">Eeros</a>.  I hear very good things about <a href="https://ui.com/consoles">Unifi</a> too tho their website reads like they are creeping into the mid-market which scares me.</p>
-
-<p>I am probably never going to get to step out of the role of home IT guy.  All I can do is buy products that automate a lot of the problems away or give me easy self service solutions.</p>
-
-<h3 id="what-are-tokens-exactly">What are tokens exactly?</h3>
-
-<p>When I am not in the router weeds, I am trying to keep up with the new hotness.  This is a good explanation of <a href="https://tomtunguz.com/equity-cap-table-vs-token-cap-table/">cap tables for crypto companies</a>.</p>
-
-<p>Historically when an entity issues a financial instrument, it is backed by some guarantee of financial value.  The government issues currency, backed by the taxing power of the government.  Municipalities issue bonds, backed by their taxing power.  Corporations issue bonds, backed by their ability to generate cash to cover the bonds.  Companies issue equity, which is a claim on the cash flow and earnings of the company.  Etc.</p>
-
-<p>What exactly are tokens backed by?  They aren’t a claim on the issuing company’s cash flow or equity. (And why not?)  The company could create an arbitrary number of new distinct token offerings.  A token is just a claim on the part of the token pool it is in, and there is no economic value associated with that, except for whatever the token holders decide, or what the tokens can be traded for.  They seem pretty vacuous.</p>
-
-<h3 id="maybe-i-am-done-with-the-tech-industry-for-now">Maybe I am done with the tech industry for now</h3>
-
-<p>The tech industry has always had an affinity for hucksterism.  <a href="https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt">FUD</a> and <a href="https://en.wikipedia.org/wiki/Vaporware">vaporware</a> were big deals when I started in the industry.  (And it is not like the tech industry originated these practices – go read the history of Edison, or the various trading companies during the mercantile era.  I am sure these practices span all of human commercial activity and will continue to do so.)</p>
-
-<p>But you tire of it.  And as I try to keep up with crypto and NFTs, I find myself more and more aligned with some of the harsh critics – <a href="https://twitter.com/FoldableHuman/status/1445986978189639680?s=20">NFT criticism</a> by Dan Olson, <a href="https://twitter.com/CapnKarlisle/status/1447965481281933320?s=20">more NFT criticism</a>, <a href="https://twitter.com/smdiehl">crypto critic</a> Stephen Diehl.</p>
-
-<p>I could just sit back and be a critic.  But maybe I should just be done with the tech industry for a while.  I will always be an enthusiastic user of tech.  But the industry machinations and hype cycle is just not fun or interesting right now.</p>
-
-<h3 id="but-i-dont-really-want-to-quit-understanding-change">But I don’t really want to quit understanding change</h3>
-
-<p>The day you quit embracing change and quit learning is the day you die, or at least that is what my grandfather said.  <a href="https://seths.blog/2021/10/shift-your-tech-time-horizon/">Seth Godin on embracing change</a> – “We can choose to live behind the curve or ahead of it.”</p>
-
-<p>I have a slightly different formulation of this.  Technology change, and change of any sort, is constantly sweeping through our society, largely uncontrolled by any of us, crashing like waves.</p>
-
-<p>And the wave metaphor is good — you can deal with these waves in a couple ways.  You can twist your feet into the sand, anchoring yourself, and try to fight off the waves.  Or — you can grab a board and surf them.</p>
-
-<p><a href="https://www.washingtonpost.com/business/2021/10/12/jolts-workers-quitting-august-pandemic/">Something big is changing in our society about employment</a>.  I don’t really understand it yet.  I am listening and learning.  When the generation before ours went to work, they dedicated themselves to a company for a lifetime, and the company dedicated itself to them.  My generation still had a lot of that, tho 5-10 years at a job was considered an ok amount of time, and company pensions started to disappear.  The commitment level on both sides has continued to drift down. It is going to be interesting to see how this evolves.</p>
-
-<h3 id="random-things-bubbling-up-to-the-surface">Random things bubbling up to the surface</h3>
-
-<p>I do love <a href="https://breakfastny.com/works">interactive art</a>.  I might play around with <a href="https://troikatronix.com">Isadora</a></p>
-
-<p><a href="https://ifdb.org">Interactive fiction db</a> and <a href="https://twinery.org">twinery</a> tool.  Interactive fiction games were part of my early intro to personal computing.</p>
-
-<p>I was playing around the neopixel LED strips and posted <a href="https://github.com/jhludwig/ledstrip">a little code i wrote to control one via MQTT</a>.  Might be helpful to someone playing around with.</p>
-
-<p>The <a href="https://www.yayagram.xyz/en/">yayagram</a> — a physical device for interacting via Telegram.</p>
-
-<p><a href="https://www.thriftbooks.com/blog/2021-national-book-award-finalists">National Book Award Finalists</a> – always good choices</p>
-
-<p>When I was a kid, we visited the <a href="https://www.vice.com/en/article/y3dy9x/people-work-100-days-straight-kelloggs-workers-shut-down-cereal-factories?ref=thefuturist">cereal factories in Kellogg, Michigan</a>.  I love a good factory tour, but the smell of millions of pounds of grain cooking was enough to turn me off cereal for a long time.  I can’t imagine working there.</p>
-
-<p>I used to make <a href="https://makezine.com/2021/09/30/make-your-own-realistic-halloween-tombstone/">my own tombstones</a> for Halloween.</p>
-</p>
-				<!-- <p><h3 id="the-fallacy-of-mid-market-network-gear">The fallacy of mid-market network gear</h3>
-
-</p>
-				<p><a href="/blog/wifi-tokens-hype-change" class="button">Read More</a> -->
 			</div>
 
 		</article>
