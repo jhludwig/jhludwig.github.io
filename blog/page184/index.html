@@ -201,6 +201,46 @@
 		<article class="blog-post">
 
 			<div class="blog-post__header">
+				<h2 class="blog-post__title"><a href="/blog/kvm-adventures-at-home">KVM adventures at home</a></h2>
+				<p class="blog-post__subtitle">01 February 2004</p>
+			</div>
+
+			
+
+			<div class="blog-post__content">
+				<p><p>So for the last several weeks I’ve been playing around with KVMs at home.  I built a new Shuttle box and I wanted to use it and my existing PC from my desk.  I’ve used a KVM for years at work to switch between my desktop and server and have never had a problem, although the KVM doesn’t support audio switching.  So I thought this would be easy at home.</p>
+
+<p>My first realization – my home desktop is a lot more complicated than work.  Besides KVM switching, I really need audio switching, I’d like USB switching (for modern KBs and mice, as well as cameras, label printer, etc).  And audio switching is getting complicated as I move from 2.1 speaker setups to analog N.1 and then to SPDIF.  And video switching is getting complicated as we move from analog to DVI and beyond.  I’ll talk later about this, but the connection story between the PC under the desk and the desktop is a mess – video, power, mouse, kb, audio, usb, maybe firewire.  Putting a good intermediary in place like a KVM is crazily complicated. </p>
+
+<p>My second realization – Belkin has the world’s best retail distribution strategy.  I’m not sure who runs their distribution but that person is kicking ass.  It is hard to find anything besides a Belkin choice in the retail channel.  Too bad their products don’t quite measure up…</p>
+
+<p>My first attempt was the <a href="http://catalog.belkin.com/IWCatProductPage.process?Merchant_Id=&amp;Section_Id=201729&amp;pcount=&amp;Product_Id=160623">Belkin Omniview 2-Port USB KVM with Audio</a>.  It promised VGA, KB, Mouse, Audio (2.1 analog), and USB switching.  It wasn’t too hard to setup, you do need to buy the cables separately.  The biggest pain about setup is that this KVM is a USB hub and each of the connected deskstops needs to recognize the hub, install drivers, etc.  But once set up, it seemed to work.  But after about a day of use, it was clear this box was a failure.  The problem, I believed, was due to its buggy USB implementation.  The mouse and kb routed thru the USB hub, and the KVM would routinely drop kb events – for instance if I held down the CTRL key and tried to select a lot of items in my inbox, after about 5 seconds the system would forget that the CTRL key was held down.  And games were unplayable for the same reason.  And finally this KVM only supports USB 1.1, and some of my desktop devices were 2.0 compatible, and XP kept chattering about the incompatibility.</p>
+
+<p>Attempt 2: The <a href="http://www.aten-usa.com/products/product.php?Item=ACS1722">ATEN USB 2.0 KVM</a>.  Since my problems above were USB-related (and since I had had problems with Belkin USB desktop hubs in the past), I decided to go try a different vendor’s USB solution, and go for higher speed USB.  Along the way I bought a <a href="http://www.creative.com/products/product.asp?prodid=9103">Creative USB Audigy</a> soundsystem (which works great by the way), so that I wouldn’t need audio switching in the KVM but could use the USB switching to achieve audio switching.  This solution lasted even less time.  Again USB problems – the two machines had trouble reliably seeing keypresses, and I kept hearing PNP insert/remove sounds, telling me that the machines were not able to reliably keep connections to the USB devices.  I concluded at this point that any USB-based KVM was likely to be trouble; I wanted a simpler KVM that was just electrically switching signals.</p>
+
+<p>So attempt 3: A cheap PS/2-based KVM with Audio, I think <a href="http://shop1.outpost.com/product/3780396#detailed">this one</a> from PPA, it was on sale at Fry’s.  I went back to switching 2.1 analog sound with this approach.  This solution worked for about 5 minutes and then I gave up on it.  The keyboard kept going dead – none of the keyboard lights would light, it seemed like it wasn’t getting power.  This KVM is supposedly “self-powered”, drawing power from the kb port on the host PCs.  I concluded this was a bad idea – I have had self-powered USB hubs in the past and they rarely work well, I don’t think the power delivery over the kb port on most PCs is adequate for these scenarios.  So onto…</p>
+
+<p>Attempt 4: The <a href="http://catalog.belkin.com/IWCatProductPage.process?Merchant_Id=&amp;Section_Id=201729&amp;pcount=&amp;Product_Id=160611">Belkin Omniview PS/2 model</a>.  No clever USB hub, nothing fancy, just electrical switching of analog signals across the board.  And separately powered.  So far, I am happy with this solution, it seems stable.  And doesn’t drop events.  Now I do notice it doesn’t respond to the soft-key “switch pc” command as well as the USB hubs, it is probably harder to detect the key combo.  But that is an error case I can live with.</p>
+
+<p>So in summary, if you want to use a KVM at home today – stick with analog switching of VGA, 2.1 audio, PS/2 mouse, PS/2 kb.  USB switching is problematic. </p>
+
+<p>I’m not very satisfied with this, I want to start playing around with DVI and SPDIF switching – there are some kvms that do DVI.  And I wish I could switch USB but my learning is that the USB functionality in these boxes is crap.</p>
+
+<p>What I really think I want is a really small form factor PC on my desktop – maybe integral with my monitor – that supports DVI/SPDIF/USB/Firewire outputs, and can take input feeds of all these signals over IP from arbitrary remote machines.  Then I could just have power and IP fed up to my desktop, and everything could hub out from one device on my desktop – probably my monitor.</p>
+</p>
+				<!-- <p><p>So for the last several weeks I’ve been playing around with KVMs at home.  I built a new Shuttle box and I wanted to use it and my existing PC from my desk.  I’ve used a KVM for years at work to switch between my desktop and server and have never had a problem, although the KVM doesn’t support audio switching.  So I thought this would be easy at home.</p>
+
+</p>
+				<p><a href="/blog/kvm-adventures-at-home" class="button">Read More</a> -->
+			</div>
+
+		</article>
+
+		
+
+		<article class="blog-post">
+
+			<div class="blog-post__header">
 				<h2 class="blog-post__title"><a href="/blog/construction-failure">Construction Failure</a></h2>
 				<p class="blog-post__subtitle">01 February 2004</p>
 			</div>
@@ -508,27 +548,6 @@
 				<!-- <p><p>From Mobilewhack, news that <a href="http://www.mobilewhack.com/programming/basic/mobile_basic.html" title="MobileWhack">Basic</a> and <a href="http://www.mobilewhack.com/programming/perl/perl_on_nokia.html">PERL</a> are coming to phones. I’d love to replace my stupid default phone screen with a little script that succinctly displayed the weather forecast, the most recent scores and next scheduled game for my favorite teams.</p>
 </p>
 				<p><a href="/blog/basic-perl-on-phones" class="button">Read More</a> -->
-			</div>
-
-		</article>
-
-		
-
-		<article class="blog-post">
-
-			<div class="blog-post__header">
-				<h2 class="blog-post__title"><a href="/blog/where-ive-been">Where I&#039;ve Been</a></h2>
-				<p class="blog-post__subtitle">22 January 2004</p>
-			</div>
-
-			
-
-			<div class="blog-post__content">
-				<p><p><a href="http://battellemedia.com/archives/000249.php" title="John Battelle's Searchblog: I Know I Saw It Somewhere...">John Battelle’s Searchblog: I Know I Saw It Somewhere…</a> … hmm, don’t I just want to use my blog as my history of interesting and relevant sites? At least for me, the blog is the best repository of sites I need to remember – I get to add commentary to the link, I can search the links, the links are available every place I need them.</p>
-</p>
-				<!-- <p><p><a href="http://battellemedia.com/archives/000249.php" title="John Battelle's Searchblog: I Know I Saw It Somewhere...">John Battelle’s Searchblog: I Know I Saw It Somewhere…</a> … hmm, don’t I just want to use my blog as my history of interesting and relevant sites? At least for me, the blog is the best repository of sites I need to remember – I get to add commentary to the link, I can search the links, the links are available every place I need them.</p>
-</p>
-				<p><a href="/blog/where-ive-been" class="button">Read More</a> -->
 			</div>
 
 		</article>
