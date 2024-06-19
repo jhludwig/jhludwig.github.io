@@ -201,6 +201,68 @@
 		<article class="blog-post">
 
 			<div class="blog-post__header">
+				<h2 class="blog-post__title"><a href="/blog/a-monte-carlo-simulation-of-the-big10-race">A Monte Carlo Simulation of the Big10 Race</a></h2>
+				<p class="blog-post__subtitle">02 November 2011</p>
+			</div>
+
+			
+
+			<div class="blog-post__content">
+				<p><p>November is shaping up to be quite the race in the Big10, I have to say, the addition of divisions and a championship game have created a great new dynamic (and makes me rethink my objection to a playoff, hmmm.)</p>
+
+<p>Many sites have written about all the permutations of possible teams in the championship game, and the surprising fact that OSU is not out of it, and in fact has a very good shot at making the game. Being a bit of a nerd, I decided to play around with a “Monte Carlo simulation”:http://en.wikipedia.org/wiki/Monte_Carlo_method of the race to the championship game.</p>
+
+<p>I wrote a little C program that does any arbitrary number of iterations of the rest of the season and examines the results to determine the championship game participants. The outcome of each game is determined randomly – a random number is selected from 0-1 and used as an index against the a priori probability (as made up by me) that each team would win the game. I.E., if you believe Northwestern has a 70% chance of beating Minnesota, then any random number from 0 to .7 implies a Northwestern win. I used the c rand function with a time-based seeding on each run, please no complaints about the quality of my random numbers, I am just simulating football games for gosh sakes. I toyed around with the a priori probabilities a little to see how sensitive the outcomes were. And then at the end of the season, I apply all the tiebreakers if necessary to see what teams represent the divisions in the title game. I ran the simulation 1000 times, and a few runs of 10,000 trials just for yuks. The 1000 run simulation</p>
+
+<p>So – the Legends division. Not surprisingly, due to the weakness of their remaining schedule, MSU is the title game rep ~2/3rds of the time. Nebraska about ~1/3, and Michigan picks up a smattering (1%) of appearances. Since Michigan has already lost to MSU, if they ever end up tied in the standings, MSU always takes the spot. Michigan needs MSU and Nebraska to both falter (and can control the Nebraska since they have yet to play) and also needs to beat OSU, Illinois, Iowa. A tough road. This weekend’s play won’t shake things up much, the most interesting game is the Michigan-Iowa game, I would have picked Iowa a week ago but losing to Minnesota has shaken my faith in the F(erentz) Troop. The Nov 12th weekend will be more entertaining – MSU@Iowa, Michigan@Illinois, Nebraska@PSU. And then Nebraska@Michigan Nov 19th. It seems unlikely that Michigan will still be in the hunt by the time of the Ohio State game.</p>
+
+<p>The Leaders division is far more interesting. PSU has the inside track, no surprise being up 2 games on everyone else at this point. They take the title game spot 30-60% of the time, depending on how you view the likelihood of them winning their remaining games. If you think they are a slight favorite in all their remaining games, then 60%. If you think they are a modest underdog, then 30%. OSU has a surprisingly good shot, 20-25%, depending on how you rate their odds against Michigan and PSU, and because they are in a good tiebreaker position having beaten Wisconsin. Wisconsin picks up the pieces and has the weakest chance due to the OSU loss. The Nov 5th weekend will likely teach us nothing as PSU has a bye, OSU has Indiana, Wisconsin has Purdue. The Nov 12th Nebraska@PSU game is one to watch, and then Nov 19th with Wisconsin@Illinois and PSU@OSU is a defining weekend. There is a very real chance that on the final weekend, all 3 teams need a win to make it to the game – OSU is at Michigan and PSU is at Wisconsin, so that should be a great day.</p>
+</p>
+				<!-- <p><p>November is shaping up to be quite the race in the Big10, I have to say, the addition of divisions and a championship game have created a great new dynamic (and makes me rethink my objection to a playoff, hmmm.)</p>
+
+</p>
+				<p><a href="/blog/a-monte-carlo-simulation-of-the-big10-race" class="button">Read More</a> -->
+			</div>
+
+		</article>
+
+		
+
+		<article class="blog-post">
+
+			<div class="blog-post__header">
+				<h2 class="blog-post__title"><a href="/blog/we-arent-designing-for-fairness-we-are-designing-for-equality-of-opportunity">We aren't designing for fairness, we are designing for equality of opportunity</a></h2>
+				<p class="blog-post__subtitle">31 October 2011</p>
+			</div>
+
+			
+
+			<div class="blog-post__content">
+				<p><p>So someone asked me “Hey, with your views on the <a href="http://theludwigs.com/2011/10/im-in-the-1-and-i-support-the-99/">Occupy</a> movement, how do you feel about the fact that the top 10% pays 70% of federal income tax? Is that fair?”</p>
+
+<p>First of all, this is NOT the Occupy issue that gets me most excited – I am much more interested in limiting corporate political contributions. But I do have a view.</p>
+
+<p>I have no idea if these statistics are accurate, but I assume that the top 10% does pay a much larger share of the total income tax load. So is that fair? Well, I am guessing that the top 10% also own a huge % of the Audis and BMWs in the country, eat a disproportionate share at the finest restaurants, take a huge % of the vacation trips to Hawaii, have a disproportionate share of the nicest houses, etc etc. Gosh that doesn’t seem fair either.</p>
+
+<p>The goal of our market system and society is not fairness in outcomes; there is always going to be variance in outcomes, sometimes due to skill, sometimes due to luck. Some people will earn a lot more, and will get a greater share of the positive benefits as well as costs. Rather, the goal is equality of opportunity – every citizen should have the opportunity to achieve their dreams, no doors should be closed at the start of their life/career.</p>
+
+<p>Thus I don’t get cranked about higher tax burdens or higher tax rates for the wealthy. So someone who is extraordinarily successful has to carry a higher share of the cost of operating our society, well boo hoo. I do get more cranked about issues that affect equality of opportunity – lack of funding for public schools, lack of equal healthcare for all children, lack of access to other education for lower income students (and this is why we give a lot to scholarship programs at OSU, at UW, at the Point Foundation, etc).</p>
+
+<p>Outcomes will never be equal and we shouldn’t try to level them out, the free market system is powerful and we need to nurture it. But we should try to ensure that everyone has an equal opportunity to pursue happiness – and to me that means everyone gets a fair starting point: a reasonable education, good health, and no crushing debt load to start out.</p>
+</p>
+				<!-- <p><p>So someone asked me “Hey, with your views on the <a href="http://theludwigs.com/2011/10/im-in-the-1-and-i-support-the-99/">Occupy</a> movement, how do you feel about the fact that the top 10% pays 70% of federal income tax? Is that fair?”</p>
+
+</p>
+				<p><a href="/blog/we-arent-designing-for-fairness-we-are-designing-for-equality-of-opportunity" class="button">Read More</a> -->
+			</div>
+
+		</article>
+
+		
+
+		<article class="blog-post">
+
+			<div class="blog-post__header">
 				<h2 class="blog-post__title"><a href="/blog/the-web-interface-for-my-house-is-woefully-inadequate">The web interface for my house is woefully inadequate.</a></h2>
 				<p class="blog-post__subtitle">26 October 2011</p>
 			</div>
@@ -564,70 +626,6 @@
 
 </p>
 				<p><a href="/blog/icloud-photostream-and-dslrs-dont-seem-to-be-a-great-fit" class="button">Read More</a> -->
-			</div>
-
-		</article>
-
-		
-
-		<article class="blog-post">
-
-			<div class="blog-post__header">
-				<h2 class="blog-post__title"><a href="/blog/my-overall-reaction-to-ios5-confusion">My overall reaction to iOS5? Confusion.</a></h2>
-				<p class="blog-post__subtitle">13 October 2011</p>
-			</div>
-
-			
-
-			<div class="blog-post__content">
-				<p><p>OK like the rest of the working world I spent hours yesterday trying to upgrade my iPhone4 and iPad2 to iOS5. About a dozen retries for the phone, maybe half that for the iPad, and I finally got there. Not a great experience but no harm done, just a half day of my life wasted that I will never get back, Apple.</p>
-
-<p>So now what? Well my iPhone 4 seems a little zippier but I suspect that is largely due to grinding the old OS off and laying down a bright new clean install. I like the tabs in the Safari. The Newstand seems like an utter waste and sadly cannot be off hidden in an “Utter Waste” folder, thanks Apple. Notifications are cleaner. Renaming the iPod app to Music is good.</p>
-
-<p>and iCloud? Well this is just confusing. Settings spewed all over the control panel – in the iCloud section, but also in the mail/contacts/calendar section, the photos section, the notes section, the store section. Much discussion online about how to make this all work with exchange and how it does or doesn’t work with outlook – for instance http://daggle.com/outlook-icloud-google-calendar-sync-2748. I’ve no idea where things are actually stored in the cloud – the photostream for instance that I have turned on, where is it, can I go see it at a URL? Or Notes – they are associated with an account now, my gmail account. So when I create a new note does it go somewhere in the cloud? Where? The only thing that my cloud control panel lists as being stored is a backup of my phone – why exactly do I want to do this, I never had this in the cloud before, why do I want it in the cloud now?</p>
-
-<p>The design compromises of iCloud – storage limits, and trying to work with a bunch of existing cloud services – seem to have led to a really fractured, incomplete experience. Not all my stuff is in the cloud, what is in the cloud is spewed across many services, and I don’t really know where anything is. Yay.</p>
-
-<p>UPDATE: Ok, new Notes show up in a gmail folder named Notes. Which seems strange, why would I want my notes there? And not in Google Docs or Dropbox or Evernote or … ?</p>
-</p>
-				<!-- <p><p>OK like the rest of the working world I spent hours yesterday trying to upgrade my iPhone4 and iPad2 to iOS5. About a dozen retries for the phone, maybe half that for the iPad, and I finally got there. Not a great experience but no harm done, just a half day of my life wasted that I will never get back, Apple.</p>
-
-</p>
-				<p><a href="/blog/my-overall-reaction-to-ios5-confusion" class="button">Read More</a> -->
-			</div>
-
-		</article>
-
-		
-
-		<article class="blog-post">
-
-			<div class="blog-post__header">
-				<h2 class="blog-post__title"><a href="/blog/fire-gene-smith-scapegoating-doesnt-address-the-underlying-issues">Fire Gene Smith? Scapegoating doesn't address the underlying issues</a></h2>
-				<p class="blog-post__subtitle">05 October 2011</p>
-			</div>
-
-			
-
-			<div class="blog-post__content">
-				<p><p><a href="http://theludwigs.com/wp-content/uploads/2011/10/GeneSmith.jpg"><img src="images/GeneSmith-300x256.jpg" alt="" title="GeneSmith" /></a>OK so <a href="http://espn.go.com/college-football/story/_/id/7054653/three-ohio-state-buckeyes-suspended-summer-job-pay-two-suspensions-extended">more trouble for the Buckeyes</a> and “FireGeneSmith”:http://firegenesmith.com/ is now active.</p>
-
-<p>The “Fire Person X” strategy hasn’t worked out well so far for Ohio State. The theory behind firing someone is that this individual is responsible for all the problems, if we get rid of him/her that will fix the problem. So Ohio State fires the coach and “fires” the most visible player involved with past violations. Surprise, violations are still happening after these people are gone. So lets find some more people to fire, damn it, the rot must be within one of them.</p>
-
-<p>When a problem happens, firing someone is the crudest and least-effective tool;, it is pretty much the hallmark of a bad manager. A good manager will understand the causes of the problem, and then will talk with the employees involved to assess what they have learned from the situation, if they will avoid this problem in the future, if they can still be effective at doing their job (and maybe doing it better now that they have learned what not to do). A good manager will only replace a person if they aren’t learning from the mistake (and thus repeating it), and of course a good manager only replaces someone if the manager believes there is a better solution available.</p>
-
-<p>Ohio State pretty much failed these tests in their firing of Tressel. Was Tressel learning from his mistakes? He seems like someone who takes mistakes to heart. Did Ohio State have a better candidate available? On the field and off the field, the answer is obviously “no” at this point. Did firing Tressel get at the root problem? Obviously not, and now the university, having already fired the “It’s Tressel’s fault” bullet, has to cast around and blame someone else.</p>
-
-<p>And so now it is Gene Smith’s turn on the hotseat. The problems in the football program now are all on him. So should he just be fired? Well, reading above, firing him in kneejerk fashion may not be helpful. However, Gene has made some big mistakes in the past year:</p>
-
-<p>* The kneejerk firing of Tressel. Read above. Gene has done a poor job diagnosing the problems in the program and reacting to them. Does Gene understand this? Would he behave differently? These are conversation points for Gene and his superiors. * Inability to handle pressure from press and trustees. Did Gene fire Tressel prematurely in the face of pressure from media and from trustees responding to media? This kind of pressure is just part of the job, and if Gene cannot handle it on an ongoing basis, he is not the right guy. * Inability to get out in front of the compliance issue. The various strategies of denial, containment, NCAA appeasement, back-room dealing, lobbying for cost of attendance increases, etc – they don’t seem to be working out. Does Gene have the ability to navigate these waters? If not, who does?</p>
-
-<p>It is clearly time for heart to heart discussions between Gene and his superiors on all these points. It may be time for him to go. But Gene may also be exactly the best guy for the job right now, if he has learned from the past year of painful decisions.</p>
-</p>
-				<!-- <p><p><a href="http://theludwigs.com/wp-content/uploads/2011/10/GeneSmith.jpg"><img src="images/GeneSmith-300x256.jpg" alt="" title="GeneSmith" /></a>OK so <a href="http://espn.go.com/college-football/story/_/id/7054653/three-ohio-state-buckeyes-suspended-summer-job-pay-two-suspensions-extended">more trouble for the Buckeyes</a> and “FireGeneSmith”:http://firegenesmith.com/ is now active.</p>
-
-</p>
-				<p><a href="/blog/fire-gene-smith-scapegoating-doesnt-address-the-underlying-issues" class="button">Read More</a> -->
 			</div>
 
 		</article>
