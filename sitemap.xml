@@ -2,11 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/about</loc>
-<lastmod>2026-02-12T13:58:00-08:00</lastmod>
+<lastmod>2026-03-21T12:31:35-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/thanks</loc>
-<lastmod>2026-02-12T13:58:00-08:00</lastmod>
+<lastmod>2026-03-21T12:31:35-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blog/northwest-news-104-well-september</loc>
@@ -16239,6 +16239,10 @@
 <url>
 <loc>http://localhost:4000/blog/brooklyn</loc>
 <lastmod>2026-02-12T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/problem</loc>
+<lastmod>2026-02-28T00:00:00-08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/project/demo-project</loc>
